@@ -24,6 +24,7 @@ Owner brief that drove this research:
 | [02-tough-meat-science.md](02-tough-meat-science.md) | Collagen science, time and temperature trade-offs, fast vs slow vs pressure, old-hen specifics, thaw rigor and frozen birds, broth |
 | [03-instant-pot-notes.md](03-instant-pot-notes.md) | Instant Pot company history, model line, measured specs, safety mechanisms, recall record, known weaknesses |
 | [04-cooking-strategy-brief.md](04-cooking-strategy-brief.md) | Short answers: why boiling seems rubbery, how pressure helps, where 1.5 psi and slow cooking sit on the gradient |
+| [05-liquid-acid-flavor.md](05-liquid-acid-flavor.md) | Liquid level per method and dry-out risk, acid and alkali and enzymes, and how to get flavor deep into the meat |
 | [figures/tenderness-map.png](figures/tenderness-map.png) | Graph: time-to-tender vs temperature with every liquid method pinpointed (SVG and script alongside) |
 | [data/pressure-temperature-table.csv](data/pressure-temperature-table.csv) | Gauge pressure to steam temperature, computed from the Antoine equation for water |
 | [data/cooker-traits.csv](data/cooker-traits.csv) | Spec sheet of representative electric and stovetop cookers used as trait examples |

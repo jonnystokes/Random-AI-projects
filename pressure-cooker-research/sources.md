@@ -242,3 +242,58 @@ directly and only a search excerpt was read, that is noted.
   https://mrcrazykicks.com/the-best-way-to-cook-an-old-hen-coq-au-vin/
 - From-frozen whole chicken times (60 to 70 min for 4 to 5 lb).
   https://ifoodreal.com/instant-pot-frozen-chicken/
+
+## Liquid, acid, flavor (document 05)
+
+- Erdem, N. (2025). Assessment of the impact of fruit vinegars on the tenderness and
+  quality attributes of spent hen meat. 83-week-old hens; 30% fruit vinegar, 24 h at
+  4°C; shear 30.6 to 10.8 N; cooking loss 49.7 to 38.7%.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC12214402/
+- Burke & Monahan (2003). Tenderisation of shin beef using a citrus juice marinade.
+  Meat Science. Collagen solubility 9 to 29%; shear 178 to 44 N/cm2; pH 5.7 to 3.1.
+  https://www.sciencedirect.com/science/article/abs/pii/S0309174002000621
+- Marination ingredients on meat quality and safety, a review (Food Quality and
+  Safety, 2023): acids, bicarbonate 0.3% max, phosphates, salt, enzymes.
+  https://academic.oup.com/fqs/article/doi/10.1093/fqsafe/fyad027/7191307
+- Effect of sodium chloride on sous vide cooked duck (2023): 70°C 10 h; weight loss
+  39.3% unsalted to 29.8% at 15% brine; shear rises with salt.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC10528248/
+- Stefan's Gourmet Blog, sous vide salting experiment (24 h at 55°C; 2% cure lost
+  4 to 7% vs 12% unsalted; salt equal throughout).
+  https://stefangourmet.com/2014/05/14/sous-vide-salting-experiment/
+- Stefan's Gourmet Blog, why cover and insulate a sous vide container (8 L at 74°C
+  uncovered lost about 0.25 L per hour).
+  https://stefangourmet.com/2021/01/02/why-you-should-cover-and-insulate-your-sous-vide-container/
+- Cook's Illustrated, marinating myths (wine under 1 mm in 18 h; acid mushes surface).
+  https://www.americastestkitchen.com/cooksillustrated/how_tos/5562-marinating-myths
+- Washington Post, marinating primer (salt 1 to 2 cm in 12 h; others 2 to 3 mm).
+  Search excerpt.
+  https://www.washingtonpost.com/news/voraciously/wp/2018/05/25/simple-answers-to-the-tough-questions-about-marinating-meat/
+- AmazingRibs, marinade science and injecting brine (blocked fetch; injection 1 oz
+  per lb, 2 to 4% salt, dissolved ingredients only, from search excerpts).
+  https://amazingribs.com/tested-recipes/marinades-and-brinerades/science-of-marinades-and-brinerades/
+  https://amazingribs.com/tested-recipes/salting-brining-curing-and-injecting/injecting-brine-gets-flavor-deep/
+- Butcher BBQ chicken injection guide; BBQGuys injector guide.
+  https://butcherbbq.com/blogs/rubs-and-seasoning-care-how-to-apply-flavors/chicken-injection-guide-how-to-make-juicy-and-flavorful-poultry
+  https://www.bbqguys.com/a/40649/grillabilities/basic/marinade-injector
+- Destination BBQ brining methods and calculator (5% wet brine 4 to 8 h; 2% dry
+  brine 12 to 36 h; equilibrium 24 to 72 h).
+  https://destination-bbq.com/glossary/brining-methods/
+- Arm & Hammer and others, baking soda tenderizing (1/2 tsp per lb chicken, 15 to
+  20 min, rinse).
+  https://www.armandhammer.com/en/articles/baking-soda-meat-tenderizer
+- Enzymatic tenderization overdose study (0.1% bromelain, 25% ginger caused
+  disintegration).
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12899704/
+- Papain tenderizer usage (30 min to 4 h; active to about 160°F).
+  https://bucksspices.com/blogs/news/using-papain-as-a-meat-tenderizer-a-guide-to-juicy-tender-meats-papain-a-natural-enzyme-derived-from-the-papaya-fruit-has-been-used-for-centuries-in-culinary-practices-to-tenderize-meat-this-powerful-enzyme-breaks-down-the-tough-muscle-fibers-and-co
+- Slow cooker liquid guidance (sealed lid, condensation, chicken self-bastes).
+  https://www.tastingtable.com/2139468/does-slow-cooker-always-need-liquid/
+  https://cookedpan.com/problems-fixes/why-slow-cooker-food-turns-watery/
+- Pressure cooker trivet vs submerged chicken texture.
+  https://www.domestically-speaking.com/best-pressure-cooker-chicken/
+  https://www.americastestkitchen.com/recipes/14479-instant-pot-spice-rubbed-chicken
+- Instant Pot sous vide lid guidance (fully closed or off).
+  https://www.corriecooks.com/can-use-sous-vide-method-instant-pot/
+- Bone broth vinegar and mineral claims (10 vs 12 mg calcium per serving).
+  https://iamobsessed.substack.com/p/the-bone-broth-lies-youve-been-told
