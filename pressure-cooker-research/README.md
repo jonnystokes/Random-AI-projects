@@ -26,6 +26,7 @@ Owner brief that drove this research:
 | [06-freezer-to-plate-protocol.md](06-freezer-to-plate-protocol.md) | The recommended sequence from freezer to plate in table form, with the purpose of every step and every trait each addition brings |
 | [07-selection.md](07-selection.md) | Stage 2: ranked cooker selection against the owner's criteria, with prices and the reasoning |
 | [08-listing-review.md](08-listing-review.md) | Review of seven specific Amazon and eBay Pro Plus listings for delivery to Roseburg, Oregon, ranked |
+| [fridge-sheet/old-hen-fridge-sheet.pdf](fridge-sheet/old-hen-fridge-sheet.pdf) | Two-page printable fridge sheet: freezer-to-plate timeline, brine and injection recipes, three cook tracks, broth, reference tables, rules (script alongside) |
 | [figures/tenderness-map.png](figures/tenderness-map.png) | Graph: time-to-tender vs temperature with every liquid method pinpointed (SVG and script alongside) |
 | [data/pressure-temperature-table.csv](data/pressure-temperature-table.csv) | Gauge pressure to steam temperature, computed from the Antoine equation for water |
 | [data/cooker-traits.csv](data/cooker-traits.csv) | Spec sheet of representative electric and stovetop cookers used as trait examples |
