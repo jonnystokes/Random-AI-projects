@@ -1,9 +1,7 @@
 # Pressure Cooker Research: Stage 1 (Trait Study)
 
-Purpose of this stage: understand every trait a pressure cooker has, what each trait
-does to food, and which traits matter for turning a freezer full of old laying hens
-into tender meat. No cookers are recommended or ranked in this stage. Model names
-appear only as examples of what a trait looks like in the real world.
+Stage 1 (documents 01 to 06) is a trait study and cooking-method study; model names
+appear there only as examples. Stage 2 (document 07) is the ranked selection.
 
 Owner brief that drove this research:
 
@@ -26,6 +24,7 @@ Owner brief that drove this research:
 | [04-cooking-strategy-brief.md](04-cooking-strategy-brief.md) | Short answers: why boiling seems rubbery, how pressure helps, where 1.5 psi and slow cooking sit on the gradient |
 | [05-liquid-acid-flavor.md](05-liquid-acid-flavor.md) | Liquid level per method and dry-out risk, acid and alkali and enzymes, and how to get flavor deep into the meat |
 | [06-freezer-to-plate-protocol.md](06-freezer-to-plate-protocol.md) | The recommended sequence from freezer to plate in table form, with the purpose of every step and every trait each addition brings |
+| [07-selection.md](07-selection.md) | Stage 2: ranked cooker selection against the owner's criteria, with prices and the reasoning |
 | [figures/tenderness-map.png](figures/tenderness-map.png) | Graph: time-to-tender vs temperature with every liquid method pinpointed (SVG and script alongside) |
 | [data/pressure-temperature-table.csv](data/pressure-temperature-table.csv) | Gauge pressure to steam temperature, computed from the Antoine equation for water |
 | [data/cooker-traits.csv](data/cooker-traits.csv) | Spec sheet of representative electric and stovetop cookers used as trait examples |

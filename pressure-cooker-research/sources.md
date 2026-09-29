@@ -297,3 +297,43 @@ directly and only a search excerpt was read, that is noted.
   https://www.corriecooks.com/can-use-sous-vide-method-instant-pot/
 - Bone broth vinegar and mineral claims (10 vs 12 mg calcium per serving).
   https://iamobsessed.substack.com/p/the-bone-broth-lies-youve-been-told
+
+## Selection (document 07)
+
+- Instant Pot Pro Plus user manual (JCPenney mirror, extracted): Low 5.8 to 7.2 psi,
+  High 10.2 to 11.6 psi, Max 15 psi (95 to 115 kPa); sous vide 77 to 194°F; keep
+  warm custom 77 to 203°F; 1200 W; Natural/Pulse/Quick release selection.
+  https://www.mkt-jcpenney.com/prod/mkt/images/user-manual-fbe7059a-f192-4ec6-8995-7f399ffdaeae.pdf
+- Instant Pot Pro Max product page ($229.99 list; 1200 W; 10 functions; 1 year warranty).
+  https://instantpot.com/products/instant-pot-pro-max-6qt-multi-cooker
+- Instant Pot Pro Plus deal listings ($169.95 recent; $140 in 2024).
+  https://theinventory.com/instant-pot-pro-plus-6-qt-10-in-1-electric-pressure-cooker-black-multicooker-6-q-a246d68f
+  https://slickdeals.net/f/17780712-instant-pot-6qt-pro-plus-with-wifi-120v-black-140
+- Instant Pot Pro deal listings ($99.99 Prime; $79.95 low).
+  https://slickdeals.net/f/18638680-amazon-prime-members-instant-pot-pro-10-in-1-black-6-quart-99-99
+- Nesco NPC-9 product page ($169.99; 10 and 15 psi weighted limiting valves; ETL).
+  https://www.nesco.com/product/9-qt-smart-canner-cooker/
+- Nesco NPC-9 manual (manuals.plus; 1200 W; Low/High pressure cook; slow cook to 10 h).
+  https://manuals.plus/nesco/npc-9-smart-electric-pressure-cooker-and-canner-manual
+- Carey vs Nesco (same unit, rebranded).
+  https://www.everythingkitchens.com/carey-smart-pressure-canner-review.html
+- Breville Fast Slow Pro product page ($329.95; 1.5 to 12 psi, 8 levels).
+  https://www.breville.com/en-us/product/bpr700
+- Consumer Reports best multi-cookers 2026 (Zavor LUX LCD top; Breville; Instant Pot).
+  https://www.consumerreports.org/appliances/multi-cookers/best-multi-cookers-of-the-year-a7136971834/
+- America's Test Kitchen multicooker review (Instant Pot Pro 8 qt winner).
+  https://www.americastestkitchen.com/equipment_reviews/1737-multicookers
+- CNN Underscored best pressure cookers 2026 (Pro Plus best overall).
+  https://edition.cnn.com/cnn-underscored/reviews/best-pressure-cookers
+- Zavor LUX LCD 12 psi (versus.com comparison) and pricing.
+  https://versus.com/en/instant-pot-pro-10-in-1-pressure-cooker-vs-zavor-lux-lcd-programmable-electric-multi-cooker-6-qt
+- Cuisinart CPC-900 listings (15 psi High+ claim; discontinued; $52.95 Walmart).
+  https://www.cuisinart.com/shopping/parts-and-accessories/pressure_cookers/CPC-900/
+  https://www.walmart.com/ip/Cuisinart-12-in-1-Multicooker-6-Quart-CPC-900/428588301
+- Presto 02141 electric (High 9 psi, Low 5 psi).
+  https://www.gopresto.com/videos/presto-electric-pressure-cooker-plus
+- Wolf Gourmet multi-cooker (no pressure mode; about $700).
+  https://www.consumerreports.org/appliances/multi-cookers/wolf-gourmet-multi-cooker-wgsc100s/m399577/
+- Instant Pot Pro Plus reviews (touchscreen learning curve; Wi-Fi optional; 1 year warranty).
+  https://www.pressurecookingtoday.com/instant-pot-pro-plus-review/
+  https://www.techradar.com/home/multi-cookers/instant-pot-pro-plus-smart-multi-cooker-review
