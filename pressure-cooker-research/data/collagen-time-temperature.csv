@@ -1,0 +1,17 @@
+temp_f,temp_c,mode,time_to_tender,tenderness_note,moisture_note,source
+131,55,sous vide,24-72 h (beef tough cuts),tender with collagenase help; old animals still chewy,best retention,Baldwin sous vide guide; Naqvi 2021
+143,62,sous vide,3 days (stewing hen legs); 12 h (young chicken legs),tender,excellent,Stefan's Gourmet Blog
+149,65,sous vide,3-6 h (young chicken thigh),lower shear force than 55C,cooking loss rises with time,Chicken breast/thigh sous vide study 2023
+160,71,low hold,~26 h model estimate,fork tender after very long hold,good,True Nature Meats hydrolysis model
+167,75,sous vide,18 h (old-animal beef muscles),matched young-animal tenderness only at this temp and time,moderate,Naqvi et al Meat Science 2021
+175,79,low hold,~11 h model estimate,fork tender,moderate,True Nature Meats hydrolysis model
+176,80,confit,8-12 h (poultry legs in fat),confit texture,moderate; fat compensates,Baldwin sous vide guide
+185,85,simmer/slow cook,~6 h model estimate; 4-6 h pieces in practice,tender with gelatin,fair,True Nature model; stewing hen recipes
+195,90,simmer/slow cook,~4 h model estimate,fork tender,fair,True Nature model
+200,93,braise,4 h+ (old rooster coq au vin),edible and flavorful; never young-bird tender,fair,coq au vin sources
+205,96,hard simmer,~2.6 h model estimate,shreddable,lower,True Nature model
+209,98,slow cooker settled temp (Low or High),10-12 h whole hen on Low,falls apart,lower,Running to the Kitchen; Crock-Pot help
+217,103,pressure 1.5 psi,est 1.3-1.5x the 12 psi times,tender,slightly better than 12 psi,extrapolated (no direct source)
+230,110,pressure ~6 psi,est 1.2x the 12 psi times,tender,slightly better than 12 psi,Corrie Cooks time conversion guidance
+240-244,116-118,pressure 10-12 psi (electric High),30-45 min intact; 60-100 min falls apart (old hen),tender; stringy in the 45-60 min valley,lowest,Whole-Fed Homestead; Running to the Kitchen; The Top Meal; BYC threads
+250,121,pressure 15 psi (stovetop),~20% less than electric High,tender,lowest,Ever Growing Farm; hip pressure cooking

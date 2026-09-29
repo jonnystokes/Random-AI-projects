@@ -1,0 +1,18 @@
+gauge_psi,absolute_psia,steam_temp_c,steam_temp_f,example_setting
+0.0,14.70,99.8,211.7,Open simmer at sea level
+1.5,16.20,102.6,216.7,Breville Fast Slow Pro minimum (CUSTOM default)
+3.0,17.70,105.2,221.4,Breville DESSERT preset
+5.0,19.70,108.4,227.1,
+5.8,20.50,109.6,229.2,Instant Pot LOW band bottom (30 kPa stated as 5.8 psi in manual)
+6.0,20.70,109.9,229.7,Breville RISOTTO preset
+6.5,21.20,110.6,231.1,Instant Pot Max LOW
+7.2,21.90,111.6,232.8,Instant Pot LOW band top; Ninja Foodi LOW
+7.5,22.20,112.0,233.6,Breville VEGETABLES and RICE presets
+9.0,23.70,114.0,237.2,Breville SOUP and POULTRY presets
+10.2,24.90,115.5,239.9,Instant Pot HIGH band bottom
+10.5,25.20,115.9,240.6,Breville CHILI & STEW preset
+11.6,26.30,117.2,243.0,Instant Pot HIGH band top; Ninja Foodi HIGH
+12.0,26.70,117.7,243.8,Breville maximum (STOCK, BEANS, MEAT, BONE-IN MEAT presets)
+12.3,27.00,118.0,244.5,Instant Pot Max HIGH
+13.0,27.70,118.9,245.9,
+15.0,29.70,121.1,249.9,Stovetop standard; Instant Pot Max/Pro Max MAX; Presto electric canner

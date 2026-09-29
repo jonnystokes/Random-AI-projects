@@ -1,0 +1,244 @@
+# Sources
+
+Grouped by topic. Reliability notes: "primary" means a manufacturer manual, a
+government or university extension document, or a peer-reviewed paper; "secondary"
+means a tested review or reputable food-science outlet; "anecdotal" means a blog or
+forum post reporting one cook's experience. Where a page could not be fetched
+directly and only a search excerpt was read, that is noted.
+
+## Manufacturer manuals and product pages (primary)
+
+- Instant Pot Pro user manual (PDF, Williams-Sonoma mirror): pressure bands, sous
+  vide range, keep warm custom range, slow cook caution, wattage.
+  https://www.williams-sonoma.com/netstorage/pdf/Instant-Pot-Pro-Multi-Use-Pressure-Cooker-EN-US-UserManual.pdf
+- Instant Pot Duo Plus V4 user manual (PDF): slow cook programs, wattage table.
+  https://www.williams-sonoma.com/netstorage/pdf/Instant-Pot-6Qt-Next-Gen-DUO-PLUS-V4-112-0169-01-User-Manual.pdf
+- Instant Pot Duo manual references (working pressure 10.2 to 11.6 psi / 5.8 to 7.2 psi).
+  https://www.manualslib.com/manual/1855681/Instant-Pot-Duo.html
+- Instant Pot Pro Plus user manual (ManualsLib; UK PDF did not download).
+  https://www.manualslib.com/manual/3413122/Instant-Pot-Pro-Plus.html
+- Instant Pot Pro Plus support answers: sous vide 104 to 194°F; Low 230 to 231°F and
+  Max 242 to 247°F for canning program.
+  https://www.ownit.co/instant/category/instant-pots-c-instapots/dp/MZnf/what-is-the-default-temperature-range-for-sous-vide-cooking-with-instant-pot-pro-plus-wi-fi-smart-10-in-1-q-nWfS5p
+- Instant Pot safety features page (ten mechanisms; UL/ULC).
+  https://www.instantpot.com.ph/safety-features/
+- Breville Fast Slow Pro BPR700 instruction book (PDF): 1.5 to 12 psi, preset table
+  with psi and release per food, LO/HI slow cook, three automatic release modes,
+  altitude adjust 1,000 to 6,000 ft, 2 hour pressure limit.
+  https://www.breville.com/content/dam/breville/ca/fr/assets/miscellaneous/instruction-manual/cookers/BPR700-instruction-manual.pdf
+- Breville Fast Slow Pro product page (1100 W; LO 194°F / HI 203°F).
+  https://www.breville.com/en-us/product/bpr700
+- Zavor LUX LCD product page and support (slow cook LOW 190°F / HIGH 212°F; Flex 102
+  to 356°F; wattage by size).
+  https://zavoramerica.com/lux-lcd-multi-cooker/
+  https://support.zavoramerica.com/support/solutions/articles/43000597049-how-to-slow-cook-in-the-lux-lcd-multicooker
+- Ninja Foodi FD300 FAQ and Best Buy Q&A (11.6 psi High, 7.2 psi Low).
+  https://support.sharkninja.com/article/FD300-Series-Ninja-Foodi-Pro-Pressure-Cooker-FAQs
+  https://www.bestbuy.com/site/questions/ninja-foodi-tendercrisp-6-52qt-digital-pressure-cooker-black/6269235/question/6944decf-175f-3fa9-be97-f523aee04a95
+- Instant Pot Max Amazon listing (15 psi, sous vide, 1200 W).
+  https://www.amazon.com/Instant-Pot-60-Max-Electric/dp/B077T9YGRM
+- Instant Pot Pro Max Amazon listing (15 psi, Wi-Fi).
+  https://www.amazon.com/Instant-Pressure-Steamer-NutriBoost-Recipes/dp/B0D365PHCD
+
+## Pressure, temperature, and cooker classes (secondary)
+
+- Steam temperature table in `data/pressure-temperature-table.csv` computed by the
+  author from the Antoine equation for water (A=8.14019, B=1810.94, C=244.485; mmHg,
+  °C), 14.696 psia ambient.
+- Corrie Cooks, "Do electric pressure cookers get to 15 psi" (time conversions: +10%
+  at 12 to 13 psi, +20% at 8 to 9 psi).
+  https://www.corriecooks.com/do-electric-pressure-cookers-get-to-15-psi/
+- Corrie Cooks, high vs low setting.
+  https://www.corriecooks.com/difference-high-low-setting-pressure-cooker/
+- The Kitchn, when to use high or low pressure (Low 5.5 to 7 psi, 229 to 233°F).
+  https://www.thekitchn.com/when-to-use-high-or-low-pressure-on-the-instant-pot-236432
+- Pressure Cooking Guide, stovetop vs electric PSI (15 psi / 250°F vs 11.6 to 12.1
+  psi / 242°F; +25% time). Search excerpt only.
+  https://www.pressurecookingguide.pro/blog/pressure-cooker-comparisons/stovetop-vs-electric-pressure-cooker-why-psi-matters/
+- Washington Post, difference between stovetop and electric (15 psi vs 9 to 12 psi).
+  https://www.washingtonpost.com/lifestyle/food/the-difference-between-stove-top-and-electric-pressure-cookers/2017/01/09/bdf5b6de-d468-11e6-9cb0-54ab630851e8_story.html
+- hip pressure cooking PSI FAQ (site blocked automated fetch; cited from prior
+  knowledge and search excerpts).
+  https://www.hippressurecooking.com/pressure-cooker-psi-faq-the-stuff-you-didnt-think-to-ask/
+- Pressure Cooking Today, Instant Pot Max review (6.5 / 12.3 / 15 psi; 1 min slower
+  to pressure than Duo Plus).
+  https://www.pressurecookingtoday.com/instant-pot-max-pressure-cooker-review/
+- Pressure Cooking Today, Breville Fast Slow Pro review (about 20 min to pressure in
+  a rice test).
+  https://www.pressurecookingtoday.com/breville-the-fast-slow-pro-pressure-cooker/
+- TechGearLab, Breville Fast Slow Pro review (more moisture and tenderness in ribs;
+  hinged lid and cleaning downsides).
+  https://www.techgearlab.com/reviews/kitchen/pressure-cooker/breville-fast-slow-pro
+- Wirecutter, best electric pressure cooker (Rio vs Duo vs Pro; staff rarely use Low).
+  Mirror read: https://www.classicalnumismaticgallery.com/blog/sszl-the-best-electric-pressure-cooker-is-an-instant-pot-reviews-by-wirecutter/
+- Consumer Reports, electric vs stovetop (electrics up to three times slower to
+  pressure).
+  https://www.consumerreports.org/kitchen-appliances/electric-vs-stovetop-pressure-cooker/
+- UF/IFAS FS446, misconceptions about electric pressure cookers.
+  https://ask.ifas.ufl.edu/publication/FS446
+- Time-to-pressure figures (8 to 15 min at 6 qt, etc.).
+  https://www.cozyinstantkitchen.com/how-long-does-a-pressure-cooker-take-to-preheat/
+  https://instantpoteats.com/how-long-does-instant-pot-take-to-preheat/
+- Reviewer time-to-pressure comparisons (Duo Plus and Pro under 8 min; Ninja 9+; Zavor under 9).
+  https://www.pressurecookingguide.pro/blog/pressure-cooker-comparisons/electric-pressure-cooker-brands-compared-best-fit-guide/
+  https://shopbirdy.com/best-multi-cookers-and-pressure-cookers/
+
+## Slow cook, sous vide, keep warm temperatures
+
+- Instant Pot slow cook Less/Normal/More ranges.
+  https://www.tasteofhome.com/article/heres-what-those-buttons-on-your-instant-pot-actually-mean/
+  https://instantpoteats.com/how-to-use-instant-pot-as-slow-cooker/
+- Everyday Cheapskate, Instant Pot slow cook mode disappointment (runs cool; fixes).
+  https://www.everydaycheapskate.com/instant-pot-is-fabulous-but-its-slow-cook-mode-is-one-big-disappointment/
+- The Default Cook, measured slow cooker temperatures across three models.
+  https://thedefaultcook.com/testing-slow-cooker-temperature/
+- Crock-Pot help: Low and High both reach about 209°F; difference is time.
+  https://help.crock-pot.com/s/article/CPlhsettings
+- Instant Pot keep warm temperatures (145 to 172°F).
+  https://instantpoteats.com/instant-pot-keep-warm/
+- USDA FSIS danger zone and slow cooker safety.
+  https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/danger-zone-40f-140f
+  https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/slow-cookers-and-food-safety
+
+## Release method
+
+- Pressure Cooking Today, quick vs natural release.
+  https://www.pressurecookingtoday.com/quick-pressure-release-or-natural-pressure-release/
+- Renardo Cuisine, food science of natural release (temperature crash from ~250 to 212°F).
+  https://renardocuisine.com/science/pressure-cooker-natural-release/
+- hip pressure cooking, wrong release can ruin meat (blocked fetch; search excerpt).
+  https://www.hippressurecooking.com/meat-openings-pcs/
+- Paint The Kitchen Red, natural vs quick release (submerged meat exception).
+  https://www.paintthekitchenred.com/instant-pot-natural-release-or-quick-release/
+
+## Altitude
+
+- Colorado State University Extension, adjusting for elevation in an electric
+  pressure cooker (+5% per 1,000 ft above 2,000; liquid; natural release).
+  https://foodsmartcolorado.colostate.edu/adjusting-for-elevation-when-preparing-foods-in-an-electric-pressure-cooker
+- Mother Earth News, altitude adjustments.
+  https://www.motherearthnews.com/real-food/pressure-cooker-altitude-adjustments-zb0z11zalt/
+
+## Safety, certification, recalls, litigation
+
+- CPSC, SharkNinja recall of 1.8 million Foodi OP300 pressure cookers (May 2025).
+  https://www.cpsc.gov/Recalls/2025/SharkNinja-Recalls-1-8-Million-Foodi-Multi-Function-Pressure-Cookers-Due-to-Burn-Hazard-Serious-Burn-Injuries-Reported
+- TODAY, SharkNinja recall details (106 burn reports, 26 lawsuits).
+  https://www.today.com/food/recall/sharkninja-pressure-cooker-recall-rcna204402
+- Pressure Cooker Lawsuit recall list (Crock-Pot Express 2020, Sensio 2023, Insignia 2023, Ambiano 2025).
+  https://www.pressurecookerlawsuit.org/pressure-cooker-recalls
+- Lawsuit Information Center, pressure cooker settlements ($55.5M verdict, reduced to $9.1M).
+  https://www.lawsuit-information-center.com/pressure-cooker-injury-lawsuits.html
+- CPSC, Instant Pot Smart-60 recall (2015).
+  https://www.cpsc.gov/Recalls/2015/Instant-Pot-Pressure-Cookers-Recalled-by-Double-Insight
+- Consumer Reports, Instant Pot Gem 65 recall (2018).
+  https://www.consumerreports.org/recalls/instant-pot-recalls-gem-65-8-in-1-multicooker/
+- Shopbirdy, hardware redundancy audit of pressure cooker safety features (UL injury
+  analysis claim about experienced stovetop users). Secondary; claim not traced to
+  a UL document.
+  https://shopbirdy.com/pressure-cooker-safety-features/
+- CNN and CBS, Instant Brands Chapter 11 (June 2023); Wikipedia, Instant Brands and
+  Instant Pot (emergence as Instant Pot Brands, March 2024).
+  https://www.cnn.com/2023/06/13/business/instant-brands-bankruptcy/index.html
+  https://en.wikipedia.org/wiki/Instant_Pot
+
+## Canning claims
+
+- Simply Canning, canning with Instant Pot (Max limited to water bath).
+  https://www.simplycanning.com/canning-with-instant-pot/
+- Ask Extension, electric pressure canning still not recommended.
+  https://ask.extension.org/kb/faq.php?id=893116
+- Healthy Canning, USDA recommendations for and against.
+  https://www.healthycanning.com/usda-recommendations-for-and-against
+- Simply Canning, Presto electric canner review.
+  https://www.simplycanning.com/electric-pressure-canner/
+
+## Maintenance
+
+- Food Network, replacing Instant Pot parts (ring every 12 to 18 months).
+  https://www.foodnetwork.com/how-to/packages/shopping/articles/replace-instant-pot-parts
+- Instant Pot Basics, ring replacement and valve fixes.
+  https://instantpotbasics.com/blog/instant-pot-ring-replacement/
+- The Kitchn, stainless vs aluminum vs nonstick.
+  https://www.thekitchn.com/stainless-steel-vs-aluminum-vs-nonstick-which-pressure-cooker-material-is-right-for-you-228869
+
+## Capacity
+
+- Paint The Kitchen Red, 6 vs 8 quart (5 to 6 lb bird fits 6 qt).
+  https://www.paintthekitchenred.com/instant-pot-6-quart-vs-8-quart-which-is-better/
+- This Mama Cooks, 6 vs 8 quart (8 qt usable fill about 6 qt).
+  https://www.thismamacooks.com/2022/12/6-quart-vs-8-quart-instant-pot.html
+
+## Meat science (primary and secondary)
+
+- Naqvi, Z. B., et al. (2021). Effect of sous vide cooking and ageing on tenderness
+  and water-holding capacity of low-value beef muscles from young and older animals.
+  Meat Science 175:108435. Older animals needed 75°C for 18 h to match young.
+  https://pubmed.ncbi.nlm.nih.gov/33461157/
+- Physicochemical properties of chicken breast and thigh as affected by sous-vide
+  cooking conditions (2023). 55 vs 65°C, 3 vs 6 h; thigh collagen 30 vs breast 16 g/100 g.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC10340550/
+- Douglas Baldwin, A Practical Guide to Sous Vide Cooking (tough cuts 131°F 24 to 48 h;
+  poultry legs 176°F 8 to 12 h; moisture vs temperature).
+  https://douglasbaldwin.com/sous-vide.html
+- Modernist Cuisine, Understanding Meat (collagen conversion above 122°F; pressure
+  cooking principle).
+  https://modernistcuisine.com/mc/understanding-meat/
+- True Nature Meats, collagen hydrolysis time-temperature calculator (rate table
+  160 to 205°F; not peer reviewed).
+  https://www.truenaturemeats.com/pages/collagen-hydrolysis-time-temp-curve-calculator
+- The MeatStick, science of collagen (160 to 180°F onset; hours).
+  https://themeatstick.com/blogs/tips-recipes/the-science-of-collagen-how-to-turn-tough-cuts-into-tender-perfection
+- ScienceInsights, how to break down collagen (70 to 90°C, 2 to 6 h; hydrolysis needs water).
+  https://scienceinsights.org/how-to-break-down-collagen-in-meat-for-tender-results/
+- Anova community, sous vide vs Instant Pot (braised texture vs precise doneness).
+  https://community.anovaculinary.com/t/sv-vs-ip/12826
+- Stefan's Gourmet Blog, sous vide times (stewing hen legs 3 days at 62°C).
+  https://stefangourmet.com/sous-vide/
+- America's Test Kitchen, stock in pot vs pressure cooker.
+  https://www.americastestkitchen.com/cooksillustrated/how_tos/6585-making-stock-pot-versus-pressure-cooker
+- Pressure cooking texture cautions (mushy, stringy when overcooked).
+  https://www.discusscooking.com/threads/slow-stewing-vs-pressure-cooking.26837/
+  https://eathealthy365.com/pressure-cooker-meat-a-guide-to-perfect-juicy-results/
+- Why pressure-cooked chicken breast goes dry.
+  https://www.pressurecookrecipes.com/make-moist-chicken-breast-pressure-cooker/
+
+## Thaw rigor and resting birds
+
+- Britannica, thaw rigor.
+  https://www.britannica.com/science/thaw-rigor
+- Effects of thawing temperature on pre-rigor frozen chicken breast and leg muscles
+  (Meat Science, 2005; abstract via search excerpt).
+  https://www.sciencedirect.com/science/article/abs/pii/S0309174005001518
+- Changes in pre- and post-rigor frozen chicken muscles during cold storage
+  (J Food Sci Technol 2019; abstract via search excerpt).
+  https://pubmed.ncbi.nlm.nih.gov/31741505/
+- JBT Marel, managing rigor mortis in poultry processing.
+  https://jbtmarel.com/en/news/how-to-manage-rigor-mortis-in-poultry-processing/
+- BackYard Chickens, rigor mortis and freezing chickens (rest 24 to 48 h).
+  https://www.backyardchickens.com/threads/rigor-mortis-and-freezing-chickens.175557/
+- Homesteading Today, resting before freezing (blocked fetch; search excerpt).
+  https://www.homesteadingtoday.com/threads/processing-chickens-after-slaughter-resting-before-freezing.483751/page-2
+
+## Old hen cook reports (anecdotal)
+
+- Whole-Fed Homestead, best way to cook an old chicken (Instant Pot, 30 min, two-stage broth).
+  https://wholefedhomestead.com/the-best-way-to-cook-an-old-chicken-hint-in-an-electric-pressure-cooker/
+- Ever Growing Farm, pressure cook an old laying hen (stovetop, 45 min, rest 4 to 5 days).
+  https://evergrowingfarm.com/2014/04/pressure-cook-old-laying-hen/
+- Running to the Kitchen, how to cook a stewing hen (100 min; slow cooker 10 to 12 h).
+  https://www.runningtothekitchen.com/how-to-cook-a-stewing-hen/
+- The Top Meal, stewing hen in pressure cooker (90 min).
+  https://thetopmeal.com/how-to-cook-stewing-hen-in-pressure-cooker/
+- Culinary Q, under pressure a tough old bird goes tender (15 min stovetop; 9 oz yield).
+  https://culinaryq.wordpress.com/2013/10/17/under-pressure-a-tough-old-bird-goes-tender/
+- BackYard Chickens, tough bird after pressure cooking (search excerpt: tough at 30, stringy at 45).
+  https://www.backyardchickens.com/threads/tough-bird-after-pressure-cooking-where-did-i-go-wrong.1607990/
+- BackYard Chickens, pressure cooking old hens and roosters (40 min for gumbo).
+  https://www.backyardchickens.com/threads/pressure-cooking-old-hens-roosters.1205267/page-2
+- Coq au vin with an old rooster (The Peasant's Daughter; Many Fold Farm; MrCrazyKicks).
+  https://thepeasantsdaughter.net/authentic-coq-au-vin/
+  https://manyfoldfarm.com/blog/blog/2012/12/coq-au-vin-or-the-magic-the-french-use-to-coax-the-most-inedible-meat-possible-into-something-delicious
+  https://mrcrazykicks.com/the-best-way-to-cook-an-old-hen-coq-au-vin/
+- From-frozen whole chicken times (60 to 70 min for 4 to 5 lb).
+  https://ifoodreal.com/instant-pot-frozen-chicken/
