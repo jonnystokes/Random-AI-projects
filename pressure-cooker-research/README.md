@@ -25,6 +25,7 @@ Owner brief that drove this research:
 | [05-liquid-acid-flavor.md](05-liquid-acid-flavor.md) | Liquid level per method and dry-out risk, acid and alkali and enzymes, and how to get flavor deep into the meat |
 | [06-freezer-to-plate-protocol.md](06-freezer-to-plate-protocol.md) | The recommended sequence from freezer to plate in table form, with the purpose of every step and every trait each addition brings |
 | [07-selection.md](07-selection.md) | Stage 2: ranked cooker selection against the owner's criteria, with prices and the reasoning |
+| [08-listing-review.md](08-listing-review.md) | Review of seven specific Amazon and eBay Pro Plus listings for delivery to Roseburg, Oregon, ranked |
 | [figures/tenderness-map.png](figures/tenderness-map.png) | Graph: time-to-tender vs temperature with every liquid method pinpointed (SVG and script alongside) |
 | [data/pressure-temperature-table.csv](data/pressure-temperature-table.csv) | Gauge pressure to steam temperature, computed from the Antoine equation for water |
 | [data/cooker-traits.csv](data/cooker-traits.csv) | Spec sheet of representative electric and stovetop cookers used as trait examples |

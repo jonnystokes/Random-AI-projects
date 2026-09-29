@@ -337,3 +337,28 @@ directly and only a search excerpt was read, that is noted.
 - Instant Pot Pro Plus reviews (touchscreen learning curve; Wi-Fi optional; 1 year warranty).
   https://www.pressurecookingtoday.com/instant-pot-pro-plus-review/
   https://www.techradar.com/home/multi-cookers/instant-pot-pro-plus-smart-multi-cooker-review
+
+## Listing review (document 08)
+
+Pages were rendered in a headless browser on September 29, 2026; prices and
+availability change daily.
+
+- Amazon B08TMTJZ8L (Pro Plus, $229.95 new sold by Amazon.com; $218.45 Used Like New, Amazon Resale; 4.4 stars, 1,526 ratings).
+  https://www.amazon.com/Instant-Pot-6Qt-Plus-WiFi/dp/B08TMTJZ8L
+- eBay 366673975066 (Mesa AZ, $152.88 OBO, free FedEx, NovaNest89).
+  https://www.ebay.com/itm/366673975066
+- eBay 168700386789 (Springhill LA, $160.97 OBO, Sanders Elegants).
+  https://www.ebay.com/itm/168700386789
+- eBay 407228396496 (Sewickley PA, $160.97 OBO, SHAN UX STORE; item specifics say Duo Plus).
+  https://www.ebay.com/itm/407228396496
+- eBay 327323171520 (Columbus OH, open box $155 + $69.40 shipping, retrello).
+  https://www.ebay.com/itm/327323171520
+- eBay 364130926721 (Huntington Beach CA; page errored; eBay search shows $140 + $125.50 shipping).
+  https://www.ebay.com/itm/364130926721
+- eBay 398400068454 (Sri Lanka, $129.13 plus import fees, kas791786).
+  https://www.ebay.com/itm/398400068454
+- Instant Pot product warranties (authorized retailer condition; proof of purchase).
+  https://instantpot.com/pages/product-warranties
+- Recent Pro Plus price points ($169.95 deal; $140 in 2024).
+  https://theinventory.com/instant-pot-pro-plus-6-qt-10-in-1-electric-pressure-cooker-black-multicooker-6-q-a246d68f
+  https://slickdeals.net/f/17780712-instant-pot-6qt-pro-plus-with-wifi-120v-black-140
