@@ -289,7 +289,7 @@ obnoxious:* preserve-and-grow leftovers; the reader feels the seam and reads a r
 give the fact its own place (a table row, a short paragraph under a subheading) or drop it and list
 it under Dropped; history earns a clause only when it explains a rule the reader must follow.
 
-### Tier 6: Revision 8 Loop Faults, second round (found 2026-10-29, chapters 24, 25 and 30)
+### Tier 6: Revision 8 Loop Faults, second round (found 2026-10-28, chapters 24, 25 and 30)
 
 Found by the full reading of three chapters written under brief v3, after the Tier 5 faults were
 mostly gone. Each now has a rule in WRITER_BRIEF.md v5.

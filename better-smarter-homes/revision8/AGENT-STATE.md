@@ -17,10 +17,10 @@ is half-written.
 | 11 The wall system | af5b755077ab0f633 | v3 | Fable, then Opus | Done, read |
 | 17 Plumbing and water supply | ab5ad3bab4c151ddc | v3 | Opus, then Fable | Done, read |
 | 22 Solar, battery and energy independence | aceb05fa4c06c9241 | v3 | Opus, then Fable | Done, read |
-| 24 Smart home, network and security | aec4a300727fdc383 | v3 | Opus, then Fable | Done, NOT YET READ |
-| 25 Interiors | a3ccc1465683b7aa9 | v3 | Opus, then Fable | Done, NOT YET READ |
+| 24 Smart home, network and security | aec4a300727fdc383 | v3 | Opus, then Fable | Done, read (row 9, review-ch24.md); revision pass due |
+| 25 Interiors | a3ccc1465683b7aa9 | v3 | Opus, then Fable | Done, read (row 10, review-ch25.md); revision pass due after 17 and 24 |
 | 27 Tools, equipment and the shop | a8ff377827e04cef1 | v3 | Opus, then Fable | Done, read |
-| 30 The owner-builder's body and mind | a2c1d08749fac32fc | v3 | Opus, then Fable | Done, NOT YET READ |
+| 30 The owner-builder's body and mind | a2c1d08749fac32fc | v3 | Opus, then Fable | Done, read (row 11, review-ch30.md); revision pass due |
 
 The agent ids work only on Jon's Windows PC. That is where their transcripts are:
 `C:\Users\jon\.claude\projects\C--Users-jon-Projects\d15f463d-24c9-4827-81fc-968b15964077\subagents\`.
@@ -28,6 +28,23 @@ Writers 24 and 30 also have copies in the folder for session 14282c9a-7a9b-4ba4-
 On that PC, any of them can be resumed with SendMessage to its id. After a session change, first
 copy its three files (`.jsonl`, `.meta.json`, `.prefix.json`) into the current session's
 `subagents` folder.
+
+## 2026-10-28 cloud session (GitHub copy, branch claude/sharp-shannon-tamgu5)
+
+Steps 1 and 2 above are done: chapters 24, 25 and 30 read in full (loop rows 9 to 11), the brief
+moved to v5, and the loop report is LOOP_REPORT.md. Step 3 is running: six writers on Fable, effort
+max, under brief v5, started about 6:05 PM. Their agent ids live only in this cloud session; if it
+ends, a new session restarts any unfinished chapter from its worklog (the chapter file holds
+whatever was saved).
+
+| Chapter | Brief | Model | State |
+|---|---|---|---|
+| 6 Structural system and concrete design | v5 | Fable | Writing |
+| 18 Water independence (skeleton) | v5 | Fable | Writing |
+| 20 Electrical service, panels, grounding | v5 | Fable | Writing |
+| 26 Developing the site (skeleton) | v5 | Fable | Writing |
+| 33 Personal project finance (skeleton) | v5 | Fable | Writing |
+| 36 Business and brand framework | v5 | Fable | Writing |
 
 ## Carrying on from another computer
 
