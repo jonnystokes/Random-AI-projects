@@ -4,6 +4,8 @@ pattern-shaped bans of section 10. The floor, not the standard; the reading is t
 Usage:  python tools/lint.py manuscript/g1_ch_11_the-wall-system-foundation-to-roofline.md [--all]
 Exit code 1 when any gate FAILs. --all lists every offending line instead of the first ten.
 Reads only; never writes to the manuscript.
+Brief v5 gates (2026-10-29, faults 47 to 51): Code-line semicolons, "the entry below" per section, pointers at
+the text, packed cross-references and their dodges, search narration and source classes.
 """
 import bisect
 import re
@@ -93,6 +95,112 @@ def unit_key(m):
     unit = m.group(2).lower()
     return m.group(1).replace(",", "") + UNIT_CANON.get(unit, unit)
 PAREN_DEF = re.compile(r"\b([a-z][a-z-]*(?: [a-z-]+){0,2}) \(([a-z][^)]{15,90})\)")
+
+# --- brief v5 (2026-10-29), faults 47 to 51: worklogs/review-ch24.md, review-ch25.md, review-ch30.md ---
+# fault 48: "in the entry below" at most once per section
+ENTRY_BELOW = re.compile(r"\bentr(?:y|ies) below\b", re.I)
+# fault 48: sentences that point at another part of this chapter. SELF_DESCRIPTION already FAILs "the steps
+# above", "as stated above" and "an earlier section"; these are the wordings the reviews found beside them.
+TEXT_POINTER = re.compile(
+    r"\bthe opening section\b|\bas the opening (states|says|sets out)\b|"
+    r"\b(the|its) [\w-]+(?: [\w-]+)? section (states|keeps|sets|covers|gives|lists|names|says|explains|describes|details)\b|"
+    r"\b(stated|set out|given|listed|described|covered|explained|named|shown|noted|defined) (in|with|under) the [\w -]{1,40}?(section|steps?|entry|entries|opening)\b|"
+    r"\b(stated|set out|given|listed|described|covered|shown|noted) (with|in) the [\w-]+ (below|above)\b|"
+    r"\b(described|stated|noted|listed|shown|given|set out|covered|explained|discussed|mentioned|defined) (above|earlier)\b|"
+    r"\b(values|figures|numbers|items) in the (\w+ )?steps\b|\bin the [\w-]+ step\b|"
+    r"\bthe (last|first|next|previous|earlier|later) (two |three |four )?(steps|sections?)\b|"
+    r"\b(a|the) (later|previous|next|following) section\b|\bin the section on\b|"
+    r"\bthe (entry|entries|section|paragraph|figures?|values?) above\b|"  # "the table above/below" is allowed
+    r"\bno Code entry follows\b|\bbelongs? here\b",
+    re.I)
+# fault 49: other chapters named by topic. A topic key counts only inside a "the <topic> chapter" phrase, so
+# common words ("roof", "tools", "materials", "testing", "finance") never count on their own; a title phrase
+# counts bare only in its capitalized form ("Resilience and Disaster Independence", "Developing the Site").
+TOPIC_KEYS = {
+    1: ["purpose", "principles"], 2: ["compliance-map", "compliance map", "code and compliance", "oregon code", "compliance"],
+    3: ["land", "feasibility", "land-site"], 4: ["legal", "permits", "owner-builder rules"],
+    5: ["soil", "ground prep", "foundation risk", "drainage"], 6: ["structural", "structure"],
+    7: ["what concrete uniquely enables", "concrete enables", "designing with mass"],
+    8: ["durability", "designing for centuries", "centuries"], 9: ["passive", "bioclimatic"],
+    10: ["foundation", "basement", "slab", "slabs", "concrete placement", "concrete-placement"],
+    11: ["wall system", "wall-system", "wall"], 12: ["owner-made blocks?", "blocks", "block-making", "alternative concretes"],
+    13: ["masonry craft", "masonry-craft", "masonry"], 14: ["envelope", "waterproofing", "radon"],
+    15: ["roof system", "roof", "roofing", "roof-wall"], 16: ["aesthetics", "architectural expression"],
+    17: ["water-supply", "water supply", "plumbing supply"], 18: ["water independence", "water-independence"],
+    19: ["dwv", "sewage", "vent", "venting"], 20: ["electrical service", "service", "panels?", "grounding"],
+    21: ["branch-circuits?", "branch circuits?", "low-voltage", "wire size"], 22: ["solar", "battery", "energy independence", "energy-independence"],
+    23: ["hvac", "ventilation", "air quality"], 24: ["smart-home", "smart home", "network", "automation"],
+    25: ["interiors", "finishes", "accessibility", "livability"],
+    26: ["site-development", "site development", "developing the site", "outbuildings?"],
+    27: ["tools", "tool", "equipment", "owner-builder shop"], 28: ["materials", "suppliers", "procurement", "substitution"],
+    29: ["build sequence", "build-sequence", "site coordination"], 30: ["body and mind", "body"],
+    31: ["inspection", "approval"], 32: ["testing", "commissioning", "quality control", "testing-and-commissioning"],
+    33: ["finance", "budget", "financing", "cash flow"], 34: ["resilience", "disaster"],
+    35: ["documentation", "maintenance", "future upgrades"], 36: ["business", "brand"],
+}
+TOPIC_TITLES = {  # case-sensitive, so ordinary prose ("the roof system", "water independence") does not count
+    2: ["Compliance Map"], 6: ["Structural System"], 7: ["What Concrete Uniquely Enables", "Designing [Ww]ith Mass"],
+    8: ["Designing [Ff]or Centuries", "Durability Engineering"], 9: ["Passive [Aa]nd Bioclimatic"], 11: ["Wall System"],
+    12: ["Owner-Made Blocks"], 13: ["Masonry Craft"], 15: ["Roof System"], 16: ["Aesthetics"], 17: ["Plumbing Supply"],
+    18: ["Water Independence"], 22: ["Energy Independence"], 26: ["Developing [Tt]he Site"], 27: ["Owner-Builder Shop"],
+    29: ["Build Sequence"], 30: ["Body [Aa]nd Mind"], 31: ["Inspection [Aa]nd Approval"], 33: ["Personal Project Finance"],
+    34: ["Resilience"], 36: ["Business [Aa]nd Brand"],
+}
+
+
+def _slug_rx(slug):
+    """A chapters.py slug as a title regex: 'the-owner-builders-body' matches "The Owner-Builder's Body"."""
+    toks = [re.escape(t[:-1]) + "['’]?s" if t.endswith("s") and len(t) > 3 else re.escape(t) for t in slug.split("-")]
+    return r"[\s,:-]+".join(toks)
+
+
+TOPIC_RX = []  # (chapter, compiled key regex, is_full_title), longest first
+for _n, _src, _slug in ORDER:
+    if len(_slug.split("-")) >= 3:
+        TOPIC_RX.append((_n, re.compile(r"\b" + _slug_rx(_slug) + r"\b", re.I), True))
+for _n, _keys in TOPIC_KEYS.items():
+    for _k in _keys:
+        TOPIC_RX.append((_n, re.compile(r"\b" + _k.replace(" ", r"[\s-]") + r"\b", re.I), False))
+TOPIC_RX.sort(key=lambda x: -len(x[1].pattern))
+TITLE_RX = [(n, re.compile(r"\b(?:" + "|".join(ts) + r")\b")) for n, ts in TOPIC_TITLES.items()]
+# "the <topic> chapter(s)": no "the" or "this" inside, so the phrase starts at its own article
+GENERIC_CHAPTERS = re.compile(r"(?:(?:two|three|other|technical|trade|system|owning|relevant|same|earlier|later|"
+                              r"next|previous|preceding|following|remaining|bordering|individual|those|both|its|their|and|,) ?)+", re.I)
+CHAPTER_PHRASE = re.compile(r"\b[Tt]he ((?:(?!the\b|this\b|that\b|each\b|every\b)[\w'’,-]+ ){1,7}?)chapters?\b")
+# the dodges (fault 49): "the HVAC design", "belongs to Resilience", "Code entries for X are in the Y chapter"
+DESIGN_DODGE = re.compile(r"\bthe ((?:[\w-]+ )?[\w-]+(?: and [\w-]+)?) (design|designs|plan)\b(?! chapter)", re.I)
+# "the structural design" and "the maintenance plan" are the house's own documents, not a chapter in disguise
+DESIGN_NOT_DODGE = {"structural", "structure", "foundation", "roof", "wall", "drainage", "slab", "slabs", "ventilation",
+                    "maintenance", "financing", "budget", "service", "network", "equipment", "approval"}
+BELONGS_DODGE = re.compile(r"\bbelongs? to (the )?([A-Z][\w'’-]+(?: (?:and|And|the|The|[A-Z][\w'’-]+)){0,5})")
+ENTRIES_DODGE = re.compile(r"\b[Cc]ode entr(?:y|ies) (?:for\b[^.]{0,100}?\b)?(?:is|are) in the\b")
+# fault 51: search narration and source classes, in the wordings the v5 reviews quoted. An entry with True
+# is a study or survey reference that passes when its sentence names a year or "et al." (a named study).
+SEARCH_NARRATION = [
+    (re.compile(r"\bno (?:stud(?:y|ies)|primary source|independent test|consensus|validated)\b", re.I), False),
+    (re.compile(r"\bno source (?:gives|states|sets|measures|quantif\w+|address\w*|covers?|names|tests?)\b", re.I), False),
+    (re.compile(r"\b[Nn]o\b[^.;,]{0,60}\b(?:is|are) documented\b"), False),
+    (re.compile(r"\b(?:rather than|not|no) (?:a )?(?:randomized )?controlled (?:trials?|stud(?:y|ies)|results?)\b", re.I), False),
+    (re.compile(r"\bpractitioner (?:reports|guidance)\b", re.I), False),
+    (re.compile(r"\b(?:[Nn]either|[Nn]one) (?:has|have) been (?:tested|validated)\b|\b(?:has|have) never been (?:tested|validated)\b"), False),
+    (re.compile(r"\b[Mm]ixed (?:evidence|results)\b"), False),
+    (re.compile(r"\bliterature\b", re.I), False),  # "the manufacturer's literature" is skipped below
+    (re.compile(r"\b(?:national|industry|injury) data\b", re.I), False),
+    (re.compile(r"(?:^|(?<=[a-z,] )(?<!desk ))(?:[Rr]esearch|[Gg]uidance|[Dd]ata) (?:shows?|showed|suggests?|finds|found|favors|reads|holds|indicates|"
+                r"recommends|names|records|describes|puts?|says)\b"), False),
+    (re.compile(r"\b[Rr]esearch on [\w ,-]{3,50}? (?:is|shows|finds|suggests)\b"), False),
+    (re.compile(r"\bone (?:[\w-]+ ){0,2}?(?:survey|study|illustration)\b", re.I), True),
+    (re.compile(r"\banother (?:[\w-]+ )?(?:study|survey|review|finds|found|reports)\b", re.I), True),
+    (re.compile(r"\b[Ss]tudies\b[^.;]{0,80}?\b(?:find|show|suggest|report)\b"), True),
+    (re.compile(r"\bevery (?:source|study|report)\b (?:\w+ )?(?:prices?|gives?|says|puts|agrees?|reports?|lists?|names?|states?|recommends?|finds?|found)\b", re.I), False),
+    (re.compile(r"\bthe source (?:shares|says|puts|reports|states|cites|recommends)\b", re.I), False),
+    (re.compile(r"\b(?:is|are) reported as (?:a|an|the)\b|\ba reported practice\b|\b[Oo]ne documented\b"), False),
+    (re.compile(r"\b(?:review|study|paper|article)s? published in [A-Z]|\b[Pp]ublished by [A-Z]"), False),
+]
+NAMED_STUDY = re.compile(r"\b(19|20)\d\d\b|\bet al\b")
+OWN_LITERATURE = re.compile(r"(manufacturer|maker|vendor|product|supplier)s?['’]?s? (\w+ )?$", re.I)
+# "OSHA's guidance names", "BuildDirect's installer guidance", "the NSCA's coaching literature" name their source
+NAMED_OWNER = re.compile(r"\b([A-Z][\w&.-]*['’]s|[A-Z]{2,}[\w-]*) (?:[\w-]+ ){0,2}$")
 
 
 def sentences(text):
@@ -657,6 +765,114 @@ def run(path, show_all=False):
             if shared:
                 pairs.append(f"{part_name(keys[i])} and {part_name(keys[j])}: '{sorted(shared)[0]} ...'")
     gate("7-word runs repeated between two parts of the chapter", len(pairs), "<= 2", len(pairs) <= 2, pairs, warn=True)
+
+    # 31 brief v5 (faults 47 to 51)
+    def sec_name(sec):
+        return f"{ch.sections[sec]['num']}.{ch.sections[sec]['k']}" if sec >= 0 else "opening"
+    body_sents = [(ln, snt, sec) for ln, text, layer, sec, is_list, bq in ch.paragraphs
+                  if sec >= -1 and not bq for snt in sentences(text)]
+
+    # 31a semicolons in a Code entry's requirement or value line; the Source line may join two citations
+    code_semis = [f"{sec_name(sec)}: {l.strip()[:80]}" for sec, e in ch.code_entries for l in e
+                  if ";" in l and not l.strip().lower().startswith("source:")]
+    gate("semicolons in Code requirement or value lines", len(code_semis), 0, not code_semis, code_semis)
+
+    # 31b "the entry below" at most once per section; pointers at other parts of the chapter (review)
+    eb = defaultdict(list)
+    for ln, t, sec in body_sents:
+        if sec >= 0 and ENTRY_BELOW.search(t):
+            eb[sec].append(ln)
+    over = [f"{sec_name(s)}: {len(v)} (lines {v})" for s, v in eb.items() if len(v) > 1]
+    gate("sections with 'the entry below' more than once", len(over), 0, not over, over)
+
+    def spans(rx, t):
+        return [m.span() for m in rx.finditer(t)]
+
+    def overlaps(span, others):
+        return any(a < span[1] and span[0] < b for a, b in others)
+    tp = []
+    for ln, t, sec in body_sents:
+        taken = spans(SELF_DESCRIPTION, t)  # already a FAIL above; not counted twice
+        hit = next((m for m in TEXT_POINTER.finditer(t) if not overlaps(m.span(), taken)), None)
+        if hit:
+            tp.append(f"{ln}: '{hit.group(0)}' in: {t[max(0, hit.start() - 30):hit.start() + 50]}")
+    gate("sentences pointing at another part of the chapter (review)", len(tp), 0, not tp, tp, warn=True)
+
+    # 31c packed cross-references: two or more other chapters named by topic in one sentence
+    def topics_in(t):
+        found, used = [], []
+
+        def claim(n, span):
+            if not overlaps(span, used):
+                used.append(span)
+                found.append(n)
+        for m in CHAPTER_PHRASE.finditer(t):
+            if CODE_CONTEXT.search(m.group(1)) and not re.search(r"Oregon Code and Compliance", m.group(1), re.I):
+                continue  # "the ORSC chapter", "the code's chapter"
+            base, before = m.start(1), len(found)
+            for n, rx, full in TOPIC_RX:
+                for km in rx.finditer(m.group(1)):
+                    claim(n, (base + km.start(), base + km.end()))
+            if len(found) == before and not GENERIC_CHAPTERS.fullmatch(m.group(1).strip()) \
+                    and not CODE_CONTEXT.search(t[max(0, m.start() - 40):m.start()]):
+                claim(f"? {m.group(1).strip()}", m.span())  # a chapter named by a topic the table lacks
+            used.append(m.span())
+        for n, rx, full in TOPIC_RX:
+            if full:
+                for km in rx.finditer(t):
+                    claim(n, km.span())
+        for n, rx in TITLE_RX:
+            for km in rx.finditer(t):
+                claim(n, km.span())
+        for m in DESIGN_DODGE.finditer(t):
+            found.extend(design_topics(m.group(1)))  # "the Water Independence and DWV designs" is two
+        return {n for n in found if n != ch.chapter_number}
+
+    def design_topics(phrase):
+        """'HVAC' -> [23]; 'Water Independence and DWV' -> [18, 19]; 'lighting and solar' -> [22]."""
+        out = []
+        for part in phrase.split(" and "):
+            for cand in (part, part.split(" ")[-1]):
+                if cand.lower() in DESIGN_NOT_DODGE:
+                    continue
+                n = next((n for n, rx, full in TOPIC_RX if not full and rx.fullmatch(cand)), None)
+                if n is not None:
+                    out.append(n)
+                    break
+        return out
+    packed, dodges = [], []
+    for ln, t, sec in body_sents:
+        ts = topics_in(t)
+        if len(ts) >= 2:
+            packed.append(f"{ln}: {len(ts)} chapters ({', '.join(str(n) for n in sorted(ts, key=str))}): {t[:80]}")
+        for rx in (BELONGS_DODGE, ENTRIES_DODGE):
+            for m in rx.finditer(t):
+                dodges.append(f"{ln}: '{m.group(0)[:50]}' in: {t[:70]}")
+        for m in DESIGN_DODGE.finditer(t):
+            if set(design_topics(m.group(1))) - {ch.chapter_number}:
+                dodges.append(f"{ln}: '{m.group(0)}' in: {t[:70]}")
+    # target 0: a spot check of 30 hits across 15 chapters (2026-10-29) found no false positive, because a topic
+    # key counts only inside "the <topic> chapter" and a bare title phrase only in its capitalized form
+    gate("sentences naming 2+ other chapters", len(packed), 0, not packed, packed)
+    gate("cross-reference dodges: 'belongs to', 'the X design' (review)", len(dodges), 0, not dodges, dodges, warn=True)
+
+    # 31d search narration and source classes (brief v5 "State the finding, never the search")
+    sn = []
+    for ln, t, sec in body_sents:
+        taken = spans(RESEARCH_NARRATION, t)  # counted by the research-narration gate already
+        for rx, named_ok in SEARCH_NARRATION:
+            for m in rx.finditer(t):
+                if overlaps(m.span(), taken):
+                    continue
+                if named_ok and NAMED_STUDY.search(t):
+                    continue
+                if m.group(0).lower() == "literature" and OWN_LITERATURE.search(t[:m.start()]):
+                    continue
+                if re.search(r"(?i)literature|guidance|research|data", m.group(0)) and NAMED_OWNER.search(t[:m.start()]):
+                    continue
+                taken.append(m.span())
+                sn.append(f"{ln}: '{m.group(0)}' in: {t[max(0, m.start() - 30):m.start() + 50]}")
+    gate("search narration and source classes (v5)", len(sn), 0, not sn, sn)
 
     # print
     print(f"LINT  {ch.path.name}")
