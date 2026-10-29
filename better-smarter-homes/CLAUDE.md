@@ -15,7 +15,7 @@ The active revision is **Revision 8** (created 2026-10-26: every chapter rewritt
 1. `AI_TODO.md` — the recovery anchor: status, the chapter loop log, the batch log, the immediate next action
 2. `README.md` — the folder map
 3. `STYLE_GUIDE.md` — the book's own guide: readers, voice, the layer contract, bans, measured targets, judgment checks. **Required in full before writing or judging any manuscript text.** It governs the book; the general prose guide `C:\Users\jon\Projects\writing-style-guide-v2.md` governs the prose and is also required in full. In this repository a copy sits at `writing-style-guide-v2.md` next to this file; use it wherever a revision8 file gives the `C:\` path.
-4. `FAULT_CATALOG.md` — the 46 named writing faults (22 inherited from Revision 6, 13 found in Revision 7 and 11 found in the Revision 8 chapter loop, all on 2026-10-26). A violation of any item ranks with a wrong code citation.
+4. `FAULT_CATALOG.md` — the 54 named writing faults (22 inherited from Revision 6, 13 found in Revision 7, and 19 found in the Revision 8 chapter loop on 2026-10-26 and 2026-10-29). A violation of any item ranks with a wrong code citation.
 5. `CHAPTER_TEMPLATE.md` — the anatomy every chapter has
 6. `BOOK_STRUCTURE.md` — the 36 chapters in final order, front and back matter, figures, editions, what the build generates
 7. `WRITER_BRIEF.md` and `REVIEW_CHECKLIST.md` — how a chapter is written and how it is judged

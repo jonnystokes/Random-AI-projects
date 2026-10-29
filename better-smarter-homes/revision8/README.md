@@ -7,7 +7,7 @@ Every chapter is rewritten here to the Revision 8 standard from the frozen Revis
 |---|---|
 | `AI_TODO.md` | The recovery anchor: status, the loop log, the batch log, the next action. Read first. |
 | `STYLE_GUIDE.md` | The book's voice and rules: readers, layer contract, bans, targets, judgment checks. |
-| `FAULT_CATALOG.md` | The 46 named writing faults (22 inherited, 13 from the Revision 7 reviews, 11 from the Revision 8 loop). |
+| `FAULT_CATALOG.md` | The 54 named writing faults (22 inherited, 13 from the Revision 7 reviews, 19 from the Revision 8 loop). |
 | `CHAPTER_TEMPLATE.md` | The anatomy of a chapter and the word budgets. |
 | `BOOK_STRUCTURE.md` | The 36 chapters in final order, front and back matter, figures, editions, what the build generates. |
 | `WRITER_BRIEF.md` | The instructions a chapter writer gets. Versioned; the loop edits only this. |

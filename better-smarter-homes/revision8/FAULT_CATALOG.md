@@ -289,6 +289,54 @@ obnoxious:* preserve-and-grow leftovers; the reader feels the seam and reads a r
 give the fact its own place (a table row, a short paragraph under a subheading) or drop it and list
 it under Dropped; history earns a clause only when it explains a rule the reader must follow.
 
+### Tier 6: Revision 8 Loop Faults, second round (found 2026-10-29, chapters 24, 25 and 30)
+
+Found by the full reading of three chapters written under brief v3, after the Tier 5 faults were
+mostly gone. Each now has a rule in WRITER_BRIEF.md v5.
+
+**47. Code Semicolon.** A semicolon in a Code entry's requirement or value line, joining two rules
+the lint never counted. 149 across seven Revision 8 chapters. *Resolution:* a comma or "and", or
+two entries. A Source line may separate two citations with a semicolon.
+
+**48. Text Pointer.** A sentence that points at another part of the chapter instead of stating the
+fact: "in the entry below" ten times in one chapter, "as the opening section states", "the values
+in the steps". *Why obnoxious:* Fault 44 by a third route, and the substitute writers reach for when
+the echo rules forbid restating a rule. *Resolution:* state what the rule does to the house; "in the
+entry below" at most once per section.
+
+**49. Packed Cross-Reference.** Two or three chapters named in one sentence, or a reference
+disguised as "the HVAC design", "belongs to Resilience", "Code entries for X are in the Y chapter".
+*Example:* chapter 25, seven sections. *Resolution:* one sentence naming one chapter, at most once
+per section, where the reader needs it.
+
+**50. Second Value.** Two chapters stating different values for one decided thing: the shower set
+point at 110 F in Plumbing Supply and 120 F in Interiors; lighting control by 0-10 V or DALI-2 in
+Smart Home and by radio only in Interiors. *Why obnoxious:* the reader cannot build both, and the
+book loses the authority of every other number. *Resolution:* the bordering chapter's decided value
+is used and named; a disagreement is a flag, never a second value.
+
+**51. Search Narration.** A sentence about the state of the evidence: "No study measures...", "No
+source gives...", "rather than a controlled trial"; and weak sources promoted to "guidance", "the
+literature", "national data", "one industry survey". About 40 in chapter 30. *Resolution:* the gap
+goes to Open items; a weak source is named as what it is; a study is named by author and year or
+title, never by its journal (chapter 25 named the wrong journal).
+
+**52. Shifted Measure.** A plain-language restatement that changes what the source's number
+measures: a recommended intake becomes "the body loses a cup", a response-time target becomes an
+arrival time, a permitted exposure becomes a damage dose, a guideline becomes a "federal limit",
+nonmelanoma skin cancer becomes all skin cancer. *Why obnoxious:* the reader acts on a number that
+no source stated. *Resolution:* say it plainly, keep the quantity.
+
+**53. Unsourced Threshold.** A number of days, hours or years stated as a fact when no source gives
+it: two rest days, a physician after a week, 500 hours, a 50th birthday that triggers a hire.
+*Resolution:* the plan's choice, tagged (Jon to confirm), carried in Open items; medical timing by
+the clinical sign the source names.
+
+**54. Borrowed Resolve.** Jon's note voicing the chapter's recommendations as his own promises
+("I will check in every two hours") when the record does not show him deciding them. Chapters 22,
+24, 25, 27, 30. *Why obnoxious:* Fault 35's cure turned into invention: a person's commitments put
+in his mouth. *Resolution:* reasons and decisions from the record; anything else is a [JON] question.
+
 ### Summary By Frequency
 
 Across all revision cycles, the most persistent faults by how often they appeared:
