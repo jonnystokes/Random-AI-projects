@@ -1,0 +1,18 @@
+# R7-6 fixlog: ch12 (file g1_ch_09) verify-and-mend, agent ch12verify, 2026-07-22
+- S1 9.2: merged line split - paragraph break inserted before "The decision holds only with" (was fused to final bullet).
+- S2 9.6: merged line split - break before "Documented cost for the components" (bootstrap-rig list).
+- S3 9.9: merged line split - break before "Blocks at 6 percent" (cement-strength list).
+- S4 9.9: merged line split - break before "No published minimum" (wet-exposure list).
+- S5 9.14: merged line split - break before "For every lab specimen" (production-record list).
+- S6 9.15: merged line split - break before "Integral color runs" (pigment-discipline list).
+- S7 9.20: merged line split - break before "Wall height and parapet tables" (Pima table list).
+- C1 9.7: deleted "; that joint is the forgiveness in mortared masonry" (personification; absorption fact already stated in same sentence).
+- C2 9.13 Simple: "A demolded block is a shape, not yet a strength." -> "A demolded block has its final shape but almost none of its final strength." (antithesis to plain fact).
+- C3 9.18 Simple: standing-wall vignette -> "Each practice structure also becomes acceptance evidence. The material stands as a real wall, two winters old, with its production log and test reports on file." (property + mechanism; two-winters and log/report content preserved).
+- C4 9.20 Simple: deleted "This project does not argue from nothing."; "already set numbers" -> "already state numbers" (contrastive negation removed; approved document verb).
+- C5 9.15 Simple: "An owner who controls the mix controls the face." -> "Because the owner batches the mix, the face is a production decision." (mirrored quotable to causal declarative).
+- C6 9.16 Simple: deleted "Every one of them is managed with equipment that costs less than one emergency-room visit." (unanchored quotable comparison; no sourced PPE dollar figure exists in answers to anchor it - checked before deleting).
+- C7 9.2: "specifies the wall and defers one decision to this chapter" -> "specifies the wall; the decision recorded here is" (document-agent verb replaced with approved "recorded").
+- C8 9.10: "the honest ranking from each material's own record" -> "the ranking below is assembled from each material's own record" (self-evaluative word dropped).
+- C9 9.19 Simple: "That evidence makes approval the easiest professional answer." -> "That evidence lets the official approve on the same basis used for commercial products." (performance to mechanism).
+- X1 9.19 Code: statewide-ruling entry source line "OAR 918-008-0095." -> "OAR 918-008-0095; OAR 918-008-0110." (must-allow effect sourced per ch2 2.5; 0095 = application/ruling process).

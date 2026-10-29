@@ -1,0 +1,6 @@
+# Generated artwork (about 680 MB of PNG files); kept out of version control.
+images/
+
+# Python byte-code caches.
+__pycache__/
+*.pyc

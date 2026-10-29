@@ -1,0 +1,81 @@
+# Fix log: g1_ch_03_land-site-and-feasibility.md (style-fix pass, 2026-07-17)
+
+One line per fix. Line numbers refer to the pre-fix file (verifier's work order).
+
+- L3 [A] "This chapter is the evaluation you run" -> "This chapter documents the evaluation of a parcel" (copular identity + reader staging removed).
+- L7 [A] "Several chapters continue from this one" -> "Four other chapters contain the follow-on work"; "This chapter is the early filter that determines" -> "This chapter contains the early screening; the buyer uses it to decide" (motion verb, copular identity, chapter-as-agent removed; actor named).
+- L16 [C] Severity table "costly or uncertain" anchored with the $20,000-$50,000 alternative-septic range from the 3.21 row.
+- L52 [A] "Closed-sale comparables live in" -> "are recorded in".
+- L105 [B] 7-item structural-values enumeration converted to a formatted list.
+- L107 [A/B] Six-load enumeration converted to a formatted list; "design questions wood-framed houses never face" -> "design questions that do not arise in wood-framed construction".
+- L176 [A] Mirrored isocolon "control what may be built before the building code controls how" recast as plain sequence statement.
+- L193 [C] GIS-portal and DLCD facts folded into 3.4 Professional prose (new closing paragraph); "carry parcel identity" -> "list".
+- L206 [C] Code entry "holds the actual rules" -> "contains the actual rules" (entry kept as Code per work order).
+- L210-216 [C] GIS-portal and DLCD Code entries removed from the 3.4 Code block (guidance-only; folded into Professional prose above).
+- L235 [A] "cannot be built on, at any price" -> "cannot legally hold a dwelling. The purchase price has no effect on path eligibility."; "The tests below decide the purchase" -> "The buyer confirms a path before any design work starts" (actor named).
+- L253 [A/B] Farm-dwelling 65-word sentence split into three; "thresholds live in administrative rule" -> "are set in administrative rule"; research-bank narration ($2,500/$20,000 drafts) -> "The current rule text contains no $2,500 or $20,000 threshold."
+- L255 [B] Nonfarm-dwelling findings and soil-test sentences split (33- and 70-word sentences -> nine short sentences).
+- L257 [B] Lot-of-record sentences split; semicolon chain -> periods.
+- L259 [B] Large-tract 43-word sentence split; "at the price of recording" -> "The combination requires recording".
+- L261 [B] Template 41-word opener split; case-law colon chain split into three sentences; recheck clause split off.
+- L263 [A] "caps attach to other categories" -> "caps apply to other categories".
+- L265 [B] Parcel-assembly 50-word sentence split into three.
+- L267 [B] Four-item LUBA denial-pattern enumeration converted to a formatted list; DLCD report sentence split.
+- L269 [A/B] Home-occupation four-condition enumeration converted to a formatted list; 40-word ORS 215.448(3) sentence split; "which circulated in this project's early research" narration removed (plain finding kept).
+- L321 [A] "the review is what earns that confidence" -> "the review confirms the specific claim's validity, conditions, and clock" (agent verb removed).
+- L325 [A/B] "(not 1996, a date this project's research corrected)" removed (research narration); 45-word Measure 56 sentence split into three.
+- L347 [C] Applied intro now carries the title-report timing: "Before closing, and before the title contingency expires, review..." (imperative moved from Code entry into Applied).
+- L373 [C] Title-report "working index" fact folded into 3.7 Professional prose (from removed Code entry).
+- L379 [C] OWRD research-route fact folded into the water-rights bullet ("are researched in OWRD records... not in the county records"); "live in" removed with the entry.
+- L380 [A] Summer/winter plow vignette -> "Cost allocation is the common failure on shared private roads, most often over snow removal. The agreement assigns maintenance shares and an enforcement mechanism."
+- L383 [C] BLM federal-mineral-reservation fact folded into the severed-mineral paragraph (from removed Code entry); "may carry" -> "may be subject to".
+- L387 [A] "the absence of case law is not safety" -> "the recorded restrictions bind whether or not they have ever been litigated" (fact + consequence).
+- L398-412 [C] Title-report, OWRD, and BLM Code entries removed (guidance-only; folded as prose above); Forestry entry kept as Code with Source recast to OAR chapter 629.
+- L435 [A] "A road on the map is not always a road on the ground..." deleted; fact folded as "A mapped road also does not prove a legal right to use it."
+- L445 [A] "An agreement without enforcement is a handshake" -> "Without the enforcement term, compelling a non-paying party requires a lawsuit with no fee-shifting."
+- L451 [B] Easement-cost 52-word sentence split into four; negotiation sentence split; "modest" evaluative frame replaced by "known ranges" with the figures attached.
+- L453 [B] Way-of-necessity 45- and 36-word sentences split; semicolon chains -> periods.
+- L455 [A/B] "One correction this project's research made" -> "In the quoted code text, the reduced 12-foot driving surface serves three or fewer dwelling units, not two"; 33- and 34-word sentences split.
+- L457 [B] Base-rock, culvert, and driveway-first sentences split; "every later delivery rides on it... the build it was supposed to serve" -> plain statements.
+- L530-540 [C] ePermitting Code entry removed; fact folded into 3.9 Professional prose; utility-extension and driveway-permit entries kept.
+- L545 [A] "more purchases fail on these two checks than on everything else combined" -> "these two checks are the earliest hard gates in a rural purchase" (mechanism, no unsourced comparative).
+- L586 [A] "pushes the design off the standard ladder" -> "rules out the standard trench designs".
+- L588 [A] Ladder metaphor deleted; fee-tier fact restated plainly ("DEQ's permit fee schedule tiers its fees in the same order"); "imported fill buying vertical separation" -> "that adds vertical separation".
+- L667 [A] "up to a generous daily cap" -> "up to 15,000 gallons per day" (verified saved; logged post-freeze).
+- L679 [B] ORS 537.545 seven-category enumeration converted to a formatted list; "drops out of the statute" -> "is repealed" (verified saved; logged post-freeze).
+- L681 [A/B] "group domestic reaches" -> "applies to"; "reads as" -> "classifies as"; "crosses into" -> "falls in"; OWRD-guidance sentence split (verified saved; logged post-freeze).
+- L683 [B] Critical-Groundwater 47-word and Deschutes-mitigation 45-word sentences split into short sentences (verified saved; logged post-freeze).
+- L685 [B] Harney decline 40-word and OWRD-memorandum 38-word sentences split (verified saved; logged post-freeze).
+- L687 [B] Rainwater 28-word opener and 40-word backflow sentence split; "cleanest source legally" -> "simplest legal status of the four sources" (verified saved; logged post-freeze).
+- L689 [A/B] "not verified in this project's research" -> "No controlling statute section is verified for that exemption"; "had no sourced Oregon figures in this project's research" -> "No sourced Oregon figures price spring development"; "a mechanical fact with no code citation needed" self-commentary removed; sentences split (verified saved; logged post-freeze).
+- L700 [A] "undocumented in any Oregon source this project located... an inference, not a finding" -> "No located Oregon source documents...; any such sharing depends on proximity and existing relationships" (verified saved; logged post-freeze).
+- L738 [B] Six-hazard enumeration converted to a formatted list (verified saved; logged post-freeze).
+- L789 [A] "Slope is rarely a dealbreaker. It is a design constraint..." -> "Slope changes the design and the cost rather than blocking a purchase." (verified saved; logged post-freeze).
+- L738 [RESUME NOTE] Six-hazard list conversion re-verified on disk after the 9:00 freeze; present and correct.
+- L840-850 [C] Verified on disk: grading Code entry carries OAR 340-045 / ORS 468B.050; USGS elevation entry folded into 3.13 Applied prose and removed from Code (saved pre-freeze).
+- L857 [A] "the parcel itself is the problem" -> "the parcel fails this screen".
+- L877 [B] 83-word setback roll-up converted to a formatted four-item list; "drive the plan" -> "control the plan"; block-yard follow-on sentence split.
+- L879 [B] Acreage-arithmetic 55- and 36-word sentences split into six short sentences.
+- L881 [A/B] "a threshold this project's research has not yet sourced and the site-development chapter will settle" -> "the threshold has no published source, and the site-development chapter contains the pad-grade decision"; "red flag" -> "warning"; sentences split.
+- L883 [B] Permit-exemption 52-word sentence split; final semicolon chain -> periods.
+- L899 [A] "Distance is a daily cost that never appears on a closing statement" -> "Distance adds daily time costs that continue long after the purchase."
+- L932 [A] "distance is rarely a dealbreaker. It is almost always a design constraint..." -> "distance changes staging and inventory planning rather than blocking a purchase."
+- L976 [B] 3.17 Simple: 22-word court-standard sentence split; average now under 14.
+- L989 [A/D] "An earlier secondary summary in this project's research" -> "Secondary summaries describing an objective reasonable-basis standard are contradicted by the primary case text"; 40-word vignette sentence split; added topic-name cross-reference to the legal, permits, and owner-builder rules chapter (compliance side).
+- L1003 [B] 3.18 Simple: two long sentences split; average now under 14.
+- L1019 [A/B] "this sequence is assembled from" narration -> "Each step above is individually sourced earlier in this chapter"; 35- and 24-word sentences split.
+- L1031 [A] "the clause keeps everyone honest about it" -> "the clause states the binding timeline inside the contract itself, where both parties read it."
+- L1040 [B] Land-loan-terms 36- and 32-word sentences split into seven short sentences.
+- L1042 [A/B/D] Land-sale-contract 55- and 40-word sentences split; added topic-name cross-reference to the legal, permits, and owner-builder rules chapter (forfeiture statutes, compliance side).
+- L1044 [B] Tax-foreclosure 57-word sentence split into four.
+- L1046 [A/B] Redemption sentence split; "carries 180 days" -> "allows redemption within 180 days".
+- L1048 [B] Lease-option sentences split; semicolon chains -> periods.
+- L1050 [B] Co-ownership and partition-suit sentences split.
+- L1052 [A/B] "Family transfers run on federal gift-tax mechanics" -> "follow"; 70- and 40-word sentences split; "go to an attorney together" -> "An attorney reviews... together".
+- L1098 [B] 3.20 Professional: 36-, 60-, and 34-word sentences split at clause boundaries; ten short sentences.
+- L1158 [A] Final line recast: "Treat a risk that cannot be priced, permitted, engineered, insured, accessed, or inspected as a dealbreaker until a written answer resolves it." (all six categories kept; instruction, not proverb).
+
+## Battery result (post-fix, 2026-07-17)
+
+Part 6 script battery re-run on the finished file. Zero hits on: em dashes, antithesis, intensifiers, stock AI phrases, BSH, hedges, self-narration, anaphora, unanchored size words, text-as-agent fossils, analogy markers, reader self-check, by-design, worthiness, code entries missing Source lines. Sentence-length audit: all nine work-order Professional sections (3.3, 3.5, 3.6, 3.8, 3.11, 3.14, 3.18, 3.19, 3.20) now average under 22; 3.17 and 3.18 Simple average 12.0 and 10.2 (under 14). Remaining review-class hits, all justified: (1) "wants to live" with human subject (household); (2) "Chapter 3" in the chapter's own title heading; (3) later/sooner comparatives, each with its referent in-sentence; (4) code-citation regex misses on chapter-level sources (ORS chapter 215/227/93/312/275/374, OAR chapter 629/690/333, SB 391, Oregon Fire Code 503.2.1/Appendix D, tariff schedule) - all are statute/rule/standard sources and satisfy the Code-anchor rule. Sections 3.2/3.7/3.10/3.12/3.13/3.16 Professional and several Applied paragraphs measure over band on this stricter counter but were not flagged by the verifier and are outside this fix order's scope (flagged-sentences-only rule).
+- L1024/L1077 [D-revert, 2026-07-17, orchestrator] Removed both "the legal, permits, and owner-builder rules chapter treats the same ... from the compliance side" pointer sentences: the ch4 verifier proved they dangle (chapter 4 contains no Zygar/ORS 93.910 treatment; the research bank lands that material in this chapter). Cross-reference rule 4 not triggered: single-chapter treatment.
