@@ -163,7 +163,7 @@ Under the loop rule, these chapters stay as written until the redo list is worke
 
 | Ch | Title | Baseline | Words then → now | Sections now | Code entries | State when the limit hit |
 |---|---|---|---|---|---|---|
-| 6 | Structural System and Concrete Design | Revision 7 text | 15,526 → 13,861 | 15 | 41 | Writing sections in plan order. The file is mid-rewrite: part new text, part old. Closing parts not written. |
+| 6 | Structural System and Concrete Design | Revision 7 text | 15,526 → 13,861 | 15 of 21 | 41 | 6.1 to 6.15 rewritten. 6.16 to 6.21 and the closing parts not yet written (see 4.6). |
 | 18 | Water Independence | skeleton | 398 → 16,422 | 17 | 18 | **First draft complete**: 19 Who-decides rows, 26 Open items plus Dropped, 16 decisions, 16 records. Was starting the first lint (13 failing gates). |
 | 20 | Electrical: Service, Panels, Grounding | Revision 6 text | 5,468 → 10,157 | 12 of 14 | 50 | 20.1 to 20.12 saved. Writing 20.13, 20.14, then the closing parts. |
 | 26 | Developing the Site | skeleton | 385 → 3,750 | 4 | 5 | Early sections written. |
@@ -171,7 +171,7 @@ Under the loop rule, these chapters stay as written until the redo list is worke
 | 36 | Business and Brand Framework | Revision 6 text | 5,078 → 7,028 | 10 | 26 | Writing section by section. |
 | | **Total** | | **27,139 → 63,614** | **72** | **171** | |
 
-Chapter 6 shows fewer words than its baseline only because it is mid-rewrite. The lint's "not lower than Revision 7" gate will hold it to the baseline at finish.
+Chapter 6 shows fewer words than its baseline because six of its sections aren't rewritten yet. The lint's "not lower than Revision 7" gate will hold it to the baseline at finish.
 
 None of the six is finished. Each still owes:
 - its lint pass;
@@ -181,7 +181,52 @@ None of the six is finished. Each still owes:
 
 None has been reviewed yet.
 
-### 4.6 Research gathered
+### 4.6 How far each subagent got
+
+The four Opus subagents finished. The six Fable writers stopped when the weekly limit hit, between about 1:20 AM and the afternoon of 2026-10-29.
+
+Every writer follows the same pipeline, set by WRITER_BRIEF.md:
+
+1. read the instructions;
+2. read its inputs and verify sources;
+3. plan, with an item map, in the worklog;
+4. draft section by section;
+5. write the closing parts (Who decides what, Open items, Decisions, Records);
+6. run the lint and fix every FAIL;
+7. do the judgment checks;
+8. file its research and cross-chapter flags;
+9. report.
+
+Progress was measured against each writer's own plan in its worklog. The overall percentage is a rough estimate: drafting is weighted as about half of a writer's work, and reading, research and planning as about a quarter.
+
+| Subagent | Task | Steps finished | Where it stopped | Drafted against plan | Overall |
+|---|---|---|---|---|---|
+| Reviewer, chapter 24 | Full review | All | Done (`review-ch24.md`) | n/a | 100% |
+| Reviewer, chapter 25 | Full review | All | Done (`review-ch25.md`) | n/a | 100% |
+| Reviewer, chapter 30 | Full review | All | Done (`review-ch30.md`) | n/a | 100% |
+| Lint updater | v5 gates | All | Done (committed `1b925c8`) | n/a | 100% |
+| Writer, chapter 18 Water Independence | Chapter from skeleton | 1 to 5 | About to start the first lint (13 failing gates, all expected for a first draft). The research file is not written yet. | 17 of 16 planned sections (one split in two), plus all four closing parts | about 75% |
+| Writer, chapter 33 Personal Project Finance | Chapter from skeleton | 1 to 5 | Every section and all four closing parts are in the file. Lint not yet run (14 failing gates). The research file is not written yet. | 14 of 14 sections, plus closing parts | about 70% |
+| Writer, chapter 20 Electrical Service | Rewrite of Revision 6 text | 1 to 3, most of 4; research file written | Writing 20.13 and 20.14, then the closing parts | 12 of 14 sections | about 65% |
+| Writer, chapter 6 Structural System | Rewrite of Revision 7 text | 1 to 3, most of 4 | Writing in plan order. The last section saved is 6.15. | 15 of 21 sections. No closing parts. | about 60% |
+| Writer, chapter 36 Business and Brand | Rewrite of Revision 6 text | 1 to 3, about half of 4; research file written (34 findings) | Saving sections in plan order, 36.1 to 36.8 logged | 10 of 18 sections. No closing parts. | about 50% |
+| Writer, chapter 26 Developing the Site | Chapter from skeleton | 1 to 3, the start of 4 | Plan written at 1:40 AM, then 26.1 to 26.4 drafted | 4 of 19 sections. No closing parts. | about 30% |
+
+**Chapter 6.** The chapter file now holds the new 6.1 to 6.15 and nothing after them. The Revision 7 sections that the plan maps to 6.16 to 6.21 are not in the file:
+- seismic field evidence;
+- voluntary upgrades;
+- safe rooms;
+- water-retaining structures;
+- hold points;
+- structural documents.
+
+Nothing is lost. That text is in the frozen `revision7/manuscript/g1_ch_06_structural-system-and-concrete-design.md`, and the worklog maps every item to its new section. The writer must finish those six sections before the lint will pass its "not lower than Revision 7" word gate. Today the file is 1,665 words under its baseline.
+
+**Same gap, four writers.** The writers for chapters 6, 18, 26 and 33 each say their verification was "filed in research/new/chNN.md", but none of those files exists. Their findings are recorded only in the worklog summaries and the chapter text. Each must write its research file before reporting.
+
+**Taken together,** the six writers are about 58% of the way through this batch: about 3.5 chapters' worth of the 6.
+
+### 4.7 Research gathered
 
 | Source | Content |
 |---|---|
