@@ -39,12 +39,12 @@ whatever was saved).
 
 | Chapter | Brief | Model | State |
 |---|---|---|---|
-| 6 Structural system and concrete design | v5 | Fable | Writing |
-| 18 Water independence (skeleton) | v5 | Fable | Writing |
-| 20 Electrical service, panels, grounding | v5 | Fable | Writing |
-| 26 Developing the site (skeleton) | v5 | Fable | Writing |
-| 33 Personal project finance (skeleton) | v5 | Fable | Writing |
-| 36 Business and brand framework | v5 | Fable | Writing |
+| 6 Structural system and concrete design | v5 | Fable | Done 2026-11-03, lint PASS, not reviewed |
+| 18 Water independence (skeleton) | v5 | Fable | Done 2026-11-03, lint PASS, reviewed (row 12, ITERATE; review-ch18.md) |
+| 20 Electrical service, panels, grounding | v5 | Fable | Done 2026-11-03, lint PASS, not reviewed |
+| 26 Developing the site (skeleton) | v5 | Fable | Done 2026-11-03, lint PASS, not reviewed |
+| 33 Personal project finance (skeleton) | v5 | Fable | Done 2026-11-03, lint PASS, not reviewed |
+| 36 Business and brand framework | v5 | Fable | Done 2026-11-03, lint PASS, not reviewed |
 
 ## Carrying on from another computer
 
@@ -65,3 +65,17 @@ Next steps, in order:
 
 A new writer is started fresh from `WRITER_BRIEF.md`, with the same dispatch shape as the earlier ones:
 its chapter file, answer files, bordering chapters and Revision 7 baseline. Writers always run on Fable.
+
+## 2026-11-03: where the batch stands
+
+All six v5 writers finished after the resume (a plain "continue" by SendMessage worked: the cloud
+session kept the same session id across a machine restart, so the transcripts were where the lookup
+expected them). Every chapter passes the lint; every writer's flags are merged. Only chapter 18 has
+been read in full (ITERATE; v6 candidates in AI_TODO.md). Jon then said to finish the running agents
+and start no more, so chapters 6, 20, 26, 33 and 36 wait for their reviews.
+
+Next steps, in order:
+
+1. Read chapters 6, 20, 26, 33 and 36 in full against REVIEW_CHECKLIST.md (loop rows 13 to 17).
+2. Write brief v6 from all six v5 readings (the candidates are logged), plus lint gates.
+3. Then the redo list in LOOP_REPORT.md and the mass wave (phase C).
