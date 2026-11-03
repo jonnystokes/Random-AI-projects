@@ -747,3 +747,287 @@ Steel fibers may serve as minimum shear reinforcement only within fixed limits.
   Normalweight concrete with an f'c of 6,000 psi or less, a member depth of 24 inches or less, factored shear under the limit the table sets, and the fiber mix accepted by flexural test.
   Source: ACI 318-19 Table 9.6.3.1 and section 26.12.7.1.
 ```
+
+## 6.16 Seismic performance: the field evidence
+
+**Simple**
+
+Unreinforced masonry is the deadliest common building type in earthquakes. Its walls are stacked units with nothing tying them to each other or to the floors and roof. During shaking, an unanchored wall face separates from the building and falls. Reinforced, grouted, anchored masonry behaves differently. Steel ties the courses into one unit, and the bond beams tie the walls to the floors and roof. In Chile in 2010, houses built that way stood beside similar houses that did not, and the difference was traced to small details at the joints, not to how much wall each one had.
+
+**Professional**
+
+Unreinforced masonry lacks both continuity and diaphragm anchorage. During shaking, an unanchored wall's out-of-plane inertia has no connection to the diaphragm above, so the wall face separates and falls, the dominant recorded collapse mechanism for the type. Anchoring the floor and roof diaphragms to the walls converts each wall from an independently vibrating mass into a braced element of the structure, and Saunders Seismic's retrofit guide and Simpson Strong-Tie's retrofit blog both record it as the first and most effective retrofit step for existing unreinforced buildings. The walls here are reinforced and grouted, with diaphragm anchorage through the bond beams, so the mechanism is designed out provided the detailing is executed as drawn. Four field conditions reintroduce it into a nominally reinforced wall: partial grouting thinner than the design assumed, a bond beam interrupted at an opening, an ungrouted void at a congested bond-beam intersection, and an unverified tie-down.
+
+The 2010 Maule earthquake in Chile, magnitude 8.8, produced the clearest comparison for reinforced and confined masonry. Brzev, Astroza and Moroni's 2010 reconnaissance report and Astroza, Moroni, Brzev and Tanner's 2012 paper on engineered masonry in that earthquake record physically adjacent, nominally similar masonry buildings with sharply different outcomes, some undamaged and their neighbors severely damaged or partly collapsed. The difference traced to nameable details rather than to wall quantity, material strength or apparent design intent:
+
+- missing or inadequate ties at the joint zones between confining elements
+- absent ties in end columns, concentrating damage in the joint zone
+- absent ties at beam-to-column joints combined with short anchorage, producing joint shear failure
+- longitudinal bars buckling where tie size and spacing could not restrain them under load reversal
+
+Across the surveyed stock, most one- and two-story confined-masonry dwellings were undamaged, and so were most three- and four-story confined-masonry buildings. Several reinforced and partially confined three- and four-story buildings suffered extensive damage, and two partially confined three-story buildings collapsed. This house's specification closes those modes at the design level: continuous vertical bars in grouted cells, bond beams developed past every opening, and laps and cover to the development rules. The remaining exposure is field execution, because the Chilean surveys record buildings where the designed reinforcement existed on paper and a placement gap undid it. The hold points and the pre-pour checks target the joint zones and anchorage points where similar buildings diverged.
+
+## 6.17 Voluntary upgrades beyond the code minimum
+
+**Simple**
+
+The code's earthquake rules are written so that the people inside survive. The building itself may be damaged past repair. This house designs above that line. The options add steel, grout or engineering analysis beyond the minimum. Filling every block cell with grout, running each vertical bar in one piece from footing to roof, and doubling the horizontal wire are the three a block crew can do with the tools it already has. Others are research ideas, such as a wall that rocks on its base and recenters itself, and those need the engineer to invent the detail for this house.
+
+**Applied**
+
+1. Price solid grouting against the reinforced-cells baseline from the mason's quote on the wall schedule.
+2. Price the four detailing upgrades per linear foot from the rebar supplier and the mason.
+3. Ask the engineer where a continuous rod tie adds margin: between large openings, at short returns, and on low-margin overturning lines.
+4. State the performance target in the engineer's brief, above life safety, and whether a rating is wanted.
+
+**Professional**
+
+### Solid grouting of every cell
+
+The baseline grouts every reinforced cell. Grouting every cell, reinforced or not, is standard West Coast seismic practice, and partial grouting is the accepted cost-saving norm in lower-seismic regions. The shake-table study "Seismic Performance Assessment of Partially Grouted, Nominally Reinforced Concrete-Masonry Structural Walls" and the 2023 test program on partially grouted walls with different horizontal reinforcement types both find that full grouting improves ductility, damage pattern and post-peak behavior, and both treat a partially grouted wall as a different structural system rather than a cheaper equal. Neither supplies a single multiplier transferable to this wall geometry. Terrapin Construction Group's cost page for May 2026 puts the grout-fill increment at $2 to $4 per square foot of wall face over a hollow wall, solid-grouted reinforced walls at $22 to $26 per square foot in coastal high-seismic markets, and the Pacific Northwest's installed range at $22 to $32. A per-wall figure takes a mason's quote against the actual wall schedule.
+
+### Ductile detailing at first construction
+
+Four upgrades use the same crew, tools and trade as the code-minimum wall:
+
+- vertical bars at closer spacing, No. 5 at 24 inches against the code's No. 5 at 48 inches for an eight-inch wall
+- full-height continuous vertical bars where stock length and story height allow, removing the lap zones and their congestion
+- joint reinforcement in every course instead of every other course, doubling that material and its laying time
+- added dowels at the wall-to-bond-beam interfaces beyond the required minimum
+
+Each is a material-and-labor increment, not a new skill. A per-linear-foot figure for any of them takes a mason's and a rebar supplier's quote against the wall schedule, and the grout increment above is the nearest order-of-magnitude reference until then.
+
+### A continuous tension tie at every wall segment
+
+Proprietary continuous-rod systems, Simpson Strong-Tie's Strong-Rod among them, run a coupled rod from roof level to foundation anchorage so that overturning and uplift are resisted as one designed tension path. They were developed for multi-story light-frame construction. A fully grouted, continuously reinforced block or concrete wall already contains more continuous mass and steel than the framing those systems supplement, so the applicable version of the upgrade here is continuity in the wall's own vertical bars. Discrete rods remain candidates at wall segments between large openings, at short wall returns, and on wall lines where the overturning calculation approaches the code demand. Pricing follows a take-off once the engineer has sized the demand at each line.
+
+### Wall density as a design check
+
+Moroni, Astroza and Acevedo's 2004 study of Chilean masonry housing reports the correlation Astroza and others drew after the 1985 Llolleo earthquake between damage and wall density per unit floor, the shear-wall area in each direction divided by the floor area: light damage above 1.15 percent, moderate between 0.85 and 1.15, severe between 0.50 and 0.85. In their database, wall density exceeded 1.15 percent in 69 percent of the reinforced masonry buildings, and in 57 percent of those built during the 1990s, and they flag any building under 0.85 percent as a concern. The figures are calibrated to Chilean confined and reinforced masonry and do not transfer numerically to reinforced block designed under TMS 402, which works through load paths and reinforcement ratios instead. The working proxy here is long, continuous shear-wall lines rather than short segments between openings.
+
+### A named performance target
+
+ASCE 41-23's performance levels, Operational, Immediate Occupancy, Life Safety and Collapse Prevention, are written for evaluating and retrofitting existing buildings. The concept transfers as an owner's brief, and the engineer reaches a higher-than-code target through conventional over-design: higher reinforcement ratios, tighter drift limits and conservative detailing margins. The U.S. Resiliency Council's rating system scores Safety, Damage (repair cost) and Recovery (time to regain function) from one to five stars for new and existing buildings, and it is a rating and verification system, not a design standard, run separately from the permit. No general cost premium for above-code seismic performance is published. The Canterbury Earthquakes Royal Commission's report on low-damage technologies records one Christchurch commercial building with a net construction saving near 7 percent from a schedule three months shorter, a figure specific to that project's technology.
+
+### Rocking walls and sliding base isolation
+
+Two low-damage concepts remain design concepts rather than selectable options. Post-tensioned rocking walls, from the PRESSS program at the University of California San Diego and extended by New Zealand's Pres-Lam work after Christchurch, let a wall rock on its foundation, recenter through unbonded tendons and dissipate energy in replaceable steel elements. The residential adaptations are mature in engineered timber and not in reinforced block or cast concrete. Low-cost sliding isolation places a low-friction plane between foundation and superstructure with a stop against excess travel. Habieb, Milani, Tavio and Milani's 2017 case study of a single-story masonry house found marble-on-marble and marble-on-geosynthetic interfaces cutting roof acceleration by up to half. The system is not code-recognized in Oregon, and the published designs leave the service crossings, plumbing and wiring across a plane built to move, unresolved for a serviced house. Either concept requires the engineer to develop, analyze and stamp a project-specific design, with nonlinear dynamic analysis, before it can enter a permit submittal.
+
+## 6.18 Safe rooms and hardened options
+
+**Simple**
+
+A safe room is a room built to a tested shelter standard, so that the people in it survive extreme wind and flying debris even if the rest of the building fails. In a wood-framed house the safe room is a separate reinforced box built inside it, and the box is most of the cost. This house's shell is already reinforced concrete and block. Here the added work is mostly a rated door, a rated vent, and any local reinforcement the engineer finds the room still needs. A tested door costs $2,500 to $3,200, and an ordinary door undoes the room.
+
+**Applied**
+
+1. Have the engineer check the candidate room's walls, slab and roof against the shelter standard's loads before pricing anything.
+2. Set the door-frame threshold anchors and any local footing bars at the footing and foundation-wall pre-pour holds.
+3. Place the frame's anchor pattern and any added wall bars at the wall pre-pour hold.
+4. Set the vent embeds and any roof bars at the pre-cover holds.
+5. Install the rated door and frame to the maker's tested instructions, and have that installation signed off against them.
+6. Read the state geology department's tsunami map for the parcel before any inundation design question is opened.
+
+**Professional**
+
+FEMA P-320, sixth edition, December 2024, prices a new-construction safe room built to its design plans at $12,700 to $16,100 for an 8-by-8-foot room and $25,600 to $34,500 for a 14-by-14-foot room. Those figures cover materials, labor, sales tax and a 15 percent contingency, exclude the door assembly, and derive from RS Means 2019 national averages adjusted by producer price indexes. Tested and labeled residential door assemblies start at $2,500 to $3,200, and a 4-by-6-foot prefabricated steel room retails at $5,500 to $6,700 shipped 300 miles and installed, with site preparation averaging $1,000 in 2021. The plans assume an independent reinforced concrete or masonry box inside a wood-framed house, so most of the cost is the box. With a shell already reinforced concrete and block for high-seismic Oregon, the marginal items are the rated door and frame, a debris-impact-rated vent, any local reinforcement or connection the engineer finds the room needs beyond the house's ordinary design, possibly none, and independent anchorage where the shelter standard requires the room to be isolable from building racking. The What Concrete Uniquely Enables chapter carries the shelter standard's wall and door values and the choice of room. The marginal figure comes from the engineer's load check and the quotes for the door, the vent and any added work.
+
+A first-construction safe room follows the shell's pour sequence, with its items added to the checklists at the existing hold points, and one added verification: the rated door and frame are signed off against the manufacturer's tested installation documentation, because installation outside those instructions voids the assembly's rating.
+
+### Tsunami siting
+
+FEMA P-646, third edition, 2019, is guidance for community vertical-evacuation refuges, not a single-family requirement anywhere in Oregon. Its structural concepts transfer voluntarily to a house sited inside a mapped inundation zone: breakaway lower-level wall panels engineered to detach before loading the primary structure, open ground-floor construction that lets water and debris pass, and below-inundation structural elements designed for the hydrodynamic and debris-impact loads of ASCE 7-16's tsunami chapter. Whether the parcel sits inside a zone is read from the current map of the Oregon Department of Geology and Mineral Industries (DOGAMI) before any of it becomes a live design question.
+
+### Dome and vault geometry
+
+Monolithic dome homes run $100 to $250 per square foot, or $160,000 to $500,000 by size and finish, on HomeGuide's and the Monolithic Dome Institute's 2026 figures, overlapping high-end conventional concrete construction. The institute's own commentary names financing as the largest hurdle, because lenders prefer one general contractor presenting one complete proposal and dome construction adds a specialist builder to an owner-managed job. Appraisers lack comparable sales, and dome homes sit on the market longer than conventional houses. Curved walls complicate cabinetry, furniture placement and acoustics, and the response, custom built-ins, adds cost beyond the base figures. Oregon precedent exists at institutional scale in the twin Monolithic Domes of Portland's City Bible Church, in use since 1991, and residential dome-contractor availability in Oregon is confirmed by inquiry at build time. A partial application, one domed or barrel-vaulted safe room inside an otherwise rectilinear house, puts a compression shell over a small span and avoids the whole-house financing and layout drawbacks. It is a design concept, priced by a specialty-forming quote against the room size and the shelter loads.
+
+**Code**
+
+```
+A storm shelter or safe room in a dwelling is built to the shelter standard.
+  Storm shelters, detached or built as safe rooms within buildings for refuge from tornadoes and hurricanes, comply with ICC 500 in addition to the code.
+  Source: ORSC R323.1 (2023 edition); ICC 500-2020.
+```
+
+## 6.19 Water-retaining structures
+
+**Simple**
+
+A concrete cistern is a tank for stored water, buried or at grade, and it is designed to its own rules. Water presses on every face of it all the time, and the wall must not leak, so its cracks have to stay finer than a dry wall's. In an earthquake the stored water sloshes and adds force. An empty tank below the water table is pushed upward by the groundwater. Those four conditions have their own design standards, separate from the ones for the house's walls.
+
+**Professional**
+
+A water-retaining structure is designed to the environmental-structures standards, not the dry-wall assumptions behind the house's walls. ACI 350 governs the structure: sustained hydrostatic load on every face, liquid-tightness, and crack-width control tighter than a dry wall's serviceability limit. ACI 350.3 governs the seismic design of liquid-containing structures, with impulsive and convective (sloshing) hydrodynamic forces, the tank's vibration periods, sloshing wave height and soil-structure interaction. Its scope covers concrete structures storing water without a lower size bound, so no size exemption removes a residential cistern from it, and whether the engineer applies the full method or treats the stored water as added seismic mass in the main analysis is a scale judgment for the specific tank. AWWA D110 and D115 apply to prestressed wire-wrapped and tendon-stressed tanks, a municipal-scale method, and do not apply at residential scale.
+
+Dancing Rabbit Ecovillage's published owner-built cistern used No. 6 bars wired on a 1-foot grid and doweled into the base slab. That is a reference point for the conversation with the engineer, not a design value, because the schedule depends on the tank's height, wall thickness and edge restraint. Every control or construction joint in a water-retaining wall takes a cast-in waterstop and a sealed exposed face, and the empty tank is checked for flotation with dead weight, anchors or a relief detail sized for it. The cistern's size, siting and plumbing are the water independence chapter's.
+
+## 6.20 Structural hold points
+
+**Simple**
+
+A hold point is a stage where the work stops until someone has looked at it and signed. Before every pour, the inspector sees the steel, the embeds and the forms, because after the pour none of it can be checked. Before every grout lift in a block wall, the same is true of the bars in the cells. The engineer and a special inspector join the inspector where the drawings say so. An inspection that is missed cannot be made up afterward, so the schedule is built around them.
+
+**Applied**
+
+| Hold point | What is verified | Who signs |
+|---|---|---|
+| Footing, before the pour | Bearing surface, footing geometry, reinforcement, anchor bolts, embeds, the grounding electrode | The building inspector, and the engineer on an engineered foundation |
+| Foundation wall, before the pour | Reinforcement, vertical bar continuity from the footing, anchor bolts, sleeves, dampproofing readiness | The building inspector |
+| Foundation drainage and waterproofing, before backfill | Drain rock, the perimeter drain, membrane continuity, the capillary break | The building inspector |
+| Slab subgrade, before the pour | Compaction, capillary break, vapor retarder, soil-gas retarder where required, under-slab insulation, sleeves | The building inspector |
+| Block wall, before each grout pour | Bar size, location, spacing and lapping, cleanouts and grout space | The building inspector, and a special inspector where the pour exceeds the code's lift height |
+| Concrete delivery | Mix conformance, slump, air, temperature, the batch ticket | The engineer on engineered work, and a special inspector where required |
+| Floor and roof level | Bond beam continuity, tie-down anchors, embeds for the floor or roof system | The building inspector |
+| Floor diaphragm, before cover | Reinforcement in a cast slab, shop drawings for precast, the maker's stamp for engineered wood | The building inspector, and the engineer for an engineered diaphragm |
+| Roof structure, before cover | Truss installation to the maker's drawings, anchorage, diaphragm continuity | The building inspector |
+| Safe-room door and frame, where one is built | Installation and anchorage against the door maker's tested instructions | The engineer, or a special inspector where the design assigns it |
+
+1. Add the safe-room anchors and door-frame embeds to the wall and foundation pre-pour lists.
+2. Add a sleeve for a future generator, propane or fuel-oil supply line.
+3. Add a cast-in plate or bolt pattern for a communications mast, sized for the site's wind load.
+4. Add an access sleeve for a manual backup well pump where the water system has a well.
+5. Check every embed on those lists with a template, wire to the reinforcement, a second signature and a photograph.
+
+**Professional**
+
+Special inspection is a program of the structural specialty code, and the base residential code does not operate one. It applies here where the engineered design invokes it, grouted block under TMS 602's inspection levels and the concrete categories of ACI 318-19 section 26.13 among them, or where the building official requires it, and the engineer defines the program in the construction documents. Oregon's 2026 residential code adds a concrete-specific inspection of its own: in Seismic Design Category D0 to D2 and E, reinforced masonry, ICF and conventionally formed concrete walls are inspected after the embedded systems and bars are in place and before grout or concrete, for bar size, location, spacing and lapping and, for masonry, the cleanouts and grout space (ORSC R109.1.5.3, 2026 edition). Resilience embeds cast in during the scheduled pours cost a sleeve or a plate, and the same items added after cure are post-installed anchors or core drills through reinforced work. The inspection chapter carries the readiness criteria for each hold point.
+
+## 6.21 The documents behind the structure
+
+**Simple**
+
+Two kinds of documents govern the structure. Oregon's residential code is law, and the state structural code stands behind it for anything the engineer designs. The standards below them, from the concrete, masonry, steel and testing bodies, supply the design rules and the material and test methods the code adopts by reference. Most of those standards are sold, not published free. The engineer's copy is the working text, and the drawings name the edition used, because the code references one edition and the publishers sell a newer one.
+
+**Professional**
+
+| Document | What it governs here | Edition |
+|---|---|---|
+| Oregon Residential Specialty Code (ORSC) | The prescriptive rules, loads, inspections and the path decision | 2023 (2021 IRC base), with the 2026 edition (2024 IRC base) in phase-in to April 1, 2027 |
+| Oregon Structural Specialty Code (OSSC) | Nonprescriptive design loads and provisions, through the residential code's definition of Building Code | 2022 (ASCE 7-16) under Statewide Alternate Method 26-01, or 2025 (ASCE 7-22) |
+| ASCE 7 | Load combinations, snow and drift, wind, seismic, tsunami, ponding | 7-16 with Supplement 1 in the 2023 ORSC, 7-22 in the 2025 OSSC |
+| ACI 318 | Structural concrete design, cover, development, durability classes, inspection categories | 318-19 referenced, 318-25 in circulation |
+| ACI 332 | Residential concrete: footings, foundation walls, slabs on ground, above-grade walls in scope, expansive soils | 332-20 |
+| PCA 100 | Prescriptive above-grade concrete walls outside Category C | 100-17 |
+| TMS 402 and TMS 602 | Masonry design and construction, including veneer, grout, inspection levels and weather rules | 402-16 and 602-16 referenced, 2022 editions current |
+| ACI 224R | Guide crack widths by exposure | 224R-01, reapproved 2008 |
+| ACI 347R | Formwork pressure and tie design | Current guide |
+| ACI 305R, 306R and 308R | Hot weather, cold weather and curing | Current guides |
+| ACI 544.4R and ACI 360R | Fiber reinforcement limits, slabs on ground | 544.4R-18, 360R |
+| ACI 350 and 350.3 | Water-retaining structures and their seismic design | Current editions |
+| ACI 440.11 and 440.1R | GFRP design and detailing | 440.11-22, 440.1R-15 |
+| ICC 500, FEMA P-361, FEMA P-320, FEMA P-646 | Storm shelters and safe rooms, tsunami refuge concepts | ICC 500-2020, P-361 fifth edition, P-320 sixth edition (December 2024), P-646 third edition (2019) |
+| ASTM A615, A706, A580, A82, A951 | Reinforcing bar, low-alloy bar, stainless wire, carbon wire, joint reinforcement | Current |
+| ASTM C90, C476, C270, C140 | Loadbearing units, grout, mortar, unit testing | C90-16a and C476-18 referenced |
+| ASTM C150, C595, C33, C618, C989, C1240, C260, C494, C94 | Cements, aggregate, fly ash, slag, silica fume, admixtures, ready-mixed concrete | Current |
+| ASTM C172, C143, C231, C39, C1567, C1116, C1609 | Sampling, slump, air content, cylinders, alkali-silica reactivity, fiber concrete and its flexural test | Current |
+| CMHA TEK 12-01B, 16-04A, 16-01A, 14-08B and TR91B | Ties, cavity walls, multi-wythe walls, lintels | Current |
+| BIA Technical Notes 28D and 44B | Brick veneer over block, veneer anchorage | 28D June 2018 |
+| PCI Manual for the Design of Hollow Core Slabs and Walls | Hollow-core plank design | MNL-126 |
+| ICC-ES ESR-4057 and ESR-3814, AC125 and AC454 | Adhesive anchors and post-installed bars, FRP acceptance criteria | Reports current at installation |
+| Bureau of Reclamation, Joint Spacing for Concrete Structures | Control-joint spacing in walls | 2016 |
+| Statewide Alternate Method 26-01 | Continued reference to the 2022 OSSC under the 2023 ORSC | Issued January 20, 2026 |
+
+## Who decides what
+
+| Decision | Who decides | When, or what triggers it |
+|---|---|---|
+| The design path for each element | Engineer of record, with Jon | At structural design, from the parcel's category and the element |
+| Which OSSC edition and snow basis the nonprescriptive design references | Engineer of record | At structural design, stated on the drawings |
+| The seismic design category, wind speed and ground snow load | The lookup at the coordinates, confirmed by the engineer | Once a parcel is chosen |
+| A site-specific wind study | Engineer of record | When the lookup places the parcel inside a special wind region |
+| Analysis method and detailing for any irregularity | Engineer of record | From the floor plan |
+| Control-joint spacing and bar spacing at each wall, by its exposure class | Engineer of record | Structural design |
+| Exposure class of each element | Engineer of record, from the geotechnical report | Before the mix is specified |
+| The SCM type and dose on alkali-silica grounds | The C1567 result, applied by the engineer | Before the mix design is final |
+| Lintel sizes and grouted jamb cells | Engineer of record | When the openings are drawn |
+| Floor system and plank bearing | Engineer of record, with the plank maker | Structural design |
+| Drift loading at parapets, valleys and roof steps | Engineer of record | Roof design |
+| Truss connectors on the prescriptive path | The code's table and the maker's evaluation report | Before trusses are ordered |
+| The expansion joint at an attached structure | Engineer of record | When the attachment is designed |
+| Service-layer classification | Jon, with the plan reviewer | Before the floor plan is fixed |
+| Candidate cells for niches | Engineer of record, from the wall schedule | Structural design |
+| Polypropylene fibers for spalling | Engineer of record | Mix specification |
+| Solid grouting, continuous bars and the other detailing upgrades | Jon, from the mason's and supplier's quotes | Before the wall schedule is final |
+| A continuous rod tie at any wall segment | Engineer of record | Structural design |
+| A performance target above life safety, and a USRC rating | Jon, in the engineer's brief | Before structural design starts |
+| Whether a safe room's existing walls, slab and roof meet the shelter loads | Engineer of record | Before the room is priced |
+| Tsunami-zone design concepts | Jon, with the engineer, after the DOGAMI map is read | Site selection |
+| Cistern design, full sloshing analysis or added mass | Engineer of record | Once the tank's size is fixed |
+| The special-inspection program | Engineer of record, enforced by the building official | On the construction documents |
+| Cleanouts and special inspection for tall grout pours | Building official, through the permit | Plan review |
+| The post-installed anchor product | Engineer of record | At the first missed embed |
+| Steel beams under concrete floors, stamped or engineered | Building official | Plan review |
+
+## Open items
+
+- **2026 code numbers.** Unknown: whether R301.2.2, R301.2.3, R301.3, R323, R404, R606, R608, R802 and R903 keep their numbers and text in the 2026 residential code, built on the 2024 IRC. Answered by: the integrated 2026 codebook. Assumed meanwhile: the 2023 numbers and text, usable on a permit through March 31, 2027.
+- **ACI 318-19 tables cited.** Unknown: the verbatim text of Tables 11.6.1, 19.3.2.1, 20.5.1.3.1 and 9.6.3.1 and section 26.12.7.1, in a purchased standard. Answered by: the engineer's copy. Assumed meanwhile: the values stated, from the standard's published structure and secondary summaries.
+- **ACI 224R crack widths.** Unknown: the inch values of Table 4.1 by exposure, in a scanned copy that could not be read. Answered by: a text copy of ACI 224R-01. Assumed meanwhile: the spacing-based control of ACI 318-19 governs, with the table as the durability reference behind it.
+- **ACI 347R pressure coefficients.** Unknown: the exact lateral-pressure formula coefficients. Answered by: the forming-system maker's tables for the system rented or bought. Assumed meanwhile: the full-hydrostatic case and a factor of safety of 2.0 on ties.
+- **ACI 440.11 reading.** Unknown: the standard's own text on members outside the seismic force-resisting system in Category D, which the durability chapter treats as an open reading. Answered by: the engineer against ACI 440.11-22. Assumed meanwhile: no GFRP in any structural member in D0 to D2, per the StructureMag summary.
+- **GFRP detailing figures.** Unknown: development and lap multipliers from the standard itself, known here from a vendor's explainer. Answered by: ACI 440.11-22. Assumed meanwhile: 1.3 to 1.6 times steel's development length as a planning range for the narrow Category C case.
+- **Primary roof drain sizing.** Unknown: the Oregon plumbing code section that sizes primary roof drains under the 2026 edition. Answered by: the 2026 OPSC, Chapter 11. Assumed meanwhile: drains at each low point under R903.4, sized by the plumbing designer.
+- **Return-air plenum rule.** Unknown: the Oregon mechanical code section limiting materials in a return-air plenum. Answered by: the 2025 OMSC. Assumed meanwhile: a service layer used as a plenum takes noncombustible or listed materials.
+- **The snow lookup's status.** Unknown: whether snowload.seao.org, the source the 2023 residential code names, is still maintained (it did not resolve from this machine on October 29, 2026), and which source the 2026 residential code names. Answered by: the Building Codes Division's design-criteria page and the 2026 codebook. Assumed meanwhile: the Design Criteria Hub for both editions, with the engineer stating the basis.
+- **Special wind region footnote.** Unknown: the text of Table R301.2's footnote on which parts of a listed county take the special-wind-region speed. Answered by: the printed 2023 ORSC table. Assumed meanwhile: the mapped region on Figure R301.2.1(1).
+- **Engineering fee.** Unknown: the source of the $4,000 to $10,000 structural fee, a Revision 7 planning figure. Answered by: two quotes from Oregon structural engineers. Assumed meanwhile: that range for a custom two-story house of 2,500 to 3,500 square feet.
+- **Per-wall grout and detailing costs.** Unknown: the cost of solid grouting and of each detailing upgrade per linear foot on this wall schedule. Answered by: the mason's and rebar supplier's quotes. Assumed meanwhile: Terrapin's $2 to $4 per square foot grout increment as the order of magnitude.
+- **Safe-room marginal cost.** Unknown: the cost of the door, vent and any added work in an already-reinforced shell. Answered by: the engineer's shelter-load check and quotes. Assumed meanwhile: a figure well under the FEMA plan costs, which price the whole box.
+- **Tie thermal bridging.** Unknown: a named source for the 0.5 to 1 percent point-bridge area and the R-26 to R-23 derating, carried from Revision 7. Answered by: the tie maker's thermal data or a hygrothermal calculation. Assumed meanwhile: those planning figures.
+- **Impact sound inside one dwelling.** Unknown: whether the Oregon residential code sets any impact-insulation rating for a floor within a single dwelling. Answered by: the 2023 and 2026 ORSC text. Assumed meanwhile: none, with the rating a comfort specification.
+- **Sliding-isolation friction values.** Unknown: the measured friction range for the tested interface pairs, reported in a review of low-cost isolation materials that was not read (Revision 7 gave 0.15 to 0.35). Answered by: that review, named. Assumed meanwhile: the mechanism only.
+- **Wall density transfer.** Unknown: any validated wall-density check for reinforced block in high seismic categories. Answered by: a project-specific study, if one is ever commissioned. Assumed meanwhile: the regularity strategy as the proxy.
+- **Service-layer thresholds.** Unknown: a code basis for the 30-inch plenum limit and the 4-foot mechanical-level floor. Answered by: the plan reviewer at the pre-application meeting. Assumed meanwhile: those two values as the plan's choice (Jon to confirm).
+- **Special-inspection triggers.** Unknown: the exact triggers the engineer's program will carry (Revision 7 named concrete above 4,000 psi, which no code section read supports). Answered by: the construction documents. Assumed meanwhile: grouted block above the code's lift height and the ACI 318-19 categories.
+- **Control-joint spacing.** Unknown: the spacing the engineer sets for each wall. Answered by: the structural design. Assumed meanwhile: 2 to 3 times the wall height, within 10 to 12 feet.
+- **Dome hybrid and dome builders.** Unknown: any built example of a single domed safe room inside a rectilinear concrete house, and whether a residential dome contractor works in Oregon. Answered by: a specialty-forming quote and direct inquiry. Assumed meanwhile: a concept, unpriced.
+- **Dropped from Revision 7.** The contents-list opening and its two routing paragraphs, replaced by facts about the house. The three-story masonry maximum cited to R301.2.2.7, which limits wood, cold-formed steel and panel buildings and says nothing about masonry. The claim that prescriptive single-wythe masonry reaches 10 feet and three stories in D0 and D1, contradicted by R606.12.3.1 and Table R606.12.2.1. The 50 psf stair live load, corrected to 40 psf from Table R301.5. The 5-foot grout-lift threshold, replaced by the code's 8 feet and 64 inches. The Columbia Gorge "over 130 mph" claim, contradicted by Table R301.2. The 15-foot eave-to-ridge limit and the "70 to 80 percent" long-life figure, which no source supports. The 4,000 psi special-inspection trigger. The TMS 402 stack-bond ratio of 0.00028, known only from a code summary and replaced by the Oregon code's own ratios. The "Chilean code minimum of 0.85 percent", which the paper does not state. The IPC roof-drain citations, since Oregon's plumbing code is the OPSC. The FEMA P-320 figures of an earlier edition. The "4 feet for SDC D2 two-story" anchor-bolt rule, which R403.1.6.1 states as 4 feet for buildings over two stories. The anchor-bolt, footing-reinforcing and grounding-electrode Code entries, which the foundation chapter carries. The eight-line structural standard, whose lines are now Decisions. The "acceptable" and "not acceptable" fiber wording lists, now one sentence of fact. The forum answer on a 124-inch lintel span. The "Does not require PE: wood-framed walls under R602" line, since the shell has none.
+
+## Decisions this chapter records
+
+- (decided) The structural shell is designed by a licensed engineer under the nonprescriptive path.
+- (decided) The shell is cast concrete, reinforced concrete block and steel, with wood only as a manufacturer-stamped truss or joist on the prescriptive fallback.
+- (decided) Every load has a drawn path to the soil before the design is finalized.
+- (decided) Every assembly is designed to a referenced standard, and the drawings name the edition.
+- (decided) The design path for each element is chosen at design time and held through construction, and a field change to approved structural work is a design change.
+- (decided) Removable-form cast-in-place concrete and reinforced block are the default wall construction.
+- (decided) Running bond is the default coursing.
+- (decided) Bond beams run at the top of the foundation wall, at every floor and at the roof, and every reinforced cell is grouted.
+- (decided) Hollow-core precast is the primary floor at spans of 16 to 32 feet, with a cast-in-place slab at shorter spans.
+- (decided) A concrete deck with a protected membrane roof is the primary roof, and asphalt shingles are rejected.
+- (decided) The long-life mix: 4,000 psi minimum, 0.45 maximum water-cement ratio, SCM replacement, and 7 days of curing.
+- (decided) One metallurgy per structural element, and all stainless wherever any stainless is used.
+- (decided) The structure is designed with margin above the code's life-safety minimum where the evidence supports it.
+- (decided) Fibers are supplementary and never a substitute for primary reinforcement.
+- (decided) Every control joint in a water-resisting wall takes a cast-in waterstop.
+- (pending parcel) The seismic design category, wind speed and ground snow load.
+- (pending parcel) Whether the parcel lies in a special wind region or a mapped tsunami zone.
+- (pending engineer) The OSSC edition and snow basis the drawings reference.
+- (pending engineer) Control joints, exposure classes, lintels, laps and covers for each element.
+- (pending engineer) Whether a safe room's shell already meets the shelter loads.
+- (pending engineer) The cistern's structural design.
+- (Jon to confirm) Solid grouting of every cell.
+- (Jon to confirm) Full-height continuous vertical bars, joint reinforcement in every course, and added dowels at the bond beams.
+- (Jon to confirm) A performance target above life safety in the engineer's brief, and whether a USRC rating is sought.
+- (Jon to confirm) A safe room, and which room.
+- (Jon to confirm) The service-layer classification: a plenum of 30 inches or less, or a mechanical level of 4 feet or more counted as a story.
+- (Jon to confirm) Polypropylene fibers in the fire-exposed structural elements.
+- (Jon to confirm) The resilience embeds: a fuel-line sleeve, an antenna mount and a manual well-pump access.
+- (Jon to confirm) The C1567 test ordered on the actual materials before the mix is final.
+
+## Records to keep
+
+- The parcel's design-criteria report and any ATC tool printout, with the category, wind speed and ground snow load.
+- The stamped structural drawings, the calculations and the special-inspection program, with the edition statement on the cover sheet.
+- The geotechnical report, named on the drawings.
+- The exposure-class assignment for each element, on the drawings.
+- The C1567 test report and the mix submittal.
+- The pre-pour checklists with the second signature, and the photographs of every cage and embed.
+- Grout pour logs, cleanout inspections and special-inspection reports.
+- Batch tickets, slump, air and cylinder results for every delivery.
+- The lintel schedule and its bearing details.
+- The plank maker's stamped shop drawings and erection sequence, or the truss maker's drawings and evaluation report.
+- Connector and anchor evaluation reports, at the revision current when installed.
+- The safe-room door's installation sign-off against the maker's instructions.
+- Any statewide alternate method relied on, cited on the cover sheet.
