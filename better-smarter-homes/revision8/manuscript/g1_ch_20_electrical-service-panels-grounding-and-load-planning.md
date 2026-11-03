@@ -1,31 +1,32 @@
 # Chapter 20: Electrical: Service, Panels, Grounding, and Load Planning
 
-For this all-electric house the service is sized by the code's load calculation, which leaves one choice. Either a 200-ampere service runs under a listed energy-management panel, or a 400-ampere service runs with nothing to manage. Its footing electrode, its conduit and its panel locations are cast or trenched before the first wall goes up, and a conduit added after the pour is a core drill through finished concrete. Oregon's electrical code is the 2026 Oregon Electrical Specialty Code, in force since October 1, 2026. Its amendments leave the outdoor emergency disconnect, and until October 1, 2027 the whole-house surge device, to the owner's choice, and this house takes both. Circuits that leave the panels for the rooms are in the branch-circuit chapter.
+For this all-electric house the service is sized by the code's load calculation, which leaves one choice. Either a 200-ampere service runs under a listed energy-management panel, or a 400-ampere service runs with nothing to manage. Its footing electrode, its conduit and its panel locations are cast or trenched before the first wall goes up. A conduit added after the pour is a core drill through finished concrete. Oregon's electrical code is the 2026 Oregon Electrical Specialty Code, in force since October 1, 2026. Its amendments leave the outdoor emergency disconnect, and until October 1, 2027 the whole-house surge device, to the owner's choice, and this house takes both. Circuits that leave the panels for the rooms are in the branch-circuit chapter.
 
-> **Jon's note.** [JON: drafted from the record, confirm or rewrite] The house runs on electricity alone: a heat pump, a heat-pump water heater, an induction range, car chargers and a shop. I want the power to arrive underground, because a buried line does not come down in an ice storm or a fire and there is no pole in the view. Everything that meets the utility goes to one place on one wall: the meter, the main switch, the solar and battery disconnects and the generator inlet. A firefighter or an electrician then finds all of it in one minute. The battery is the first backup, and the generator is for the storm that outlasts it. Conduit costs almost nothing on pour day and a core drill afterward, so every place a wire might someday go gets an empty pipe now. [JON: 200 amperes with a smart panel that manages the chargers, or 400 amperes with nothing to manage? The record argues both ways, and it assumes two 48-ampere chargers. Is that the house?] [JON: Oregon does not require the outdoor shutoff. Do you still want it on the wall by the meter?]
+> **Jon's note.** [JON: drafted from the record, confirm or rewrite] This house runs on electricity alone: a heat pump, a heat-pump water heater, an induction range, car chargers and a shop. I want the power to arrive underground, because a buried line does not come down in an ice storm or a fire and there is no pole in the view. Everything that meets the utility goes to one place on one wall: the meter, the main switch, the solar and battery disconnects and the generator inlet. Then a firefighter or an electrician finds all of it in one minute. The battery is the first backup, and the generator is for the storm that outlasts it. Conduit costs almost nothing on pour day and a core drill afterward, so every place a wire might someday go gets an empty pipe now. [JON: 200 amperes with a smart panel that manages the chargers, or 400 amperes with nothing to manage? The record argues both ways, and it assumes two 48-ampere chargers. Is that the house?] [JON: Oregon does not require the outdoor shutoff. Do you still want it on the wall by the meter?]
 
 ## 20.1 What the pour fixes
 
 **Simple**
 
-Wiring in a concrete house goes where the concrete lets it, and the concrete is decided first. In a wood house an electrician drills a stud and pulls a new cable in an afternoon. Here a cable inside a wall or under a slab runs in a pipe cast into the concrete. A pipe missed on pour day means a core drill through a finished wall. Before the footings are formed, the plan fixes where the power enters, where the panels hang and where the grounding steel comes up. It also fixes which empty pipes lead to the roof, the garage, the shop and the car. Wire and equipment can be bought years later, in whatever size the house needs by then.
+Wiring in a concrete house goes where the concrete lets it, and the concrete is decided first. In a wood house an electrician drills a stud and pulls a new cable in an afternoon. Here a cable in a wall or under a slab runs in a pipe cast into the concrete. A pipe missed on pour day means a core drill through a finished wall. Before the footings are formed, the plan fixes where the power enters, where the panels hang and where the grounding steel comes up. It also fixes which empty pipes lead to the roof, the garage, the shop and the car. Wire and equipment can be bought years later, in whatever size the house needs.
 
 **Applied**
 
-1. Before the foundation drawings are issued, mark the transformer, the meter location and the trench route on the site plan.
-2. Fix one exterior wall as the interconnect wall for the meter-main, the disconnects, the generator inlet and the source directory.
-3. Put the main panel on the inside face of that wall, and one subpanel on each floor near its loads.
-4. Draw every embedded conduit on the foundation and wall drawings, with its diameter, its route and both ends.
-5. Stub an empty 2-inch conduit from the panel area to the roof zone, the garage, the driveway pad and the shop.
-6. Add a stub toward the ground-mount array site and each outbuilding site, with a pull string in every stub.
-7. Add the footing electrode and its stub to the footing drawings before the pour.
-8. Photograph every conduit and the electrode stub before each pour, and file the photographs with the as-built drawings.
+1. Mark the transformer, the meter and the trench route on the site plan before the foundation drawings are issued.
+2. Pick one exterior wall as the interconnect wall for the meter-main, the disconnects, the generator inlet and the directory.
+3. Put the main panel on the inside face of that wall, and one subpanel on each floor.
+4. Draw every embedded conduit on the foundation and wall drawings, with its size, route and both ends.
+5. Stub empty 2-inch conduit from the panel area to the roof zone, the shop and each place a car might charge.
+6. Add a stub toward the ground-mount array site and each outbuilding site.
+7. Leave a pull string in every stub.
+8. Photograph every conduit before each pour.
+9. File the photographs with the as-built drawings.
 
 **Professional**
 
-Once cast into concrete, a conductor stays for the life of the shell. Branch wiring therefore runs through accessible service layers, furred interior walls, ceiling chases and the suspended floor cavity, and embedded conduit is kept for the few crossings that must pass through concrete. One exterior interconnect area holds every piece of equipment the utility, a firefighter or a future installer needs to reach. Separate listed enclosures with working space between them serve better than one crowded cabinet, because each later addition then lands in its own box. Floor-level subpanels shorten branch runs where a reroute means cutting concrete. Each subpanel costs a feeder, a separate grounding bus and a fault-current check.
+Once cast into concrete, a conductor stays for the life of the shell. Branch wiring therefore runs through accessible service layers, furred interior walls, ceiling chases and the suspended floor cavity, and embedded conduit is kept for the few crossings that must pass through concrete. One exterior interconnect area holds every piece of equipment the utility, a firefighter or a future installer needs to reach. Separate listed enclosures with working space between them serve better than one crowded cabinet, because each later addition then lands in its own box.
 
-A stub placed before the pour costs a stick of PVC and a pull string. A passage cut through cured concrete later costs a core drill, a patch and a repair to whatever the drill meets. Final conductor and equipment sizes come from the load calculation, the utility's requirements and each product's listing.
+Placed before the pour, a stub costs a stick of PVC and a pull string. Final conductor and equipment sizes come from the load calculation, the utility's requirements and each product's listing.
 
 [FIGURE: electrical-map, plan of the service path from the transformer pad through the interconnect wall to the panels, the footing electrode stub and the spare conduits]
 
@@ -33,22 +34,24 @@ A stub placed before the pour costs a stick of PVC and a pull string. A passage 
 
 **Simple**
 
-You can wire the house you own and will live in without an electrician's license, under your own permit. The inspector holds you to the same code as a contractor. Which code? Oregon adopted a new edition of its electrical code on October 1, 2026, built on the 2026 National Electrical Code with Oregon's own list of changes. Whichever edition is in force on the day the permit application goes in is the one the house is built to. Any later edition adopted mid-build changes nothing under that permit. Renting a construction power pole needs no license, and any repair or change to it needs a permit of its own.
+You can wire the house you own and will live in without an electrician's license, under your own permit. Your inspector holds you to the same code as a contractor. Which code? Oregon adopted a new edition of its electrical code on October 1, 2026. It is built on the 2026 National Electrical Code with Oregon's own list of changes. Whichever edition is in force on the day the permit application goes in is the one the house is built to. Any later edition adopted mid-build changes nothing under that permit. Renting a construction power pole needs no license, and any repair or change to it needs a permit of its own.
 
 **Applied**
 
-1. Apply for the owner's electrical permit before any conduit, box or cable goes in, through the local building department or Oregon ePermitting.
-2. Record the application date, and the edition in force on that date, on the first page of the binder.
-3. State on the drawings which edition they follow, with that edition's section numbers.
-4. For construction power, rent a manufactured construction service of 100 amperes or less from an electrical contractor.
-5. Have the utility connect the temporary service, and pull a separate permit before altering or repairing it.
-6. Keep the permit, the approved drawings and the inspection record at the panel location through construction.
+1. Apply for the owner's electrical permit before any conduit, box or cable goes in.
+2. Apply through the local building department or Oregon ePermitting, in the owner's name.
+3. Record the application date and the edition in force that day on the binder's first page.
+4. State on the drawings which edition they follow, with its section numbers.
+5. For construction power, rent a manufactured construction service of 100 amperes or less from an electrical contractor.
+6. Have the utility connect it.
+7. Pull a separate permit before altering or repairing the temporary service.
+8. Keep the permit, the approved drawings and the inspection record at the panel location.
 
 **Professional**
 
 Under ORS 479.540(1)(a) the owner's exemption frees the person from licensing and never the work from the code. Its text stands with the other trade exemptions in the legal chapter. Because the permit issues to the owner-applicant, the owner requests each inspection and answers each correction notice in their own name.
 
-Oregon adopted the 2026 edition by BCD 16-2026 with no phase-in, so an application filed after October 1, 2026 is reviewed under the 2026 code. Oregon's Table 1-E rewrites or strikes sections of the national text, several of them in the articles on services, grounding and standby power. Oregon's rule list also names the serving utility's published requirements among the documents that bind an installation (OAR 918-305-0030(5)). The utility's manual is therefore read beside the code. Where a 2026 section number has not been read, the 2023 edition's number is cited and the renumbering is an open item.
+Oregon adopted the 2026 edition by BCD 16-2026 with no phase-in, so an application filed after October 1, 2026 is reviewed under the 2026 code. Oregon's Table 1-E rewrites or strikes sections of the national text, several of them in the articles on services, grounding and standby power. Oregon's rule list also names the serving utility's published requirements among the documents that bind an installation (OAR 918-305-0030(5)). Its manual is therefore read beside the code. Where a 2026 section number has not been read, the 2023 edition's number is cited and the renumbering is an open item.
 
 **Code**
 
@@ -74,30 +77,37 @@ A rented construction service is set without a license.
 
 **Simple**
 
-Power reaches the house through the utility's transformer and its buried line, and the utility's own manual governs that stretch, not the electrical code. The utility owns the transformer and the wire in the ground. You own the trench, the pipe in it, the pad the transformer sits on and the meter base on your wall. The manual says how each of them is built. A padmount transformer stands 10 feet from a window and 20 feet from a door, where a truck can reach it. The line comes to the house in one 3-inch plastic pipe laid 3 feet deep. Before anyone fills the trench, the utility's crew inspects it.
+Power reaches the house through the utility's transformer and its buried line. That stretch is governed by the utility's own manual, not by the electrical code. The utility owns the transformer and the wire in the ground. You own the trench, the pipe in it, the pad the transformer sits on and the meter base on your wall. Its manual says how each of them is built. Padmount transformers stand 10 feet from a window and 20 feet from a door, where a truck can reach them. One 3-inch plastic pipe, laid 3 feet deep, carries the line to the house. Before anyone fills the trench, the utility's crew inspects it.
 
 **Applied**
 
 Hold the utility's service-planning meeting before the foundation drawings are final.
 
 1. Submit the new-service application with the connected load, the site plan and the load schedule.
-2. Ask in writing for the available fault current at the service point, and file the answer.
-3. Ask for underground service, and record the transformer location, the pad specification and the lateral route the planner marks.
-4. Keep the pad 20 feet from any doorway or egress window, 10 feet from other windows and 3 feet from a noncombustible wall.
-5. Keep the pad within 10 feet of a surface a truck can drive on.
-6. Trench to the utility's depth, 36 inches for PGE, and lay one 3-inch Schedule 40 PVC conduit with long-radius sweeps.
-7. Keep the run under 150 feet and 270 degrees of bends between pull points, or get the utility's written approval.
-8. Lay caution tape 12 to 18 inches above the conduit and a tracer wire beside it.
-9. Photograph the open trench with a tape measure standing in it.
-10. Call the utility for its trench inspection before backfill, and the county for the meter-base approval sticker after the socket is set.
-11. Buy the meter socket from the utility's approved list, ring type, rated for the service, with a manual bypass on a 320-ampere socket.
-12. Mount the socket plumb at the utility's height, with a 3-inch knockout or a swedge to no less than 2 inches.
-13. Seal the conduit ends, and separate the power lateral from the communications conduit and the water, sewer and gas lines by the planner's distance.
-14. Set the rented construction service beside the permanent meter location.
+2. Ask in writing for the available fault current at the service point.
+3. File the utility's answer.
+4. Ask for underground service.
+5. Record the transformer location, the pad specification and the lateral route the planner marks.
+6. Keep the pad 20 feet from any doorway or egress window and 10 feet from other windows.
+7. Keep it 3 feet from a noncombustible wall and within 10 feet of a drivable surface.
+8. Trench to the utility's depth, 36 inches for PGE.
+9. Lay one 3-inch Schedule 40 PVC conduit with long-radius sweeps.
+10. Keep the run under 150 feet and 270 degrees of bends between pull points.
+11. Get the utility's written approval for anything longer.
+12. Lay caution tape 12 to 18 inches above the conduit and a tracer wire beside it.
+13. Photograph the open trench with a tape measure standing in it.
+14. Call the utility for its trench inspection before backfill.
+15. Call the county for the meter-base approval sticker after the socket is set.
+16. Buy the meter socket from the utility's approved list, ring type, rated for the service.
+17. Specify a manual bypass on a 320-ampere socket.
+18. Mount the socket plumb at the utility's height, with a 3-inch knockout or a swedge to 2 inches.
+19. Seal the conduit ends.
+20. Separate the power lateral from the communications conduit and the water, sewer and gas lines by the planner's distance.
+21. Set the rented construction service beside the permanent meter location.
 
 **Professional**
 
-From the transformer to the meter socket the utility's manual governs, and from the socket inward the electrical code does. On the utility's side the trench and the conductor follow the National Electrical Safety Code and the utility's standards. Both Oregon investor-owned utilities supply the available fault current on request. Pacific Power puts the usual interrupting rating of a 200-ampere residential service at 10,000 amperes and warns that a large transformer close to the house can exceed it. That one figure sets the rating of every piece of service equipment on the wall. The table below is read from the two utilities' own documents.
+From the transformer to the meter socket the utility's manual governs, and from the socket inward the electrical code does. On the utility's side the trench and the conductor follow the National Electrical Safety Code and the utility's standards. Both utilities in the table supply the available fault current on request. Pacific Power puts the usual interrupting rating of a 200-ampere residential service at 10,000 amperes and warns that a large transformer close to the house can exceed it. That one figure sets the rating of every piece of service equipment on the wall. Both columns of the table below are read from the utilities' own documents.
 
 | Requirement | Pacific Power, Electric Service Requirements Manual (2022, revised 2024) | Portland General Electric, residential construction pages (2026) |
 |---|---|---|
@@ -131,27 +141,28 @@ Raceways that could carry moisture to live parts are sealed.
 
 **Simple**
 
-One switch outside the house can shut off everything inside, and Oregon leaves it to you whether to have one. Firefighters asked for that outdoor switch, and the national code added it so that a crew can cut the power without entering a burning house. Oregon struck the rule in its 2023 edition and again in 2026, so an Oregon house may keep its only main switch indoors. This house puts the switch outside anyway, in the meter-main on the interconnect wall. Its red label marks it for a crew reading from the driveway. Beside it a placard names every other source: the solar array, the battery and the generator. Meter, main breaker and surge device share that one weatherproof box.
+One switch outside the house can shut off everything inside, and Oregon leaves it to you whether to have one. Firefighters asked for that switch, and the national code added it so a crew can cut the power without entering a burning house. Oregon struck the rule in its 2023 edition and again in 2026, so an Oregon house may keep its only main switch indoors. This house puts the switch outside anyway, in the meter-main on the interconnect wall. Its red label marks it for a crew reading from the driveway. Beside it a placard names every other source: the solar array, the battery and the generator. Meter, main breaker and surge device share one weatherproof box.
 
 **Applied**
 
-1. Choose a meter-main for the service size, a 200-ampere unit or a 320-ampere socket rated 400 amperes with a manual bypass.
-2. Mount it on the interconnect wall where a person stands in front of it without a ladder, with the working space clear.
-3. Confirm that its short-circuit current rating is at least the available fault current the utility reported.
-4. Keep the utility's fault-current letter with the meter-main's cut sheet.
-5. Label the main breaker EMERGENCY DISCONNECT, SERVICE DISCONNECT in white letters at least 1/2 inch high on a red background.
-6. Mount a placard beside it listing each source, utility, solar, battery and generator, and where each disconnect is.
-7. Run a four-wire feeder from the meter-main to the main panel inside, with the neutral and the ground on separate conductors.
-8. For a 400-ampere service, specify a meter-main listed with two 200-ampere mains in separate compartments, or one 400-ampere main.
-9. Where the utility puts the meter at the road, give the house its own disconnect, its own electrode system and a four-wire feeder.
+1. Choose a meter-main for the service size.
+2. Use a 200-ampere unit, or a 320-ampere socket rated 400 amperes.
+3. Mount it on the interconnect wall where a person can stand in front of it without a ladder.
+4. Confirm that its short-circuit current rating is at least the available fault current the utility reported.
+5. Label the main breaker EMERGENCY DISCONNECT, SERVICE DISCONNECT in white letters at least 1/2 inch high on red.
+6. Mount a placard beside it listing each source and where its disconnect is.
+7. Run a four-wire feeder from the meter-main to the main panel inside.
+8. For 400 amperes, specify a meter-main listed with two 200-ampere mains in separate compartments, or one 400-ampere main.
+9. Where the utility puts the meter at the road, give the house its own disconnect and electrode system.
+10. Feed that house with a four-wire feeder.
 
 **Professional**
 
-Oregon struck the dwelling items of the national service-disconnect rule, so an outdoor disconnect at this house is the plan's choice. The reason is the one the national rule was written for: a crew that opens one switch from the yard does not enter a burning building to find a panel. Its red label and the source placard follow the national marking format, which crews are trained on. Oregon's version of the location rule treats a dwelling as it treats any other building, and the meter-main's main breaker satisfies it from either side of the wall.
+An outdoor disconnect at this house is the plan's choice, made for the reason the national rule was written: a crew that opens one switch from the yard does not enter a burning building to find a panel. Its red label and the source placard follow the national marking format, which crews are trained on. Oregon's version of the location rule treats a dwelling as it treats any other building, and the meter-main's main breaker satisfies it from either side of the wall.
 
-A meter-main combines the socket, the service disconnect and a few breaker spaces in one listed enclosure. That turns the panel inside into a subpanel on a feeder: the neutral bonds to the enclosure once, at the meter-main, and stays isolated from ground everywhere downstream. Where the utility insists on the meter at the road, the pedestal meter-main becomes the service equipment and the house becomes a separate structure under 250.32. It then gets its own disconnect, its own grounding electrode system and a four-wire feeder, with the footing electrode serving as the electrode at the house.
+Meter-mains combine the socket, the service disconnect and a few breaker spaces in one listed enclosure. That turns the panel inside into a subpanel on a four-wire feeder. Where the utility insists on the meter at the road, the pedestal meter-main becomes the service equipment and the house becomes a separate structure under 250.32. It then gets its own disconnect, its own grounding electrode system and a four-wire feeder, with the footing electrode serving as the electrode at the house.
 
-Every device at the service carries an interrupting or short-circuit rating that the available fault current must not exceed. That current depends on the transformer's size and its distance from the wall. A padmount transformer close to the house can deliver more current into a bolted fault than a standard residential meter-main interrupts, which is why the utility's figure is in hand before the equipment is ordered. Oregon's older allowance of several grouped service disconnects keeps a 400-ampere meter-main with two 200-ampere mains lawful. That allowance expires under the 2026 table, after which the national text applies and additional disconnects sit in separate enclosures or compartments.
+Every device at the service carries an interrupting or short-circuit rating that the available fault current must not exceed. That current depends on the transformer's size and its distance from the wall. Close to the house, a padmount transformer can deliver more current into a bolted fault than a standard residential meter-main interrupts, which is why the utility's figure is in hand before the equipment is ordered. Oregon's older allowance of several grouped service disconnects keeps a 400-ampere meter-main with two 200-ampere mains lawful. That allowance expires under the 2026 table, after which the national text applies and additional disconnects sit in separate enclosures or compartments.
 
 **Code**
 
@@ -177,7 +188,7 @@ A separate structure fed from the house service gets its own disconnect and elec
 
 **Simple**
 
-The service is sized by adding up the loads and discounting them, because they never all run at once. The code counts the first slice of the load in full and a fraction of the rest. Heat pump and car chargers are added without discount. An all-electric house with two chargers and a shop comes out just over 200 amperes on paper. That leaves two ways to build it: 400 amperes with room to spare, or 200 amperes with a panel that pauses the chargers while the oven runs. Costs are 2026 figures unless a different year is given. Raising a finished house to 400 amperes costs $8,000 to $12,000 in Fixr's national guide, before the utility's charges.
+Sizing the service means adding up the loads and discounting them, because they never all run at once. It counts the first slice of the load in full and a fraction of the rest. Heat pump and car chargers are added without discount. On paper, an all-electric house with two chargers and a shop comes out just over 200 amperes. That leaves two ways to build it. One is 400 amperes with spare room. The other is 200 amperes with a panel that pauses the chargers while the oven runs. Costs are 2026 figures unless a different year is given. Raising a finished house to 400 amperes costs $8,000 to $12,000 in Fixr's national guide, before the utility's charges.
 
 **Applied**
 
@@ -193,19 +204,23 @@ Build the load inventory before the service equipment is ordered.
 | Future | Two car chargers, hot tub or sauna, a second battery, an accessory dwelling | Planned nameplates |
 
 1. Enter every load's nameplate volt-amperes in the inventory, with the floor area for the general lighting line.
-2. Run the optional method, with the first 10,000 volt-amperes at 100 percent, the rest at 40 percent, and the heat pump at 100 percent.
-3. Add each charger at 7,200 volt-amperes or its nameplate, whichever is larger, unless a listed energy-management system limits it.
-4. Add 25 percent of the largest motor, the well pump here.
-5. Divide the total by 240 for amperes, and record the result with the date, the method and the inventory.
-6. Run the standard method as a check, and file both results.
-7. Choose 400 amperes where the unmanaged result exceeds 200.
-8. Or choose 200 amperes with a listed energy-management system that caps the managed loads below it.
-9. Size the lateral conduit, the transformer pad and the meter socket for 400 amperes whichever service is installed.
-10. Give the utility the calculated load and the service size at the planning meeting, and keep its transformer sizing in writing.
+2. Run the optional method, with the first 10,000 volt-amperes at 100 percent and the rest at 40 percent.
+3. Add the heat pump at 100 percent.
+4. Add each charger at 7,200 volt-amperes or its nameplate, whichever is larger.
+5. Skip that step for a charger under a listed energy-management system.
+6. Add 25 percent of the largest motor, the well pump here.
+7. Divide the total by 240 for amperes.
+8. Record the result with the date, the method and the inventory.
+9. Run the standard method as a check, and file both results.
+10. Choose 400 amperes where the unmanaged result exceeds 200.
+11. Or choose 200 amperes with a listed energy-management system that caps the managed loads below it.
+12. Size the lateral conduit, the pad and the meter socket for 400 amperes either way.
+13. Give the utility the calculated load and the service size at the planning meeting.
+14. Keep its transformer sizing in writing.
 
 **Professional**
 
-Under the standard method each class of load takes its own demand factor, and the optional method for a single dwelling sums every load at nameplate and discounts the sum beyond its first tier. For a house full of large appliances the optional method yields less demand, and it is the method a dwelling with electric heat is sized by in practice. A representative all-electric program, with nameplates assumed where the equipment is not yet chosen, is in the table.
+Under the standard method each class of load takes its own demand factor, and the optional method for a single dwelling sums every load at nameplate and discounts all of it past an initial tier. For a house full of large appliances the optional method yields less demand, and it is the method a dwelling with electric heat is sized by in practice. One representative all-electric program, with nameplates assumed where the equipment is not yet chosen, is in the table.
 
 | Load | Nameplate, volt-amperes |
 |---|---|
@@ -226,9 +241,9 @@ Under the standard method each class of load takes its own demand factor, and th
 | Calculated demand | 49,256, or 205 amperes at 240 volts |
 | The same house with both chargers under an energy-management system set to a shared 48 amperes | 44,648, or 186 amperes |
 
-Two 48-ampere chargers decide which service the house needs. Unmanaged, they carry the program past 200 amperes and into a 320- or 400-ampere service. Under a listed energy-management system whose setpoint replaces their nameplates, the same house lands under 200, with the heat pump, the range and the shop still counted in full. Oregon's Statewide Alternate Method 09-01 offers a demand-factor table for charging stations, but its first tier, one to four stations, gives no discount, so a house with two chargers gets nothing from it. The 2026 edition moved the calculation to Article 120 and cut the general lighting allowance by a third (EC&M, Dean Austin of NFPA, May 2026). That lowers the base-house line and changes none of the appliance arithmetic.
+Two 48-ampere chargers decide which service the house needs. Unmanaged, they carry the program past 200 amperes and into a 320- or 400-ampere service. Under a listed energy-management system whose setpoint replaces their nameplates, the same house lands under 200. Oregon's Statewide Alternate Method 09-01 offers a demand-factor table for charging stations, but its first tier, one to four stations, gives no discount, so a house with two chargers gets nothing from it. In 2026 the calculation moved to Article 120, and the general lighting allowance fell by a third (EC&M, Dean Austin of NFPA, May 2026). That lowers the base-house line and changes none of the appliance arithmetic.
 
-A 320-ampere meter socket, rated 400 amperes for noncontinuous load, is the middle step between the two services, and it takes the 400-ampere conductor set. Table 310.12 lets a single dwelling's service conductors be sized below the service rating when no ambient or bundling correction applies. By that table 2/0 copper or 4/0 aluminum serve a 200-ampere service, and 400 kcmil copper or 600 kcmil aluminum a 400-ampere service. The transformer is sized from the load the applicant reports, and a later service change can require a transformer change that the utility bills. No code sets a margin above the calculated load, so the margin is the plan's choice: the next service step, or a managed 200-ampere service whose lateral, pad and socket already fit 400.
+Between the two services sits the 320-ampere meter socket, rated 400 amperes for noncontinuous load, which takes the 400-ampere conductor set. Table 310.12 lets a single dwelling's service conductors be sized below the service rating. By that table 2/0 copper or 4/0 aluminum serve a 200-ampere service, and 400 kcmil copper or 600 kcmil aluminum a 400-ampere service. Utility transformers are sized from the load the applicant reports, and a later service change can require a transformer change. No code sets a margin above the calculated load, so the margin is the plan's choice: the next service step, or a managed 200-ampere service whose lateral, pad and socket already fit 400.
 
 **Code**
 
@@ -270,23 +285,27 @@ Smart panels are breaker panels with a computer inside, able to switch off a cir
 
 **Applied**
 
-1. Decide before the panel is ordered whether the house runs a 200-ampere managed service or a 400-ampere unmanaged one.
-2. For the managed service, specify a smart panel listed to UL 67, UL 916 and UL 3141, such as SPAN's, as the main panel.
-3. Or specify a listed load-management controller on the chargers' feeder, where the inspector accepts it for the calculation.
-4. Put both car chargers under management first, then the water heater and a hot tub.
-5. Keep the well pump, the ventilation and the refrigeration off the managed list.
-6. Enter the system's setpoint in the load calculation in place of the chargers' nameplates, and file the setting.
-7. Confirm that every breaker in the panel works by hand with the controller dead, and test that at commissioning.
-8. Record every change to the setpoint with its date, and keep the panel's listing and manual in the binder.
-9. For the unmanaged service, order the 400-ampere meter-main and the 400-ampere conductor set, and skip the controller.
+1. Decide between a 200-ampere managed service and a 400-ampere unmanaged one before the panel is ordered.
+2. For the managed service, specify a smart panel listed to UL 67, UL 916 and UL 3141, such as SPAN's.
+3. Use it as the main panel.
+4. Or specify a listed load-management controller on the chargers' feeder, where the inspector accepts it.
+5. Manage both car chargers first, then the water heater and a hot tub.
+6. Keep the well pump, the ventilation and the refrigeration off the managed list.
+7. Enter the system's setpoint in the load calculation in place of the chargers' nameplates.
+8. File the setting with the calculation.
+9. Confirm that every breaker works by hand with the controller dead.
+10. Repeat that test at commissioning.
+11. Record every change to the setpoint with its date.
+12. Keep the panel's listing and manual in the binder.
+13. For the unmanaged service, order the 400-ampere meter-main and conductor set and skip the controller.
 
 **Professional**
 
-An energy-management system caps what the service is ever asked to deliver. The code then sizes the service to the cap rather than to the sum of nameplates, and a charger under the system leaves the nameplate column of the calculation. Two architectures do it.
+Energy management works by measuring the service current and throttling or shedding the managed circuits before the total reaches the setpoint. That setpoint, not the sum of nameplates, is what the service can ever be asked to deliver, and a charger under the system leaves the nameplate column of the calculation. Two architectures do it.
 
-A smart panel such as SPAN's replaces the main panel and switches every circuit under its own listings: UL 67 for the panelboard, UL 916 for the energy-management function, UL 869A for service equipment and UL 3141 for a power control system. UL 3141 is the standard the 2026 code names for a system that holds currents within a rating at the point of interconnection. A charger-side controller, a current transformer on the service feeding a load-management relay or a charger's own management mode, costs less and manages only the chargers. Whether an inspector accepts it as the listed system behind the calculation is a plan-review question.
+SPAN's smart panel replaces the main panel and switches every circuit under its own listings. Those are UL 67 for the panelboard, UL 916 for the energy-management function, UL 869A for service equipment and UL 3141 for a power control system. UL 3141 is the standard the 2026 code names for a system that holds currents within a rating at the point of interconnection. Charger-side controllers cost less: a current transformer on the service feeding a load-management relay, or a charger's own management mode, and they manage only the chargers. Whether an inspector accepts one as the listed system behind the calculation is a plan-review question.
 
-A smart panel brings a dependence on firmware over the service life of the house. A controller that stops updating still breaks over its mechanical breakers, so the fallback is a plain panel whose managed loads can no longer share the service. The unmanaged service trades that dependence for a larger transformer, a larger conductor set and a second main, and it adds no software to the thousand-year shell. Each option is priced before the choice: the managed service against the Fixr upgrade range should the controller fail, the unmanaged service against the utility's transformer charge.
+Smart panels bring a dependence on firmware over the service life of the house. When a controller stops updating, its mechanical breakers still break, so the fallback is a plain panel whose managed loads can no longer share the service. Going unmanaged trades that dependence for a larger transformer, a larger conductor set and a second main, and adds no software to the thousand-year shell. Each option is priced before the choice: the managed service against the Fixr upgrade range should the controller fail, the unmanaged service against the utility's transformer charge.
 
 **Code**
 
@@ -308,27 +327,29 @@ Controls may limit the rating a charger installation needs.
 
 **Simple**
 
-Every panel needs a clear space in front of it, kept clear for the life of the house. The code sets it at about the width of a doorway and the depth of a person's reach. Nothing may be stored or built in it, not a shelf, not a water heater, not a duct across the wall above. Panels cannot go in a bathroom, a clothes closet or over a stair. In this house the main panel hangs inside the interconnect wall, and a subpanel sits on each floor near the rooms it feeds. A repair then happens on the floor it concerns, and the branch runs stay short. Each panel gets a light, a typed directory and spare spaces for the circuits nobody has thought of yet.
+Every panel needs a clear space in front of it, kept clear for the life of the house. In the code it is about a doorway's width and a person's reach. Nothing may be stored or built in it, not even a duct across the wall above. Panels cannot go in a bathroom, a clothes closet or over a stair. In this house the main panel hangs inside the interconnect wall, and a subpanel sits on each floor near the rooms it feeds. Repairs then happen on the floor they concern, and the branch runs stay short. Each panel gets a light, a typed directory and spare spaces for the circuits nobody has thought of yet.
 
 **Applied**
 
-1. Place the main panel on the inside of the interconnect wall and one subpanel per floor, on a hallway, utility-room or garage wall.
-2. Keep 36 inches of clear depth in front of each panel and 30 inches of width, or the panel's width if wider.
-3. Keep 6 feet 6 inches of headroom at each panel.
-4. Keep the space from the floor to 6 feet above each panel free of pipes, ducts and every other system.
-5. Light the panel wall to 10 foot-candles at the floor from a switch, not from an occupancy sensor alone.
-6. Feed each subpanel with a four-wire feeder, with the neutral on an isolated bar and the grounds on a bar bonded to the enclosure.
-7. Size each feeder and its breaker from the load calculation for that panel, and record the calculation.
-8. Reserve two spaces in the main panel for the array and the battery, and leave spare spaces in every panel.
-9. Type a directory for every panel naming each circuit by its load and location, and mark unused breakers spare.
-10. Choose the panel brand and model first, then the interlock kit, the surge device and the controller listed for it.
-11. Open a live panel only with a second adult in the house who knows where the main switch is.
+1. Place the main panel on the inside of the interconnect wall.
+2. Place one subpanel per floor, on a hallway, utility-room or garage wall.
+3. Keep 36 inches of clear depth in front of each panel.
+4. Keep 30 inches of width, or the panel's width if wider, and 6 feet 6 inches of headroom.
+5. Keep the space from the floor to 6 feet above each panel free of pipes, ducts and other systems.
+6. Light the panel wall to 10 foot-candles at the floor from a switch, not an occupancy sensor alone.
+7. Feed each subpanel with a four-wire feeder.
+8. Land the neutral on an isolated bar and the grounds on a bar bonded to the enclosure.
+9. Size each feeder and its breaker from the load calculation for that panel, and record it.
+10. Leave spare spaces in every panel.
+11. Type a directory for every panel naming each circuit by load and location, and mark unused breakers spare.
+12. Choose the panel brand and model first, then the interlock kit, surge device and controller listed for it.
+13. Open a live panel only with a second adult in the house who knows where the main switch is.
 
 **Professional**
 
 Working space lets a person open a panel, stand square to it and step back from an arc without falling over something. Dedicated space above keeps a future plumber from running a drain across the breakers. Oregon's amendment puts a number on the national lighting rule for indoor service equipment and panels, which the national text leaves unquantified.
 
-Subpanels on each floor keep branch runs short in a house where a changed route means cut concrete, and each costs a feeder, a separate neutral and ground bar, and a fault-current check. Available fault current falls with feeder length and impedance, so a subpanel across the house can use ordinary 10,000-ampere breakers where the service equipment on the interconnect wall may not. A smart panel as the main panel puts the controller in the one enclosure every circuit passes through. A conventional main panel with a managed subpanel for the chargers keeps the controller out of the service equipment.
+Subpanels on each floor keep branch runs short in a house where a changed route means cut concrete, and each costs a feeder, a separate neutral and ground bar, and a fault-current check. Available fault current falls with feeder length and impedance, so a subpanel across the house can use ordinary 10,000-ampere breakers where the service equipment on the interconnect wall may not. Used as the main panel, a smart panel puts the controller in the one enclosure every circuit passes through. With a conventional main panel and a managed subpanel for the chargers, the controller stays out of the service equipment.
 
 OSHA's two-person requirement, 29 CFR 1910.269(l)(1)(i), covers power generation, transmission and distribution work on lines and equipment energized above 600 volts. No OSHA or electrical-code rule requires a second person at a residential panel at 120/240 volts. This house keeps a second person at a live panel as its own rule, because a shock that drops the worker is survivable when someone can open the main and call for help.
 
@@ -364,31 +385,33 @@ Footing steel is the house's connection to the earth, made on pour day or never.
 
 **Applied**
 
-1. Mark the footing electrode on the foundation drawings as 20 feet of continuous uncoated #4 bar, 3 inches up from the footing bottom.
-2. Run that length in a footing poured against earth, with no plastic sheeting, foam or waterproofing under it.
-3. Stub an uncoated #4 bar at least 12 inches above the floor plate line at the panel wall.
-4. Lap the stub 12 inches to the footing bar and tie it with at least three ties.
-5. Add a second stub at the far side of the house for a future subpanel, outbuilding feed or battery.
-6. Cap both stubs against the pour.
-7. Connect the grounding electrode conductor to the stub with a clamp listed for rebar.
-8. Or weld a bare #4 copper conductor to the footing steel before the pour, as the electrode conductor.
-9. Weld the footing laps at the major intersections where the electrode runs, and tie every other lap.
-10. Keep the copper-to-steel connection above the slab where it stays dry, and keep aluminum out of contact with the concrete.
-11. Measure the resistance from the stub to the farthest exposed footing bar before the pour.
-12. Record the reading, with 0.1 ohm as the pass mark.
-13. Photograph the electrode run, the stub and the connection before concrete, with a scale in the frame.
-14. Call the electrical inspector for the electrode inspection before the footing pour, on the same day as the building inspector's footing visit.
-15. Bond every other electrode on the site into the same system, including a metal water pipe with 10 feet in the earth and any driven rod.
-16. Where no footing touches earth, drive two 8-foot rods at least 6 feet apart.
-17. Or lay a ring of 20 feet of bare #2 copper 30 inches deep around the house.
+1. Mark the footing electrode on the foundation drawings as 20 feet of continuous uncoated #4 bar.
+2. Set it 3 inches up from the footing bottom.
+3. Run that length in a footing poured against earth, with no plastic, foam or waterproofing under it.
+4. Stub an uncoated #4 bar at least 12 inches above the floor plate line at the panel wall.
+5. Lap the stub 12 inches to the footing bar and tie it with at least three ties.
+6. Add a second stub at the far side of the house for a future subpanel, outbuilding feed or battery.
+7. Cap both stubs against the pour.
+8. Connect the grounding electrode conductor to the stub with a clamp listed for rebar.
+9. Or weld a bare #4 copper conductor to the footing steel before the pour as the electrode conductor.
+10. Weld the footing laps at the major intersections where the electrode runs, and tie every other lap.
+11. Keep the copper-to-steel connection above the slab where it stays dry.
+12. Keep aluminum out of contact with the concrete.
+13. Measure the resistance from the stub to the farthest exposed footing bar before the pour.
+14. Record the reading, with 0.1 ohm as the pass mark.
+15. Photograph the electrode run, the stub and the connection before concrete, with a scale in the frame.
+16. Call the electrical inspector for the electrode before the footing pour, on the building inspector's footing day.
+17. Bond every other electrode on the site into the same system, including a buried metal water pipe and any driven rod.
+18. Where no footing touches earth, drive two 8-foot rods at least 6 feet apart.
+19. Or lay a ring of 20 feet of bare #2 copper 30 inches deep around the house.
 
 **Professional**
 
-Concrete in contact with soil stays damp and conductive. A footing's long contact area gives a lower resistance to earth than a rod, which depends on whatever soil it meets and dries out in August. Direct earth contact is the qualification. The rule's informational note explains that a vapor barrier, insulation or a similar film between the concrete and the earth ends that contact. A slab over polyethylene is therefore not an electrode, and in this house the footings carry it while the insulated, sheeted slab carries nothing.
+Concrete in contact with soil stays damp and conductive. Its long contact area gives a footing a lower resistance to earth than a rod, which depends on whatever soil it meets and dries out in August. Direct earth contact is the qualification. By the rule's informational note, a vapor barrier, insulation or a similar film between the concrete and the earth ends that contact, and this house's slab sits on both.
 
 Oregon's residential code writes the detail into the footing itself, bar, position, stub and ties, and the electrical code sets the electrode's minimum length and cover. Where several footings qualify, bonding one of them satisfies the code. Welded connections at the major intersections are the project's practice, because they make the whole shell one low-impedance electrode, and a welded joint cannot loosen where a clamp can.
 
-Galvanic corrosion at the copper-to-steel junction is why the connection sits above the slab, dry, and why aluminum is kept out of concrete contact. A continuity reading between the stub and a distant bar is the project's own record of the electrode, taken because the bar cannot be seen after the pour. No Oregon rule requires that reading or sets its pass mark. Below the frost line the concrete-to-earth interface stays moist through the year, and the electrode length sits there. Stray direct current from an unbonded array or battery can corrode rebar electrolytically, so the array and the battery bond to this same electrode system under the rules in the solar chapter.
+Galvanic corrosion at the copper-to-steel junction is why the connection sits above the slab, dry, and why aluminum is kept out of concrete contact. Measuring continuity between the stub and a distant bar is the project's own record of the electrode, taken because the bar cannot be seen after the pour. No Oregon rule requires that reading or sets its pass mark. Below the frost line the concrete-to-earth interface stays moist through the year, and the electrode length sits there. Stray direct current from an unbonded array or battery can corrode rebar electrolytically, so the array and the battery bond to this same electrode system under the rules in the solar chapter.
 
 [FIGURE: footing-electrode-stub, section of the footing at the panel wall with the electrode bar, the stub with its ties and lap, and the grounding electrode conductor clamp]
 
@@ -428,29 +451,30 @@ A single rod needs a second electrode unless it tests low.
 
 **Simple**
 
-Bonding ties every piece of metal in the house together, so a fault has a short, heavy path back to the breaker. When a hot wire touches a pipe, a tool housing or a panel box, the bond carries the current back to the source. Then the breaker trips in a fraction of a second, instead of leaving the metal live for the next hand. Its neutral touches ground at one place only, the main switch outside. Any second connection downstream lets everyday neutral current wander through the pipes and the ground wires. That heats connections and makes the safety breakers trip for no reason. Water pipes, the well casing and the generator's gas line all get a bond wire to the panel.
+Bonding ties every piece of metal in the house together, so a fault has a short, heavy path back to the breaker. When a hot wire touches a pipe or a panel box, the bond carries the current back to the source. Then the breaker trips in a fraction of a second, instead of leaving the metal live. Its neutral touches ground at one place only, the main switch outside. Any second connection downstream lets everyday neutral current wander through the pipes and the ground wires. That heats connections and makes the safety breakers trip for no reason. Water pipes, the well casing and the generator's gas line all get a bond wire to the panel.
 
 **Applied**
 
-1. Install the main bonding jumper in the meter-main only, and remove the bonding screw or strap from every panel downstream.
-2. Bond the metal water piping at its entry with 4 AWG copper for a 200-ampere service, or 1/0 copper for 400 amperes.
-3. Bond the generator's gas piping where it enters, with a jumper sized to the circuit that could energize it.
-4. Where corrugated stainless tubing is used, follow the tubing maker's bonding instructions.
-5. Bond a metal well casing to the pump circuit's equipment grounding conductor.
-6. Bond exposed structural steel and the hydronic manifolds to the grounding electrode system.
-7. Mount an intersystem bonding termination outside at the meter-main, for the communications, antenna and lightning-system bonds.
-8. Run a separate equipment grounding conductor in every feeder and branch circuit.
-9. Land each equipment ground on the ground bar of its panel, never on the neutral bar.
-10. Land the equipment grounds of the array and the battery on the house grounding bus, not on a separate rod alone.
-11. Photograph every bond before cover, and list each one on the grounding record.
+1. Install the main bonding jumper in the meter-main only.
+2. Remove the bonding screw or strap from every panel downstream.
+3. Bond the metal water piping at its entry with 4 AWG copper for 200 amperes, or 1/0 copper for 400.
+4. Bond the generator's gas piping where it enters, with a jumper sized to the circuit that could energize it.
+5. Where corrugated stainless tubing is used, follow the tubing maker's bonding instructions.
+6. Bond a metal well casing to the pump circuit's equipment grounding conductor.
+7. Bond exposed structural steel and the hydronic manifolds to the grounding electrode system.
+8. Mount an intersystem bonding termination outside at the meter-main for the communications, antenna and lightning-system bonds.
+9. Run a separate equipment grounding conductor in every feeder and branch circuit.
+10. Land each equipment ground on the ground bar of its panel, never on the neutral bar.
+11. Land the array's and the battery's equipment grounds on the house grounding bus, not on a separate rod alone.
+12. Photograph every bond before cover, and list each one on the grounding record.
 
 **Professional**
 
-A fault clears only when enough current flows to trip the breaker, and the impedance of the equipment grounding path sets that current. The neutral's single bond at the service joins that path to the source, so that the path exists at all. Any second neutral-to-ground connection downstream puts everyday neutral current onto the equipment grounds and the pipes. That current corrodes connections, trips arc-fault and ground-fault devices and leaves a metal surface carrying current. Oregon's 250.24 adds an exception for a utility-installed ground-fault protection system ahead of the service, which a rural single-phase service does not have.
+Faults clear only when enough current flows to trip the breaker, and the impedance of the equipment grounding path sets that current. Bonding the neutral once, at the service, joins that path to the source, so that the path exists at all. Any second neutral-to-ground connection downstream puts everyday neutral current onto the equipment grounds and the pipes. That current corrodes connections over years, leaves a metal surface carrying current between faults, and reads to arc-fault and ground-fault devices as a fault. Oregon's 250.24 adds an exception for a utility-installed ground-fault protection system ahead of the service, which a rural single-phase service does not have.
 
-The water-pipe bond is sized to the service conductors because a fault on the service could put the whole supply on the pipe. Other metal piping, gas included, is bonded by the circuit that could energize it, so a 20-ampere igniter circuit sets a 12 AWG jumper under the equipment-grounding table.
+Water-pipe bonds are sized to the service conductors because a fault on the service could put the whole supply on the pipe. Other metal piping, gas included, is bonded by the circuit that could energize it, so a 20-ampere igniter circuit sets a 12 AWG jumper under the equipment-grounding table.
 
-Corrugated stainless steel tubing is the exception in practice. Lightning current through a weak bond has perforated its thin wall, so its makers' instructions, which govern under 110.3(B), call for a 6 AWG jumper direct to the electrode system. Oregon's residential code replaced the model fuel-gas chapter's bonding section with one sentence that sends gas-pipe bonding to the electrical code (ORSC G2411.1, 2023 edition). That figure therefore lives in the product instructions here and not in the code. An intersystem bonding point outside the service enclosure gives the communications protector and an antenna's discharge unit one terminal, which ties the lightning potential of every system to one reference.
+Corrugated stainless steel tubing is the exception in practice. Lightning current through a weak bond has perforated its thin wall, so its makers' instructions, which govern under 110.3(B), call for a 6 AWG jumper direct to the electrode system. Oregon's residential code replaced the model fuel-gas chapter's bonding section with one sentence that sends gas-pipe bonding to the electrical code (ORSC G2411.1, 2023 edition). That figure therefore lives in the product instructions here and not in the code. Outside the service enclosure, an intersystem bonding point gives the communications protector and an antenna's discharge unit one terminal, which ties the lightning potential of every system to one reference.
 
 **Code**
 
@@ -480,13 +504,13 @@ An intersystem bonding point sits outside the service equipment.
 
 **Simple**
 
-Surge protectors at the main panel are small boxes that swallow the voltage spike from a lightning strike or a utility switching event. One stops the spike before it reaches the well pump's controller and the inverter. Rural houses at the end of a long line see more spikes than a city block. Every new house gets one under the national code. Oregon left it out of its 2023 edition and makes it mandatory for permits filed from October 2027. This house installs one from the start. One costs $160 to $210 and clips in beside the main breaker. Lightning rods are a separate system that no code requires, weighed only for a hilltop or an exposed site.
+At the main panel a surge protector swallows the voltage spike from lightning or a utility switching event. It stops the spike before it reaches the well pump's controller and the inverter. Rural houses at the end of a long line see more spikes than a city block. Every new house gets one under the national code. Oregon left it out of its 2023 edition and makes it mandatory for permits filed from October 2027. This house installs one from the start. One costs $160 to $210 and clips in beside the main breaker. Lightning rods are a separate system that no code requires, weighed only for a hilltop or an exposed site.
 
 **Applied**
 
-1. Install a Type 2 surge protective device in or beside the meter-main or the main panel, on its own two-pole breaker.
+1. Install a Type 2 surge protective device at the meter-main or the main panel, on its own two-pole breaker.
 2. Keep its leads as short and straight as its instructions allow.
-3. Choose a listed device rated for the panel it mounts to, such as Eaton's CHSPT2ULTRA at $210 at Home Depot.
+3. Choose a listed device rated for the panel, such as Eaton's CHSPT2ULTRA at $210 at Home Depot.
 4. Compare it against Siemens' FS140, $160 to $195 in Amazon sales.
 5. Protect the network, coaxial and antenna lines at their entry with protectors bonded to the intersystem bonding point.
 6. Add a second-stage protector at the well-pump controller and at the network rack.
@@ -498,11 +522,11 @@ Surge protectors at the main panel are small boxes that swallow the voltage spik
 
 **Professional**
 
-A Type 1 device mounts on the line side of the service disconnect and a Type 2 on the load side, and either satisfies the national rule. Clamping voltage and lead length matter more than the type. Every inch of lead adds inductance that lets the front of a spike through before the device conducts. Low-voltage lines carry surges as readily as power conductors, which is why the network and antenna protectors bond to the same point and why the rack's battery unit is the second stage.
+Type 1 devices mount on the line side of the service disconnect and Type 2 on the load side, and either satisfies the national rule. Clamping voltage and lead length matter more than the type. Every inch of lead adds inductance that lets the front of a spike through before the device conducts. Low-voltage lines carry surges as readily as power conductors, which is why the network and antenna protectors bond to the same point and why the rack's battery unit is the second stage.
 
-The national rule has stood since the 2020 edition, and its 2023 companions reach feeders and outdoor circuits. Oregon's table delays all of it, so the device at this house is bought for the equipment it protects rather than for the inspector, until the date in the entry below.
+Nationally the rule has stood since the 2020 edition, and its 2023 companions reach feeders and outdoor circuits. Oregon's table delays all of it, so the device at this house is bought for the equipment it protects rather than for the inspector, until the date in the entry below.
 
-Lightning protection under NFPA 780 is a set of air terminals, down conductors and ground terminals. The electrical code's one rule for it is that its ground terminals bond to the house's own electrodes. The footing electrode handles power-frequency fault current well. A lightning impulse sees the concrete-to-earth interface at a higher impedance than steady current does, which is why NFPA 780 designs add their own ring or rod terminals and bond them to the footing electrode at one point. Exposure decides whether the system is built: a ridge, an open field, or a roof that stands above everything around it.
+Lightning protection under NFPA 780 is a set of air terminals, down conductors and ground terminals. Its one rule in the electrical code is that its ground terminals bond to the house's own electrodes. Power-frequency fault current is what the footing electrode handles well. Lightning impulses see the concrete-to-earth interface at a higher impedance than steady current does, which is why NFPA 780 designs add their own ring or rod terminals and bond them to the footing electrode at one point. Exposure decides whether the system is built: a ridge, an open field, or a roof that stands above everything around it.
 
 **Code**
 
@@ -524,33 +548,36 @@ A lightning protection system bonds to the house's electrodes.
 
 **Simple**
 
-Any generator or battery on the house wiring has to be locked out from the utility line. Otherwise it pushes power backward through the transformer into the street. A crew repairing a dead line expects it dead, and a house feeding it makes it live at full voltage. The lock is a transfer switch or an interlock, a part that connects the house to the grid or the generator, never both. In this house the battery's inverter does the switching on its own. When the grid fails it opens the line in a fraction of a second, and the generator plugs into the inverter, not the panel. Circuits that must keep running sit in their own small panel, fed by the battery.
+Any generator or battery on the house wiring has to be locked out from the utility line. Otherwise it pushes power backward through the transformer into the street. Crews repairing a dead line expect it dead, and a house feeding it makes it live at full voltage. That lock is a transfer switch or an interlock, which connects the house to the grid or the generator, never both. Here the battery's inverter does the switching on its own. When the grid fails it opens the line within a second, and the generator plugs into the inverter, not the panel. Circuits that must keep running sit in their own small panel, fed by the battery.
 
 **Applied**
 
 Choose the transfer method with the panel brand, before either is bought.
 
 1. Install the battery inverter's microgrid interconnect device between the meter-main and the critical-loads panel, per its listing.
-2. Build the critical-loads panel from the outage tier list, and label it as battery-backed with the loads it carries.
-3. Wire the generator to the inverter's generator input through a listed outdoor inlet.
-4. Wire the generator's two-wire start contact to the inverter's start output.
-5. For a portable generator connected at a panel instead, install an outdoor inlet, a backfeed breaker and the interlock kit listed for that exact panel.
-6. For a permanent standby unit with its own transfer switch, use a two-pole switch that leaves the neutral solid.
-7. With that two-pole switch, remove the generator's neutral-to-ground bond.
-8. Where a three-pole switch that breaks the neutral is used instead, keep the generator's bond and give the generator its own electrode.
-9. Post the standby sign at the meter-main, naming the type and location of each standby source.
-10. Ask the local electrical inspector in writing, before buying an interlock kit, whether they accept it for the panel brand.
-11. Test the transfer at commissioning by opening the utility breaker, and log the transfer time and the loads that ran.
+2. Build the critical-loads panel from the outage tier list.
+3. Label it as battery-backed, with the loads it carries.
+4. Wire the generator to the inverter's generator input through a listed outdoor inlet.
+5. Wire the generator's two-wire start contact to the inverter's start output.
+6. For a portable generator connected at a panel instead, install an outdoor inlet and a backfeed breaker.
+7. Add the interlock kit listed for that exact panel.
+8. For a permanent standby unit with its own transfer switch, use a two-pole switch that leaves the neutral solid.
+9. With that two-pole switch, remove the generator's neutral-to-ground bond.
+10. Where a three-pole switch breaks the neutral instead, keep the generator's bond and give it its own electrode.
+11. Post the standby sign at the meter-main, naming the type and location of each standby source.
+12. Ask the local electrical inspector in writing, before buying an interlock kit, whether they accept it for the panel brand.
+13. Test the transfer at commissioning by opening the utility breaker.
+14. Log the transfer time and the loads that ran.
 
 **Professional**
 
-Transfer equipment makes a simultaneous connection of two sources mechanically impossible. A listed interlock kit meets the rule when it is listed for the specific panel it mounts on. The Building Codes Division's April 2021 bulletin on generator connections states that the Oregon code requires a transfer switch or other safety device against back feeding, and that the work takes a permit. It also states that downed lines energized by a back-fed house endanger utility workers and the public. Breaker Hunters' 2025 buyer's guide, a national retailer's figures, prices a listed interlock kit at $50 to $200 in hardware, a manual transfer switch at $1,000 to $2,200 installed and a whole-house automatic transfer switch at $1,800 to $5,500 installed.
+In its April 2021 bulletin on generator connections, the Building Codes Division states that the Oregon code requires a transfer switch or other safety device against back feeding, and that the work takes a permit. It also states that downed lines energized by a back-fed house endanger utility workers and the public. Listed interlock kits meet that rule when listed for the specific panel they mount on. Breaker Hunters' 2025 buyer's guide, a national retailer's figures, prices a listed interlock kit at $50 to $200 in hardware, a manual transfer switch at $1,000 to $2,200 installed and a whole-house automatic transfer switch at $1,800 to $5,500 installed.
 
-A microgrid interconnect device built into the battery inverter senses the loss of utility voltage, opens the utility connection and lets the inverter form an island for the house. The generator then feeds the inverter, which charges the bank and carries the loads at once, and the inverter's listing covers the transfer function. Oregon's microgrid amendment puts customer-side microgrid equipment under the current code. The generator's own siting, fuel and start rules are in the solar chapter with the outage tier table.
+Built into the battery inverter, a microgrid interconnect device senses the loss of utility voltage, opens the utility connection and lets the inverter form an island for the house. Then the generator feeds the inverter, which charges the bank and carries the loads at once, and the inverter's listing covers the transfer function. Oregon's microgrid amendment puts customer-side microgrid equipment under the current code. Siting, fuel and start rules for the generator itself are in the solar chapter with the outage tier table.
 
-Whether the transfer switch breaks the neutral decides how the generator is grounded. A two-pole switch leaves the neutral solidly connected, so the generator is not a separately derived system and its frame is grounded through the house system. Its factory neutral-to-ground jumper then comes out, or neutral current divides between the neutral and the equipment grounds. A three-pole switch that breaks the neutral makes the generator a separately derived system with its own electrode and its own bond.
+Whether the transfer switch breaks the neutral decides how the generator is grounded. With a two-pole switch the neutral stays solidly connected, so the generator is not a separately derived system and its frame is grounded through the house system. Its factory neutral-to-ground jumper then comes out, or neutral current divides between the neutral and the equipment grounds. With a three-pole switch that breaks the neutral, the generator becomes a separately derived system with its own electrode and its own bond.
 
-Whole-home backup against a critical-loads panel is a capacity decision rather than a code item. A smaller inverter and bank carry the well pump, the refrigeration, the ventilation and the controls, while whole-home backup needs continuous and surge capacity for the heat pump and the car chargers too. Spare main-panel space with a feeder stub to the critical-loads location lets the choice wait.
+Whole-home backup against a critical-loads panel is a capacity decision rather than a code item. Smaller inverters and banks carry the well pump, the refrigeration, the ventilation and the controls, while whole-home backup needs continuous and surge capacity for the heat pump and the car chargers too. Spare main-panel space with a feeder stub to the critical-loads location lets the choice wait.
 
 **Code**
 
@@ -576,25 +603,27 @@ A generator with a switched neutral is a separately derived system.
 
 **Simple**
 
-Solar power enters through a breaker in the panel, and the panel's bus bars carry only so much from both directions at once. The code lets the main breaker and the solar breaker together add up to a fifth more than the bus bar's rating. That works only when the solar breaker sits at the far end of the bus from the main. On a standard panel it leaves room for a modest array. A larger one connects ahead of the main breaker, on the utility's side of it, or through a listed controller that keeps the sum under the limit. Two breaker spaces stay reserved, one for the array and one for the battery. Their disconnects sit on the interconnect wall where the placard lists them.
+Solar power enters through a breaker in the panel, and the panel's bus bars carry only so much from both directions at once. Under the code the main breaker and the solar breaker together may add up to a fifth more than the bus bar's rating. On a standard panel that leaves room for a modest array. Larger arrays connect ahead of the main breaker, on the utility's side. Or they connect through a listed controller that keeps the sum under the limit. Two breaker spaces stay reserved, one for the array and one for the battery. Their disconnects sit on the interconnect wall where the placard lists them.
 
 **Applied**
 
-1. Reserve two breaker spaces at the end of the main panel's bus farthest from the main breaker, for the array and the battery.
+1. Reserve two breaker spaces for the array and the battery at the end of the bus farthest from the main.
 2. Size the array's backfeed breaker so that it and the main breaker together stay within 120 percent of the bus rating.
 3. Allow a 40-ampere backfeed breaker on a 200-ampere bus with a 200-ampere main.
-4. Specify a 225-ampere bus with a 200-ampere main where a larger array is planned, which allows a 70-ampere backfeed breaker.
-5. For an array beyond that, connect on the supply side of the main with a listed disconnect and conductors sized to the service.
-6. Or use a listed power control system that holds the bus within its rating.
-7. Put the AC disconnects for the array and the battery on the interconnect wall within sight of the meter-main, with the source directory beside them.
-8. Label the point of interconnection with the inverter output's maximum AC current and voltage.
-9. Add a line to the directory for every new source on the day it is energized.
+4. Specify a 225-ampere bus with a 200-ampere main where a larger array is planned.
+5. Count on a 70-ampere backfeed breaker with that bus.
+6. For an array beyond that, connect on the supply side of the main with a listed disconnect and conductors sized to the service.
+7. Or use a listed power control system that holds the bus within its rating.
+8. Put the AC disconnects for the array and the battery on the interconnect wall within sight of the meter-main.
+9. Keep the source directory beside them.
+10. Label the point of interconnection with the inverter output's maximum AC current and voltage.
+11. Add a line to the directory for every new source on the day it is energized.
 
 **Professional**
 
-A busbar carries current from the main breaker at one end toward the branch breakers. A breaker backfed at the far end feeds the bus from the other direction, so no point on the bus sees more than one source's full current at once. That geometry is why the sum of the two breakers may exceed the bus rating by the allowance the code gives, and only with the backfed breaker at the far end. The sum rule, which gives no allowance, lets the breaker sit anywhere on the bus. A supply-side connection taps the service conductors ahead of the service disconnect and is sized to the service, which takes the bus out of the question and makes it the route when the array outgrows the bus.
+Busbars carry current from the main breaker at one end toward the branch breakers. Backfed at the far end, a second breaker feeds the bus from the other direction, so no point on the bus sees more than one source's full current at once. That geometry is why the sum of the two breakers may exceed the bus rating by the allowance the code gives, and only when the backfed breaker sits at the far end. Under the sum rule, which gives no allowance, the breaker may sit anywhere on the bus.
 
-A listed power control system monitors the currents and limits them as they happen. The 2023 edition admitted it in place of the static arithmetic, and the 2026 edition ties it to systems listed to UL 3141. A smart panel listed as a power control system therefore serves two purposes at once, the service-side load management and the interconnection limit. The array's rapid shutdown, its grounding-electrode conductor and the storage rules are in the solar chapter.
+Supply-side connections tap the service conductors ahead of the service disconnect and are sized to the service, which takes the bus out of the question and makes them the route when the array outgrows the bus. Listed power control systems monitor the currents and limit them as they happen. In 2023 the code admitted them in place of the static arithmetic, and the 2026 edition ties them to systems listed to UL 3141. So a smart panel listed as a power control system serves two purposes at once, the service-side load management and the interconnection limit. Rapid shutdown, the array's grounding-electrode conductor and the storage rules are in the solar chapter.
 
 **Code**
 
@@ -624,15 +653,15 @@ The point of interconnection is labeled.
 
 **Simple**
 
-Running an empty pipe to every place a car might charge takes minutes on the day the walls go up. Cutting the same route through finished concrete later takes a core drill and a patch. So the conduit goes in now, to the garage, the driveway pad and the spot where a second building might stand. Each pipe gets a string in it and a label at both ends. One charger goes on the wall on day one, built for weather if it hangs outside, and the second waits for the second car. A car charger is the largest steady load in the house. Its circuit is built heavier than the charger's rating because it runs for hours at full draw.
+Running an empty pipe to every place a car might charge takes minutes on the day the walls go up. Cutting the same route through finished concrete later takes a core drill and a patch. So the conduit goes in now, to the garage, the driveway pad and the site of a second building. Each pipe gets a string in it and a label at both ends. One charger goes on the wall on day one, built for weather if it hangs outside. The second waits for the second car. Car chargers are the largest steady load in the house. Their circuits are built heavier than the charger's rating because they run for hours at full draw.
 
 **Applied**
 
-1. Run a 2-inch conduit and pull string from the panel area to the garage, the driveway pad and any future accessory dwelling.
+1. Run 2-inch conduit and a pull string from the panel area to the garage, the driveway pad and any accessory dwelling site.
 2. Label both ends of each stub with its destination and the intended amperage.
-3. Install one 48-ampere charger on a 60-ampere circuit on day one, rated NEMA 3R or better outdoors and NEMA 4X near the coast.
-4. Size each charger's circuit and breaker at 125 percent of the charger's rating unless the energy-management system governs it.
-5. Put both chargers under the managed system where the service is 200 amperes, with the shared cap entered in the calculation.
+3. Install one 48-ampere charger on a 60-ampere circuit on day one.
+4. Rate it NEMA 3R or better outdoors, and NEMA 4X near the coast.
+5. Size each charger's circuit and breaker at 125 percent of the charger's rating unless the energy-management system governs it.
 6. Leave the second stub empty until the second car exists.
 7. Guard a pedestal charger in a driveway with bollards.
 8. Reserve a conduit path and panel space for the shop feeder and a hot tub circuit.
@@ -641,9 +670,9 @@ Running an empty pipe to every place a car might charge takes minutes on the day
 
 **Professional**
 
-The code treats a charger as a continuous load, which oversizes its circuit. Each charger above a small rating gets its own branch circuit, unless an energy-management system shares one circuit among several. A 40-ampere charger is the common alternative to the 48-ampere unit, on a circuit one size smaller. The national code's 2023 rule for ground-fault protection of charger receptacles, 625.54, is not adopted in Oregon. A hardwired charger, or a receptacle on its dedicated circuit, is therefore the Oregon installation, with the charger's own personnel protection system doing that work. Two 48-ampere chargers draw 23,040 volt-amperes at nameplate, and under a shared setpoint of 48 amperes they count as one.
+Continuous-load treatment, three hours or more at full draw, is why a charger's circuit and breaker carry a margin above its rating. Each charger above a small rating gets its own branch circuit, unless an energy-management system shares one circuit among several. Forty-ampere chargers on a circuit one size smaller are the common alternative to the 48-ampere unit. Oregon did not adopt the national code's 2023 rule for ground-fault protection of charger receptacles, 625.54. Hardwired chargers, or receptacles on their dedicated circuits, are therefore the Oregon installation, with the charger's own personnel protection system doing that work.
 
-Enclosure ratings under NEMA 250 set the weather protection: 3R sheds rain, 4 is tight against a hose, and 4X adds corrosion resistance for salt air. A bidirectional charger is listed as interactive equipment and interconnects as a battery does, and the vehicle-to-home provisions are in the solar chapter. A conduit stub to a parking place that never gets a car costs a stick of PVC. The one that is missing when the car arrives costs a trench across a finished yard or a core through a finished wall.
+Bidirectional chargers are listed as interactive equipment and interconnect as a battery does, and the vehicle-to-home provisions are in the solar chapter. Enclosure ratings under NEMA 250 set the weather protection: 3R sheds rain, 4 is tight against a hose, and 4X adds corrosion resistance for salt air.
 
 **Code**
 
@@ -669,28 +698,30 @@ Equipment that vehicles can reach is guarded.
 
 **Simple**
 
-Electrical work is inspected five times. The one that cannot be repeated is the footing steel that doubles as the grounding electrode. The electrical inspector sees it before the concrete truck arrives. The five are the construction power pole, the footing steel, the open trench, the rough-in and the final. At the rough-in every box and cable is still exposed, and at the final the panels are labeled and the devices on. Oregon gives you three working days to call for an inspection once the work is ready. The inspector then has five working days to come to the final. Those five records, with the one-line diagram and the load calculation, are what a future electrician reads instead of opening walls.
+Electrical work is inspected five times. Only one cannot be repeated, the footing steel that doubles as the grounding electrode. Inspectors see it before the concrete truck arrives. Those five are the construction power pole, the footing steel, the open trench, the rough-in and the final. At the rough-in every box and cable is still exposed, and at the final the panels are labeled and the devices on. Oregon gives you three working days to call for an inspection once the work is ready. Then the inspector has five working days to come to the final. Those records, with the one-line diagram and the load calculation, are what a future electrician reads instead of opening walls.
 
 **Applied**
 
 Call for each inspection within three working days of the work being ready.
 
 1. Have the rented construction service inspected before the utility connects it.
-2. Call the electrical inspector for the electrode when the footing steel, the stub and the connection are in place, before the concrete is ordered.
-3. Have the trench and conduit inspected before backfill, by the utility for the lateral and by the electrical inspector for the house side.
-4. Finish every box, conduit, cable, panel rough and bond before insulation and finishes, and leave all of it exposed for the rough-in.
-5. For the final, have the devices on, every panel labeled, the surge device in, the disconnects marked and the directory posted.
-6. Have the transfer equipment operable at the final.
-7. Ask the building official to schedule the final while you can be present to open energized equipment.
-8. Correct any defect the inspector notes, and request reinspection within 20 days.
-9. At the final, test every GFCI and AFCI with its button, check the surge device's indicator, and run the transfer with the utility breaker open.
-10. File the inspection approvals with the as-built conduit map and the grounding record.
+2. Ask for the electrode inspection when the footing steel, the stub and the connection are in place, before the concrete is ordered.
+3. Have the trench and conduit inspected before backfill, the utility for the lateral and the electrical inspector for the house side.
+4. Finish every box, conduit, cable, panel rough and bond before insulation and finishes.
+5. Leave all of it exposed for the rough-in.
+6. For the final, have the devices on, every panel labeled, the surge device in, the disconnects marked and the directory posted.
+7. Have the transfer equipment operable at the final.
+8. Ask the building official to schedule the final while you can be present to open energized equipment.
+9. Correct any defect the inspector notes, and request reinspection within 20 days.
+10. At the final, test every GFCI and AFCI with its button and check the surge device's indicator.
+11. Run the transfer with the utility breaker open.
+12. File the inspection approvals with the as-built conduit map and the grounding record.
 
 **Professional**
 
-At this house the items the inspection rules name land in four places. They are the electrode stub and its connection at the footing, the meter-main's fault-current rating against the utility's letter, the isolated neutral bar in every downstream panel, and the labels and directory on the interconnect wall. The inspector's own clock, 48 hours to inspect after a written request and 20 days for the permit holder to correct a defect, is stated with its entries in the smart-home chapter.
+At this house the items the inspection rules name land in four places. They are the electrode stub and its connection at the footing, the meter-main's fault-current rating against the utility's letter, the isolated neutral bar in every downstream panel, and the labels and directory on the interconnect wall. Inspection timing, 48 hours to inspect after a written request and 20 days for the permit holder to correct a defect, is stated with its entries in the smart-home chapter.
 
-The electrode inspection has no second chance. Once the footing is poured the bar cannot be seen, so the inspector's approval, the photographs and the continuity reading together are the electrode's record for as long as the house stands. The as-built record documents the reserved solar, battery, generator and charger provisions, so that later work connects to a known conduit instead of a guessed one.
+Once the footing is poured the bar cannot be seen, so the inspector's approval, the photographs and the continuity reading together are the electrode's record for as long as the house stands. As-built records document the reserved solar, battery, generator and charger provisions, so that later work connects to a known conduit instead of a guessed one.
 
 **Code**
 

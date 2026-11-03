@@ -140,3 +140,12 @@ Filed 2026-10-27 by the chapter 25 writer. Format: chapter and location, what is
 - **2026-10-29. Chapter 29, Build Sequence and Site Coordination (R6 carryover text), section 29.13 Simple ("An honest schedule also prices the interim-housing and loan-interest months correctly").** The carrying cost per day, with interim housing and loan interest as its two largest lines, is now the finance chapter's worksheet (33.7); 29.13 can name it by topic. Evidence: the 29.13 text.
 - **2026-10-29. Chapter 3, Land, Site, and Feasibility, section 3.19 Professional ("Rates sit 1 to 3 percentage points above conventional mortgages").** The finance answer file (item 7) gives 1.0 to 2.0 points from the same class of land-loan guides. Not an error in the land chapter, which is the book's value; recorded so the closeout knows the two answer files differ.
 - **2026-10-29. research/answers/ch34_resilience.md item 80 and research/answers/ch31-33_inspection-testing-finance.md item 22.** Both rest the "reinforced concrete 20 to 40 percent lower, unreinforced masonry 50 to 200 percent higher" earthquake-premium claim on earthquakeradar.io, a blog with no named underwriter; the Resilience writer should treat it as the finance chapter does, named as a blog with the Oregon rating left to a quote.
+
+
+## 2026-11-03, from the chapter 18 reviewer (worklogs/review-ch18.md), answer-file errors
+
+- **research/answers/ch18_water-independence.md.** ASTM D1253 is the standard test method for residual chlorine in water, not filterable solids.
+- **research/answers/ch18_water-independence.md.** The biosand filter figures disagree with each other ("2 to 7 log" against "97.9 to 99.8 percent"); one of the two misstates the source.
+- **research/answers/ch18_water-independence.md.** Melbourne is not a dry-summer climate like western Oregon's; the comparison behind the Imteaz 2011 use is wrong.
+- **research/answers/ch18_water-independence.md.** Oregon lies outside NOAA Atlas 14's coverage (reviewer's confidence: medium); rainfall-intensity values attributed to Atlas 14 for Oregon need another source.
+- **research/answers/ch18_water-independence.md.** The ACI 350 0.0024 reinforcement-ratio figure traces to an Eng-Tips forum thread, not to the standard.

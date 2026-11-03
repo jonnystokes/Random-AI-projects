@@ -1,26 +1,27 @@
 # Chapter 6: Structural System and Concrete Design
 
-A licensed engineer designs this structural shell, because the concrete floors and roof the thousand-year shell needs have no prescriptive path in Oregon's residential code. On most western Oregon sites the code's own tables stop at one story of reinforced block under a wood roof, and they send every above-grade concrete wall to the engineering standards. The shell is cast concrete, reinforced concrete block and steel, designed with margin above the code's life-safety minimum and detailed so that the laps, cover, grout and anchorage the calculations assume are the ones the inspector finds. The soil chapter supplies the bearing values the design starts from. Costs are 2026 figures unless a different year is given.
+A licensed engineer designs this structural shell, because the concrete floors and roof the thousand-year shell needs have no prescriptive path in Oregon's residential code. West of the Cascades the code's own tables stop at one story of reinforced block under a wood roof, and every above-grade concrete wall goes to the engineering standards. Cast concrete, reinforced concrete block and steel make up the shell. It is designed past the code's life-safety minimum, and detailed so that the laps, cover, grout and anchorage the calculations assume are the ones the inspector finds. Bearing values come from the soil chapter. Costs are 2026 figures unless a different year is given.
 
-> **Jon's note.** [JON: drafted from the record, confirm or rewrite] I chose the engineered path because the shell I want has concrete floors and a concrete roof, and the code's free tables give me concrete walls with wood above them. The engineer's fee buys the whole shell instead of the walls alone. I want margin above the code's life-safety line wherever the evidence supports it, because the code's goal is that people get out, and mine is that the house is repairable and lived in afterward. Nothing in the load path is wood. Where the code lets a manufacturer's stamp carry a truss or a floor joist, that is the fallback, not the plan. [JON: do you want solid grouting and full-height bars priced with the base wall, or only the code-minimum wall?] [JON: is a safe room in the plan, and which room?]
+> **Jon's note.** [JON: drafted from the record, confirm or rewrite] I chose the engineered path because the shell I want has concrete floors and a concrete roof. Its free tables give me concrete walls with wood above them. That fee buys the whole shell instead of the walls alone. I want margin above the life-safety line wherever the evidence supports it. Life safety means people get out, and I want the house repairable and lived in afterward. Nothing in the load path is wood. Where the code lets a manufacturer's stamp carry a truss or a floor joist, that is the fallback, not the plan. [JON: price solid grouting and full-height bars with the base wall, or only the code-minimum wall?] [JON: is a safe room in the plan, and which room?]
 
 ## 6.1 What the structure has to do
 
 **Simple**
 
-Every load on your house needs an unbroken path to the ground. The roof's weight, snow, furniture and people push down. Wind and earthquakes push sideways, and the soil pushes against any wall below grade. Wind also pulls up on the roof. Each push has its own path. Roof weight goes into the walls, the walls carry it to the footings, and the footings spread it into the soil. Sideways force goes from each floor into the walls that brace it, then down. A wall that stops short of the floor above, or a floor cut by a large opening, breaks a path. In this house every path is concrete and reinforced block from the roof to the soil.
+Every load on your house needs an unbroken path to the ground. Roof weight, snow, furniture and people push down. Wind and earthquakes push sideways, and the soil pushes against any wall below grade. Wind also pulls up on the roof. Each push has its own path. Roof weight goes into the walls, the walls carry it to the footings, and the footings spread it into the soil. Sideways force goes from each floor into the walls that brace it, then down. Where a wall stops short of the floor above, or a large opening cuts a floor, a path breaks. In this house every path is concrete and reinforced block from the roof to the soil.
 
 **Applied**
 
-1. Before the structural design is finalized, mark every bearing wall on the plans, with the roof and floor weight each one receives.
+1. Mark every bearing wall on the plans, with the roof and floor weight it receives.
 2. Mark each floor support with its span and end conditions.
 3. Mark each roof support with its eave and ridge geometry.
 4. Mark the stair openings and every other hole in a floor.
 5. Mark the large window and door openings, where the wall's continuity is interrupted.
 6. Mark the wall lines that resist wind and earthquake, in both directions.
 7. Mark where each wall line's load enters the soil.
-8. Mark the utility routes through or around the structure, so no later penetration cuts a load path.
-9. Trace each load from where it is applied to the foundation, and treat any path the drawings do not show as a design gap.
+8. Mark the utility routes through or around the structure.
+9. Trace each load from where it lands to the foundation.
+10. Treat any path the drawings do not show as a design gap.
 
 **Professional**
 
@@ -36,9 +37,9 @@ Seven loads enter the structural calculation, and each has a source the drawings
 | Soil and water pressure | The geotechnical report's lateral earth pressures and design groundwater level |
 | Construction loads | The contractor's sequence: stacked pallets of block, grout pumps, a crane for planks, and formwork pressure |
 
-Bearing walls stack floor over floor in one plane, and the wall lines run from foundation to roof without offsets. Each floor diaphragm ties into the walls through chord and collector steel, and a bond beam runs at every floor and at the roof. Openings stay within the limits the path decision sets, and every footing is sized from the site's own soil values. A building that follows those rules can be traced in section: roof to wall, floor to wall, wall to foundation, foundation to soil, and lateral force to diaphragm, diaphragm to shear wall, shear wall to foundation. Thicker walls or slabs outside a defined load path add dead load, which raises the seismic demand, and add no capacity.
+Bearing walls stack floor over floor in one plane, and the wall lines run from foundation to roof without offsets. Each floor diaphragm ties into the walls through chord and collector steel, and a bond beam runs at every floor and at the roof. Openings stay within the limits the path decision sets, and every footing is sized from the site's own soil values. Such a building can be traced in section. Roof load passes to wall, floor to wall, wall to foundation and foundation to soil. Lateral force passes to the diaphragm, from diaphragm to shear wall and from shear wall to foundation. Thicker walls or slabs outside a defined load path add dead load, which raises the seismic demand, and add no capacity.
 
-Recesses, projections and offset volumes do not trade away a prescriptive path on a western Oregon site, because the seismic category has already removed it. Inside the engineered path each offset still costs analysis and detailing. An irregular building under the residential code's conditions and under ASCE 7 cannot use the simplest equivalent-lateral-force procedure, and each offset adds reinforcement, torsional demand and connection detailing. No percentage limit on articulation exists. The conditions are the seven named in the residential code, applied by the engineer to the actual floor plan, and they are listed with the path decision.
+Recesses, projections and offset volumes do not trade away a prescriptive path on a western Oregon site, because the seismic category has already removed it. Inside the engineered path each offset still costs analysis and detailing. Under the residential code's irregularity conditions and under ASCE 7, an irregular building cannot use the simplest equivalent-lateral-force procedure, and each offset adds reinforcement, torsional demand and connection detailing. No percentage limit on articulation exists. Seven named conditions in the residential code define irregularity, and the engineer applies them to the actual floor plan.
 
 **Code**
 
@@ -52,21 +53,23 @@ Floor live loads are fixed minimums.
 
 **Simple**
 
-Three numbers tied to the parcel's location decide how much of this design is engineered: its earthquake category, its wind speed and its snow load. Oregon's residential code puts the Willamette Valley, the I-5 corridor and the coast in its highest earthquake categories for houses. Most of eastern Oregon sits one step lower. Nine coastal and Coast Range counties carry a higher design wind speed than the rest of the state. Snow depends on elevation more than on region, and the state's snow map has changed from a fifty-year-storm basis to one that targets an even risk of failure. Until a parcel is chosen, the design assumes the higher earthquake categories, because that is where most buildable western Oregon land sits.
+Three numbers tied to the parcel's location decide how much of this design is engineered: its earthquake category, its wind speed and its snow load. Oregon's residential code puts the Willamette Valley, the I-5 corridor and the coast in its highest earthquake categories for houses. Most of eastern Oregon sits one step lower. Nine coastal and Coast Range counties carry a higher design wind speed than the rest of the state. Snow depends on elevation more than on region. Until a parcel is chosen, the design assumes the higher earthquake categories, because that is where most buildable western Oregon land sits.
 
 **Applied**
 
-1. Look up the parcel's seismic design category, wind speed and ground snow load on the Building Codes Division's Design Criteria Hub, and keep the report.
-2. Where the parcel sits near a boundary on the code's category map, run the ATC Hazards by Location tool at the coordinates.
-3. Set the tool to ASCE 7-16, Risk Category II and Site Class D, and read the short-period design acceleration.
-4. Record the category that acceleration falls in, from the code's table.
-5. Check the code's special-wind-region figure, and use the county's special-wind-region speed where the parcel falls inside one.
-6. Read the ground snow load at the parcel's elevation, and add the code's elevation adjustment where the parcel sits above the modeled elevation.
-7. Record on the cover sheet which snow basis the engineer designs to, the 2022 structural code's map or the 2025 code's ASCE 7-22 data.
+1. Look up the parcel's category, wind speed and snow load on the Design Criteria Hub.
+2. Keep the hub's report in the binder.
+3. Near a category boundary on the code's map, run the ATC Hazards by Location tool.
+4. Set it to ASCE 7-16, Risk Category II and Site Class D.
+5. Read the short-period design acceleration, and record the category it falls in.
+6. Check the special-wind-region figure, and use the county's special-wind-region speed inside one.
+7. Read the ground snow load at the parcel's elevation.
+8. Add the code's elevation adjustment where the parcel sits above the modeled elevation.
+9. Record on the cover sheet which snow basis the design uses.
 
 **Professional**
 
-The planning matrix below is read from the code's category map and the county table, and the lookup at the parcel's coordinates replaces it once a parcel exists.
+Oregon's category map and county table give the planning matrix below, and the lookup at the parcel's coordinates replaces it once a parcel exists.
 
 | Region | Likely category | What the prescriptive tables still allow there |
 |---|---|---|
@@ -77,11 +80,15 @@ The planning matrix below is read from the code's category map and the county ta
 | The coast and parts of Lane, Douglas and Coos counties | D2 | The same, with stack bond, parapets and veneer ties under tighter rules |
 | Special wind regions: nine coastal and Coast Range counties, and the Columbia Gorge | Varies | The prescriptive wind tables still cover the mapped speeds, and the engineered path takes a site-specific wind study |
 
-The map and the lookup tools agree because they draw on the same mapped ground motion, so a disagreement between them means the parcel sits on a category boundary. A Category E site is designed under the structural specialty code unless the calculation reclassifies it to D2. The county table prints two wind speeds. Every county has a basic design wind speed, and Benton, Clatsop, Coos, Curry, Douglas, Lane, Lincoln, Tillamook and Yamhill counties carry a second, higher speed for the parts of each that fall inside the mapped special wind region. The Columbia River counties print the same speed in both columns. On the engineered path, ASCE 7's special-wind-region provision at section 26.5.1 treats the mapped contour as a starting value and asks for a site-specific wind study by a qualified engineer.
+Map and lookup tools agree because they draw on the same mapped ground motion, so a disagreement between them means the parcel sits on a category boundary. In Category E the design moves to the structural specialty code unless the calculation reclassifies the site to D2.
 
-Oregon's prescriptive snow design rests on the Structural Engineers Association of Oregon's electronic snow map, the source the residential code names, with an elevation correction where the site stands above the map's modeled elevation. The 2025 structural specialty code dropped that map for ASCE 7-22's national ground-snow geodatabase, read through the ASCE Hazard Tool or the Design Criteria Hub. The new values are strength-level, risk-targeted loads that cannot be compared line by line with the old map. The Building Codes Division's bulletin on the change puts the national average rise near 12 percent, with some Oregon regions higher, and it makes the thermal factor depend on the roof's insulation, so a well-insulated roof holds more snow in the calculation. The same edition removed Oregon's historic minimum roof snow load for sloped roofs.
+Two wind speeds appear in the county table. Every county has a basic design wind speed, and nine coastal and Coast Range counties carry a second, higher speed for the parts of each inside the mapped special wind region (Code below). In the Columbia River counties the two columns print the same speed. On the engineered path, ASCE 7 section 26.5.1 treats the mapped contour inside a special wind region as a starting value and requires a site-specific wind study by a qualified engineer.
 
-Statewide Alternate Method 26-01 lets a design under the 2023 residential code keep referencing the 2022 structural code through March 31, 2027, and the Oregon code and compliance map chapter records the choice of edition as the engineer's. The drawings state the edition and the snow basis they use. A ground snow load from one edition is never combined with the load factors of the other, because the 2022 values are allowable-stress loads and the 2025 values are strength-level loads.
+Oregon's prescriptive snow design rests on the Structural Engineers Association of Oregon's electronic snow map, the source the residential code names. An elevation correction applies where the site stands above the map's modeled elevation. In 2025 the structural specialty code dropped that map for ASCE 7-22's national ground-snow geodatabase, read through the ASCE Hazard Tool or the Design Criteria Hub. Those values are strength-level, risk-targeted loads that cannot be compared line by line with the old map.
+
+Per the Building Codes Division's bulletin on the change, the national average rise is near 12 percent, with some Oregon regions higher. Under ASCE 7-22 the thermal factor depends on the roof's insulation, so a well-insulated roof holds more snow in the calculation. Oregon's historic minimum roof snow load for sloped roofs went with the old map.
+
+Statewide Alternate Method 26-01 lets a design under the 2023 residential code keep referencing the 2022 structural code through March 31, 2027. Which edition the design references is the engineer's call, recorded in the Oregon code and compliance map chapter, and the drawings state the edition and the snow basis. Ground snow from one edition is never combined with the load factors of the other. The 2022 values are allowable-stress loads and the 2025 values strength-level loads.
 
 **Code**
 
@@ -115,16 +122,19 @@ Ground snow over 70 psf takes the structure out of the prescriptive chapters.
 
 **Simple**
 
-You can have this house designed two ways. An engineer designs exactly the house you want, concrete floors and roof included, for $4,000 to $10,000. Or you follow the code's pre-approved tables for free. On a western Oregon site they allow one story of reinforced block, nine feet between supports, under a wood roof and over wood floors. Every element the tables do not cover goes to the engineer anyway, and on this site that is the concrete floors, the concrete roof and every wall under them. This house takes the engineered way, because the thousand-year shell needs the concrete floors and roof.
+You can have this house designed two ways. For $4,000 to $10,000 an engineer designs exactly the house you want, concrete floors and roof included. Or you follow the code's pre-approved tables for free. On a western Oregon site they allow one story of reinforced block, nine feet between supports, under a wood roof and over wood floors. Every element the tables do not cover goes to the engineer anyway. Here that means the concrete floors, the concrete roof and every wall under them. This house takes the engineered way, because the thousand-year shell needs the concrete floors and roof.
 
 **Applied**
 
 1. Choose the path before the floor plan is fixed.
-2. Take the engineered path for concrete floors and a concrete roof, and the prescriptive path only for a one-story block house under a wood roof.
-3. On the engineered path, retain a licensed Oregon structural engineer, and order the geotechnical report before the structural design starts.
-4. Give the engineer the parcel's design-criteria report, the footprint and the list of elements in the table below.
-5. Have the engineer mark each element's path on the drawings, prescriptive, engineered or alternative method, and hold that assignment through construction.
-6. Submit the stamped drawings, the calculations and the special-inspection program with the permit application.
+2. Take the engineered path wherever a floor or the roof is concrete.
+3. Take the prescriptive path only for one story of block under a wood roof.
+4. Retain a licensed Oregon structural engineer.
+5. Order the geotechnical report before the structural design starts.
+6. Give the engineer the design-criteria report, the footprint and the element list below.
+7. Have the engineer mark each element's path on the drawings.
+8. Hold that assignment through construction.
+9. Submit the stamped drawings, the calculations and the special-inspection program with the permit application.
 
 **Professional**
 
@@ -134,7 +144,7 @@ You can have this house designed two ways. An engineer designs exactly the house
 | Engineered | A licensed engineer designs and stamps the structural drawings under R301.1.3 | Most Oregon sites west of the Cascades, any nonstandard element, long spans, concrete floors and roofs | Nowhere, because it is the universal fallback |
 | Alternative method | The building official approves a method that meets the code's intent by another route | Tested assemblies, FRP reinforcement, owner-made block, each subject to approval | Where the official does not accept the showing |
 
-The engineer signs the structural drawings (plans, sections, details and schedules), the calculations behind them, and the special-inspection program the engineered design invokes. The geotechnical engineer signs the soil report the foundation design rests on. By occupancy the house stays under the residential code throughout. Engineering the walls does not move the permit, the inspections or the certificate of occupancy to the structural specialty code. Only the design method becomes nonprescriptive, and under R301.1.3 and R301.2.2.5 it references the same standards the structural code uses: PCA 100 or ACI 318 for above-grade concrete walls, with R608 open only to a detached dwelling in Category C.
+Three documents carry the engineer's stamp: the structural drawings (plans, sections, details and schedules), the calculations behind them, and the special-inspection program the engineered design invokes. A geotechnical engineer signs the soil report the foundation design rests on. By occupancy the house stays under the residential code throughout. Engineering the walls does not move the permit, the inspections or the certificate of occupancy to the structural specialty code. Only the design method becomes nonprescriptive. Under R301.1.3 and R301.2.2.5 it references the structural code's standards: PCA 100 or ACI 318 for above-grade concrete walls, and R608 only for a detached dwelling in Category C.
 
 | Element or condition | Path on a D0 to D2 site | The rule behind it |
 |---|---|---|
@@ -144,7 +154,7 @@ The engineer signs the structural drawings (plans, sections, details and schedul
 | A second story of any kind on a masonry wall | Engineered | Table R606.12.2.1 lists it as not permitted without design |
 | Elevated concrete floors and roofs | Engineered under ACI 318 | No residential prescriptive section exists |
 | Two-wythe loadbearing walls | Engineered | R606.13 gives bonding rules, and R606.12.3.1 still requires design in D0 to D2 |
-| Irregular buildings | Engineered for the irregular story or portion | R301.2.2.6 (Code below) |
+| Irregular buildings | Engineered for the irregular story or portion | R301.2.2.6 |
 | Ground snow over 70 psf | Engineered | R301.2.3 |
 | Retaining walls over the code's height and load triggers | Engineered | R404.4 |
 | Footings on fill, on soil the official judges under the clay value, or at bearing above the presumptive table | Engineered, or a soils investigation | R401.2 and Table R401.4.1, footnote b |
@@ -154,11 +164,11 @@ The engineer signs the structural drawings (plans, sections, details and schedul
 | Steel beams under concrete floors | Engineered, or manufacturer-stamped where the jurisdiction accepts it | Local practice |
 | A mezzanine over one-third of the room below | Counted as a story | R325.3 |
 
-Four things need no engineer. R608 concrete walls at a Category C site inside R608.2's limits, one story of masonry with the code's minimum reinforcement and no more than 9 feet between lateral supports, footings on the presumptive bearing values, and manufacturer-engineered trusses and I-joists, whose stamp is the engineering. Concrete floors or a concrete roof on any of them remove the exemption, because the prescriptive masonry and concrete sections assume light-frame floors and roofs above.
+Four elements need no engineer on any site. R608 concrete walls qualify at a Category C site inside R608.2's limits. One story of masonry qualifies with the code's minimum reinforcement and no more than 9 feet between lateral supports. Footings qualify on the presumptive bearing values. Manufacturer-engineered trusses and I-joists qualify because their stamp is the engineering. Concrete floors or a concrete roof on any of them remove the exemption, because the prescriptive masonry and concrete sections assume light-frame floors and roofs above.
 
-Massing choices are priced inside the engineered path, not as the loss of a free path. The seismic category has already removed the free path on a western Oregon site, so a recess or an offset volume costs analysis and detailing rather than a change of path. GFRP bar is a different case. Seismic category excludes it from the shell outright, because the bar is linearly elastic to failure and supplies none of the post-yield redistribution the higher categories assume (Code below). At a Category C site the structural walls, which are the seismic force-resisting system, would still exclude it.
+Massing choices are priced inside the engineered path, not as the loss of a free path. On a western Oregon site the seismic category has already removed the free path, so a recess or an offset volume costs analysis and detailing rather than a change of path. GFRP bar is a different case. Seismic category excludes it from the shell outright, because the bar is linearly elastic to failure and supplies none of the post-yield redistribution the higher categories assume (Code below). Even at a Category C site the structural walls, as the seismic force-resisting system, would exclude it.
 
-Weighting durability as heavily as the load path does not change the path. The strongest durability options either need an engineer regardless (targeted stainless bar, a water-retaining structure designed to ACI 350) or are unavailable in the likely categories (GFRP), and they refine the material specification inside whichever path is chosen. One exception is narrow. An element that qualifies for the prescriptive path on load grounds alone, but carries a severe exposure class, can tip toward engineered treatment, because the prescriptive cover and mix assumptions were not written for severe exposure.
+Weighting durability as heavily as the load path does not change the path. Targeted stainless bar and a water-retaining structure designed to ACI 350 need an engineer regardless, and GFRP is unavailable in the likely categories. All three refine the material specification inside whichever path is chosen. One exception is narrow. Where an element qualifies for the prescriptive path on load grounds alone but carries a severe exposure class, it can tip toward engineered treatment. Prescriptive cover and mix assumptions were not written for severe exposure.
 
 | Element | Engineered path | Prescriptive path on a D0 to D2 site |
 |---|---|---|
@@ -180,8 +190,8 @@ Irregular buildings leave the prescriptive seismic provisions for the irregular 
   Shear-wall offsets out of plane or in plane, floor or roof edges without lateral support, offset floor levels, and shear walls or braced lines not in two perpendicular directions.
   Source: ORSC R301.2.2.6 (2023 edition).
 
-A large floor opening, or wood bracing in a masonry story, is also an irregularity.
-  An opening exceeding the lesser of 12 feet or half the least floor or roof dimension between braced wall lines, and any story braced partly by wood or steel framing and partly by masonry or concrete walls.
+A large floor or roof opening between braced wall lines, or wood bracing in a masonry story, is also an irregularity.
+  An opening over the lesser of 12 feet or half the least floor or roof dimension, or a story braced partly by wood or steel framing and partly by masonry or concrete walls.
   Source: ORSC R301.2.2.6 (2023 edition).
 
 Prescriptive concrete walls under R608 are limited to low seismic categories, two stories and light-frame floors and roofs.
@@ -193,7 +203,7 @@ A masonry wall under a second story is not a prescriptive element in Seismic Des
   Source: ORSC Table R606.12.2.1 (2023 edition).
 
 Prescriptive story height is capped by wall material.
-  13 feet 7 inches of story height and 12 feet of bearing-wall clear height for masonry, 8 feet more at a gable end, and 11 feet 7 inches of story with 10 feet unsupported for ICF walls.
+  Masonry 13 feet 7 inches of story and 12 feet of bearing-wall clear height, 8 feet more at a gable end, and ICF walls 11 feet 7 inches of story with 10 feet unsupported.
   Source: ORSC R301.3 (2023 edition).
 
 GFRP reinforcing bar is excluded from the high seismic design categories.
@@ -205,19 +215,20 @@ GFRP reinforcing bar is excluded from the high seismic design categories.
 
 **Simple**
 
-A poured concrete wall is steel bars inside a solid slab of concrete stood on edge. The bars take the pulling forces concrete cannot, and the concrete protects the bars and carries the pushing forces. Three things decide how long it lasts: the concrete over the steel, the density of the mix, and where the shrinkage cracks open. Concrete shrinks as it dries, so a long wall cracks somewhere. A control joint is a straight groove cast into both faces that tells the crack where to be. Below ground, each joint gets a rubber or plastic strip cast across it, so water cannot follow the crack through the wall.
+Poured concrete walls are steel bars inside a solid slab of concrete stood on edge. Bars take the pulling forces concrete cannot, and concrete protects the bars and carries the pushing forces. Three things decide how long it lasts: the concrete over the steel, the density of the mix, and where the shrinkage cracks open. Concrete shrinks as it dries, so a long wall cracks somewhere. Control joints are straight grooves cast into both faces that tell the crack where to be. Below ground, each joint gets a rubber or plastic strip cast across it, so water cannot follow the crack through the wall.
 
 **Applied**
 
-1. Have the engineer set the control-joint spacing from wall height, reinforcement and restraint before the forms are built.
-2. Place a joint at every change in wall height or thickness, at offsets and intersections, and beside openings, never through them.
-3. In any wall that holds back water, cast a PVC, rubber or bentonite waterstop across each joint.
-4. Seal the exposed groove of every joint with backer rod and sealant.
-5. Cross-check each wall's bar spacing and joint spacing against that wall's exposure class before the drawings go to permit.
+1. Have the engineer set control-joint spacing from wall height, reinforcement and restraint before forming.
+2. Place a joint at every change in wall height or thickness, and at offsets and intersections.
+3. Place joints beside openings, never through them.
+4. In any wall that holds back water, cast a waterstop across each joint.
+5. Seal the exposed groove of every joint with backer rod and sealant.
+6. Check each wall's bar and joint spacing against its exposure class before the permit set.
 
 **Professional**
 
-ACI 318-19 is the general structural concrete code and the edition the 2023 residential code references, with ACI 318-25 now in circulation. ACI 332-20 is the residential concrete code, with prescriptive tables for footings, foundation walls, slabs on ground and above-grade walls within its scope, and a chapter on design for expansive soils. PCA 100-17 is the prescriptive manual the residential code names for above-grade concrete walls outside Category C, and it requires an explicit showing of compliance with its own tables. R608, the code's prescriptive section for above-grade concrete walls, assumes light-frame interior walls, floors and roofs. The table below gives the planning values an engineered exterior wall on this house starts from.
+ACI 318-19 is the general structural concrete code and the edition the 2023 residential code references, with ACI 318-25 now in circulation. ACI 332-20 is the residential concrete code. It holds prescriptive tables for footings, foundation walls, slabs on ground and above-grade walls within its scope, and a chapter on design for expansive soils. PCA 100-17 is the prescriptive manual the residential code names for above-grade concrete walls outside Category C, and it requires an explicit showing of compliance with its own tables. R608, the code's prescriptive section for above-grade concrete walls, assumes light-frame interior walls, floors and roofs. Planning values for an engineered exterior wall on this house are in the table below.
 
 | Parameter | Planning value |
 |---|---|
@@ -229,13 +240,13 @@ ACI 318-19 is the general structural concrete code and the edition the 2023 resi
 
 ### Control joints and crack control in long walls
 
-Concrete shrinks as it dries, and a long wall with no joints cracks at random. A control joint is a plane deliberately weakened by a groove tooled or formed into both faces, and the shrinkage crack forms there instead. The Bureau of Reclamation's 2016 joint-spacing reference and the trade practice built on ACI 224R space vertical joints at 2 to 3 times the wall height, with an outer bound near 10 to 12 feet for residential wall heights. The engineer sets the actual spacing from wall height, reinforcement ratio, restraint and expected shrinkage strain. Joints also go where stress concentrates regardless of spacing: changes in wall height or thickness, offsets and intersections, beside window and door openings, and re-entrant corners.
+Concrete shrinks as it dries, and a long wall with no joints cracks at random. Tooled or formed into both faces, the groove of a control joint weakens the plane so the shrinkage crack forms there instead. Vertical joints go at 2 to 3 times the wall height, with an outer bound near 10 to 12 feet for residential wall heights. That spacing comes from the Bureau of Reclamation's 2016 joint-spacing reference and the trade practice built on ACI 224R. Wall height, reinforcement ratio, restraint and expected shrinkage strain set the actual spacing, which the engineer fixes. Joints also go where stress concentrates regardless of spacing: changes in wall height or thickness, offsets and intersections, beside window and door openings, and re-entrant corners.
 
-Joints and shrinkage steel do two different jobs and are set together. The distributed horizontal bars do not prevent shrinkage cracking. They limit the width of the cracks that form between joints by spreading the strain across many fine cracks. Joint layout sets where the wall relieves its stress, and bar spacing sets how wide each crack opens, so closer bars and closer joints trade against each other in one calculation. ACI 318-19 controls flexural crack width through the bar-spacing limit of section 24.3 rather than a calculated width. ACI 224R-01 lists guide crack widths by exposure, from dry air to water-retaining service, and is the durability reference behind those spacing limits.
+Joints and shrinkage steel do two different jobs and are set together. Distributed horizontal bars do not prevent shrinkage cracking. They limit the width of the cracks that form between joints by spreading the strain across many fine cracks. Joint layout sets where the wall relieves its stress, and bar spacing sets how wide each crack opens. Closer bars and closer joints trade against each other in one calculation. ACI 318-19 controls flexural crack width through the bar-spacing limit of section 24.3 rather than a calculated width. ACI 224R-01 lists guide crack widths by exposure, from dry air to water-retaining service, and is the durability reference behind those spacing limits.
 
-A control joint is a deliberate discontinuity and a potential leak path. In a wall that resists water, a below-grade foundation wall, a retaining wall or a cistern wall, each joint takes a PVC, rubber or bentonite waterstop cast into it, and the exposed groove is sealed with backer rod and sealant so surface water cannot track to the bar. Above grade on a dry wall, a tooled or formed joint without a waterstop is the standard detail.
+Every control joint is a deliberate discontinuity and a potential leak path. In a wall that resists water, which means a below-grade foundation wall, a retaining wall or a cistern wall, each joint takes a PVC, rubber or bentonite waterstop cast into it. Backer rod and sealant close the exposed groove so surface water cannot track to the bar. Above grade on a dry wall, a tooled or formed joint without a waterstop is the standard detail.
 
-The exposure class is assigned wall by wall. A wall in sustained ground contact, or one facing wind-driven rain, can carry a more severe class than the rest of the house, and its bar spacing and joint layout are checked against that class rather than against the house-wide table. At any wall classed severe, the shrinkage-and-temperature steel is checked against the minimum ratios in ACI 318-19 Table 11.6.1 at that wall (Code below).
+Exposure class is assigned wall by wall. Sustained ground contact or wind-driven rain can give one wall a more severe class than the rest of the house. Its bar spacing and joint layout are then checked against that class rather than against the house-wide table. At any wall classed severe, the shrinkage-and-temperature steel is checked against the concrete code's minimum distributed-steel ratios (Code below).
 
 **Code**
 
@@ -245,7 +256,7 @@ Cast-in-place walls carry minimum distributed reinforcement in both directions.
   Source: ACI 318-19 Table 11.6.1.
 
 Concrete foundation walls under above-grade concrete walls are engineered in the high seismic categories.
-  In Seismic Design Category D0, D1 or D2 such walls comply with ACI 318, ACI 332 or PCA 100, while plain walls under light framing stay within 8 feet of height and 4 feet of unbalanced backfill.
+  In Category D0, D1 or D2 such walls follow ACI 318, ACI 332 or PCA 100, and plain walls under light framing stay within 8 feet of height and 4 feet of unbalanced backfill.
   Source: ORSC R404.1.4.2 (2023 edition).
 ```
 
@@ -253,7 +264,7 @@ Concrete foundation walls under above-grade concrete walls are engineered in the
 
 **Simple**
 
-There is more than one way to form and mix a concrete wall. The default here is rented or job-built forms that come off after the concrete cures. Stripped forms can be reused, and the bare face can be inspected before anything covers it. Each alternative changes one variable. Foam forms stay in the wall and double as insulation. A flowable mix fills the forms without vibration. Tensioned cables replace some ordinary bar in a long floor span. Fibers in the mix control the fine early cracks. A mix with fly ash or slag in place of some of the cement is denser and slower to harden, and it is the mix this house uses.
+There is more than one way to form and mix a concrete wall. Here the default is rented or job-built forms that come off after the concrete cures. Stripped forms can be reused, and the bare face can be inspected before anything covers it. Each alternative changes one variable. Foam forms stay in the wall and double as insulation. Flowable mixes fill the forms without vibration. Tensioned cables replace some ordinary bar in a long floor span. Fibers in the mix control the fine early cracks. Fly ash or slag in place of some of the cement makes a denser mix that hardens more slowly. It is the mix this house uses.
 
 **Professional**
 
@@ -265,28 +276,31 @@ There is more than one way to form and mix a concrete wall. The default here is 
 | Fiber-reinforced concrete | Fibers in the mix control plastic-shrinkage cracking and improve impact and abrasion resistance | Supplementary only, because fibers do not replace primary reinforcement |
 | SCM-rich low-carbon mix | 20 to 50 percent cement replacement with fly ash or slag densifies the pore structure and reduces embodied carbon | Slower strength gain, with 7 to 14 days of curing before stripping or loading against 3 days for a standard mix |
 
-Self-consolidating concrete removes the vibration-skill dependency behind honeycombing in congested cages, and Denver Concrete Vibrator's technical summary records it consolidating in ICF and other congested-reinforcement walls where stiffer mixes left voids. It does not reduce form pressure. It stiffens slowly during placement, so the form design assumes the full-hydrostatic case. Post-tensioning is not among the floor options this house ranks, because hollow-core precast and cast-in-place slab cover its span range without stressing crews, and a stressed tendon constrains every future penetration through the slab.
+Self-consolidating concrete removes the vibration-skill dependency behind honeycombing in congested cages. Denver Concrete Vibrator's technical summary records it consolidating in ICF and other congested-reinforcement walls where stiffer mixes left voids. It does not reduce form pressure. It stiffens slowly during placement, so the form design assumes the full-hydrostatic case. Post-tensioning is not among the floor options this house ranks. Hollow-core precast and cast-in-place slab cover its span range without stressing crews, and a stressed tendon constrains every future penetration through the slab.
 
-ICF is established in low-rise residential and disaster-resistant construction, as PNNL's Building America Solution Center guide records. For this house it trades the default's direct surface inspection and reusable forms for a single combined forming-and-insulation step. The SCM-rich mix is this house's specified durability mix. The same replacement rate that densifies the pore structure gives the largest cut in the mix's embodied carbon, because portland cement production is the dominant carbon dioxide source in concrete.
+ICF is established in low-rise residential and disaster-resistant construction, as PNNL's Building America Solution Center guide records. For this house it trades the default's direct surface inspection and reusable forms for a single combined forming-and-insulation step. This house's specified durability mix is the SCM-rich one. Its replacement rate densifies the pore structure and gives the largest cut in the mix's embodied carbon, because portland cement production is the dominant carbon dioxide source in concrete.
 
 ## 6.6 Reinforced masonry walls
 
 **Simple**
 
-A reinforced block wall is concrete block stacked in mortar with steel inside it. Vertical bars run up through the hollow cores, and horizontal bars run along channel-shaped courses called bond beams. Every core that holds a bar is then filled solid with grout, a soupy concrete that locks the bar to the block. The finished wall is a grid of steel and concrete that does not burn, rot or feed insects. In an earthquake the steel holds the blocks together, and the bond beams hold the walls to the floors and roof. On most western Oregon sites the engineer designs this wall, because the code's own tables stop at one story.
+Reinforced block walls are concrete block stacked in mortar with steel inside. Vertical bars run up through the hollow cores, and horizontal bars run along channel-shaped courses called bond beams. Every core that holds a bar is then filled solid with grout, a soupy concrete that locks the bar to the block. Together they make a grid of steel and concrete that does not burn, rot or feed insects. In an earthquake the steel holds the blocks together, and the bond beams hold each wall to its floors and roof. On most western Oregon sites the engineer designs this wall, because the code's tables end at one story.
 
 **Applied**
 
-1. Lay the block in running bond, each unit overlapping the one below by half, unless the engineer designs a stack-bond wall.
-2. Grout solid every cell that holds a bar, and the whole stem wall where the drawings call for it.
-3. Run a bond beam at the top of the foundation wall, at every floor level and at the roof.
-4. Add a mid-height bond beam in any wall taller than 12 feet.
-5. Use open-end or cut-web units at every bond-beam course, so the horizontal bars run continuous.
-6. Leave no cell open for a niche unless the engineer marks it on the wall schedule, and never through a bond-beam or joint-reinforcement course.
+1. Lay the block in running bond, each unit overlapping the one below by half.
+2. Use stack bond only where the engineer designs it.
+3. Grout solid every cell that holds a bar.
+4. Grout the whole stem wall solid where the drawings call for it.
+5. Run bond beams at the foundation top, at every floor and at the roof.
+6. Add a mid-height bond beam in any wall taller than 12 feet.
+7. Use open-end or cut-web units at every bond-beam course, so the horizontal bars run continuous.
+8. Leave a cell open for a niche only where the engineer marks it on the wall schedule.
+9. Never run a niche through a bond-beam or joint-reinforcement course.
 
 **Professional**
 
-On an engineered wall TMS 402 governs the design and TMS 602 the construction. The 2023 residential code references the 2016 editions of both, and the 2022 editions are current, so the drawings name the edition the engineer designed to. The table gives the planning values an engineered wall on this house starts from.
+On an engineered wall TMS 402 governs the design and TMS 602 the construction. Oregon's 2023 residential code references the 2016 editions of both, and the 2022 editions are current, so the drawings name the edition the engineer designed to. Planning values for an engineered wall on this house are in the table.
 
 | Parameter | Planning value |
 |---|---|
@@ -299,7 +313,7 @@ On an engineered wall TMS 402 governs the design and TMS 602 the construction. T
 | Lap length, planning | 48 bar diameters, 30 inches for a No. 5 bar, with the engineer's schedule governing |
 | Joint reinforcement | 9-gauge ladder type every other course, for crack control |
 
-The code's prescriptive masonry path in Seismic Design Category D0 to D2 is narrow. R606.12 applies the seismic requirements to masonry and leaves anchored veneer out of them. A wall one story tall, with the code's limit between lateral supports, can be built to the minimum reinforcement without design, on a wood or cold-formed steel diaphragm, and the wall system chapter carries that entry. Everything taller, and everything under a concrete floor or roof, is designed under TMS 402. The code's figures give the anchorage and reinforcement details by category, and the code bars Type N mortar and masonry cement from the lateral force-resisting system because both give the wall less strength and less bond than portland cement-lime or mortar cement mortar.
+In Seismic Design Category D0 to D2 the code's prescriptive masonry path is narrow. R606.12 applies the seismic requirements to masonry and leaves anchored veneer out of them. One-story walls within the code's limit between lateral supports can be built to the minimum reinforcement without design, on a wood or cold-formed steel diaphragm, and the wall system chapter states that entry. Everything taller, and everything under a concrete floor or roof, is designed under TMS 402. Figures R606.11(1) to (3) show the anchorage and reinforcement details by category. Type N mortar and masonry cement are barred from the lateral force-resisting system because both give the wall less strength and less bond than the permitted mortars (Code below).
 
 | Bond beam location | Purpose |
 |---|---|
@@ -309,9 +323,9 @@ The code's prescriptive masonry path in Seismic Design Category D0 to D2 is narr
 | Mid-height course in a wall over 12 feet tall | Crack control and stiffness |
 | Above and below large openings | Carries the forces that concentrate around the opening |
 
-Running bond is the default coursing. Stack bond, with its units aligned and its head joints continuous, has no unit overlap to interrupt a vertical crack, so the code adds horizontal steel in any wall laid with less than a quarter-unit head-joint offset, and more of it in Category D2. The joint reinforcement in the table already meets the lower of those rules without change.
+Running bond is the default coursing for this house. Stack bond aligns the units and leaves the head joints continuous, so no unit overlap interrupts a vertical crack. For that reason the code adds horizontal steel in any wall laid with less than a quarter-unit head-joint offset, and more of it in Category D2. Joint reinforcement at the spacing in the table already meets the lower of those rules without change.
 
-On the prescriptive minimum, only the cells with bars are grouted, and the cells between bars stay hollow. Those are the only candidates for deliberate use as a storage or display niche. A niche cannot interrupt a bond-beam course or a joint-reinforcement course, so the clean placement is a pocket bounded above and below by those courses and on each side by grouted, reinforced cells. The as-designed bar layout controls, because bars concentrate at openings, corners and bond-beam intersections, and the engineer confirms candidate cells from the wall schedule. Where the house adopts solid grouting of every cell, no open cell remains.
+On the prescriptive minimum, only the cells with bars are grouted, and the cells between bars stay hollow. Those are the only candidates for deliberate use as a storage or display niche. No niche may interrupt a bond-beam course or a joint-reinforcement course. Its clean placement is a pocket bounded above and below by those courses and on each side by grouted, reinforced cells. Bars concentrate at openings, corners and bond-beam intersections, so the as-designed layout controls and the engineer confirms candidate cells from the wall schedule. Where the house adopts solid grouting of every cell, no open cell remains.
 
 **Code**
 
@@ -353,11 +367,11 @@ Anchor bolts in hollow masonry sit in grouted cells.
 
 **Simple**
 
-In a cavity wall, short steel ties cross the gap and hold the brick to the block. Each tie carries a few square feet of brick against wind and shaking, and it spends its whole life in a damp cavity. Two different metals touching in wet mortar pass an electric current between them, and the more reactive one corrodes to protect the other. A zinc coating wired to bare steel is eaten away doing that, and the protection it was bought for is gone. The rule for this house is one metal per wall, bars, chairs and tie wire included, and stainless steel wherever any stainless is used.
+In a cavity wall, short steel ties cross the gap and hold the brick to the block. Each tie carries a few square feet of brick against wind and shaking, and it spends its whole life in a damp cavity. Two different metals touching in wet mortar pass an electric current between them, and the more reactive one corrodes to protect the other. Zinc coating wired to bare steel is eaten away doing that, and the protection it was bought for is gone. This house uses one metal per wall, bars, chairs and tie wire included, and stainless steel wherever any stainless is used.
 
 **Professional**
 
-The tie's job depends on the wall's classification, and the classification is written on the drawings by name. An anchored veneer carries only its own weight and passes wind and seismic load to the block through the ties. A noncomposite (cavity) wall shares the lateral load between the wythes in proportion to their stiffness, and a composite wall acts as one section through ties or headers designed for shear across the collar joint. The cavity-wall alternative on this house is read as anchored veneer unless the engineer classifies it otherwise, and the wall system chapter carries the veneer tie schedule, the corrosion-protection minimums and the code's cavity limits. For a wall the engineer classifies as noncomposite, the residential code's multiple-wythe rules at R606.13.2 give the table below.
+What a tie does depends on the wall's classification, and the classification is written on the drawings by name. Anchored veneer carries only its own weight and passes wind and seismic load to the block through the ties. Noncomposite (cavity) walls share the lateral load between the wythes in proportion to their stiffness. Composite walls act as one section through ties or headers designed for shear across the collar joint. On this house the cavity-wall alternative is read as anchored veneer unless the engineer classifies it otherwise. Its veneer tie schedule, the corrosion-protection minimums and the code's cavity limits are stated in the wall system chapter. For a wall the engineer classifies as noncomposite, the residential code's multiple-wythe rules at R606.13.2 set the values in the table below.
 
 | Tie type in a noncomposite cavity wall | Wall area per tie | Maximum spacing |
 |---|---|---|
@@ -365,37 +379,42 @@ The tie's job depends on the wall's classification, and the classification is wr
 | Adjustable ties | One per 2.67 square feet | 24 inches each way, with 1-1/4 inches of bed-joint offset at most, 1/16 inch of play, and two 3/16-inch pintle legs |
 | Joint reinforcement cross wires, No. 9 gage or heavier | One cross wire per 2.67 square feet | 16 inches vertical |
 
-TMS 402 bars drip bends in wire ties, because the bend lowers the tie's lateral capacity, so the flashing and weeps handle the water that reaches the ties. Stainless ties at the schedule's frequency form point thermal bridges amounting to 0.5 to 1 percent of the wall area, which drops a 4-inch rigid-foam cavity from R-26 to R-23 effective. Thermally broken ties (Halfen FM, Bekaert Murfor THERM, Wagner ThermaTIE) recover most of that loss where the thermal target needs it.
+TMS 402 bars drip bends in wire ties, because the bend lowers the tie's lateral capacity, so the flashing and weeps handle the water that reaches the ties. Stainless ties at the schedule's frequency form point thermal bridges over 0.5 to 1 percent of the wall area. That bridging drops a 4-inch rigid-foam cavity from R-26 to R-23 effective. Thermally broken ties (Halfen FM, Bekaert Murfor THERM, Wagner ThermaTIE) recover most of that loss where the thermal target needs it.
 
 ### Mixed metals in one element
 
-Galvanized and black steel in electrical contact inside one element form a documented galvanic couple. The American Galvanizers Association describes the mechanism: once the zinc has depassivated in the concrete's alkaline pore water, it acts as a sacrificial anode for the adjacent bare steel and is consumed protecting it, which defeats the reason the galvanizing was specified. The working rule is one metallurgy per structural element, including chairs, spacers and tie wire, all black, all galvanized or all stainless. Where mixing cannot be avoided, a dielectric barrier goes at the contact point, and the tie wire matches the bar, 16.5-gauge or heavier galvanized wire on galvanized bar and stainless wire on stainless bar.
+Galvanized and black steel in electrical contact inside one element form a documented galvanic couple. Per the American Galvanizers Association, once the zinc has depassivated in the concrete's alkaline pore water it acts as a sacrificial anode for the adjacent bare steel. It is consumed protecting that steel, which defeats the reason the galvanizing was specified. One metallurgy per structural element is the working rule, chairs, spacers and tie wire included: all black, all galvanized or all stainless. Where mixing cannot be avoided, a dielectric barrier goes at the contact point. Tie wire matches the bar, 16.5-gauge or heavier galvanized wire on galvanized bar and stainless wire on stainless bar.
 
-The stainless-and-carbon couple is a milder case. The Specialty Steel Industry of North America's stainless rebar guidelines find the coupled corrosion rate low enough that distress is unlikely within a 75-year design life, and report that some current practice no longer isolates black bar from stainless bar. This house's design horizon runs past that 75-year study horizon, so the all-stainless rule stands.
+Stainless against carbon steel is a milder couple. Per the Specialty Steel Industry of North America's stainless rebar guidelines, the coupled corrosion rate is low enough that distress is unlikely within a 75-year design life. Some current practice therefore no longer isolates black bar from stainless. This house's design horizon runs past that 75-year study horizon, so the all-stainless rule stands.
 
 ### Glass-fiber bar and composite ties
 
-GFRP bar as primary reinforcement is excluded from this shell by seismic category. In the narrow case of an element outside the lateral system at a Category C or lower site, its detailing differs from steel's throughout. A composite-industry vendor's explainers (Composite-Tech) put development lengths at 1.3 to 1.6 times steel's for a comparable force, tension laps at 1.3 times the development length under ACI 440.1R-15, with 40 to 60 bar diameters common in practice, and bond resting on sand-coated or helically wrapped surfaces. Those are planning figures from a secondary source, and the engineer details any GFRP element against the ACI 440.11-22 text itself, hooks included.
+GFRP bar as primary reinforcement is excluded from this shell by seismic category. In the narrow case of an element outside the lateral system at a Category C or lower site, its detailing differs from steel's throughout. Composite-Tech, a composite-industry vendor, puts development lengths at 1.3 to 1.6 times steel's for a comparable force in its explainers. It puts tension laps at 1.3 times the development length under ACI 440.1R-15, with 40 to 60 bar diameters common in practice, and bond resting on sand-coated or helically wrapped surfaces. Those are a vendor's planning figures, and the engineer details any GFRP element against the ACI 440.11-22 text itself, hooks included.
 
-FRP ties are not a prescriptive option. ICC-ES AC125 covers externally bonded FRP for strengthening, not new ties. AC454 covers FRP bars in concrete in Seismic Design Category A or B. TMS 402-22 Appendix D introduces composite reinforcement for masonry partition walls, not for loadbearing exterior cavity walls. A commercial FRP tie enters a permit only with a current ICC-ES report and the building official's approval under the code's alternative-materials provision.
+FRP ties are an engineered alternative, not a prescriptive option. ICC-ES AC125 covers externally bonded FRP for strengthening, not new ties. AC454 covers FRP bars in concrete in Seismic Design Category A or B. TMS 402-22 Appendix D introduces composite reinforcement for masonry partition walls, not for loadbearing exterior cavity walls. Any commercial FRP tie enters a permit only with a current ICC-ES report and the building official's approval under the code's alternative-materials provision.
 
 ## 6.8 Reinforcement detailing: laps, cover, hooks and grout
 
 **Simple**
 
-Steel strengthens concrete only where the two are joined over enough length, and only while the concrete around the bar keeps water away from it. Where one bar ends and the next begins, the two overlap for a set length, so the force passes from one to the other through the concrete between them. The bar also needs a set thickness of concrete between it and the weather, called cover. In a block wall the grout does both jobs, so the grout has to fill every cell completely. Most field mistakes are small and permanent: a bar that settled against the form, a lap a few inches short, a cell with a void. The checks before each pour catch them while they can still be fixed.
+Steel strengthens concrete only where the two are joined over enough length, and only while the concrete keeps water off the bar. Where one bar ends and the next begins, the two overlap for a set length. Force passes from one to the other through the concrete between them. Each bar also needs a set thickness of concrete between it and the weather, called cover. In a block wall the grout does both jobs, so it has to fill every cell completely. Most field mistakes are small and permanent: a bar settled against the form, a lap a few inches short, a cell with a void. Checks before each pour catch them while they can still be fixed.
 
 **Applied**
 
 1. Measure bar size and spacing against the drawings, bay by bay, before concrete is ordered.
-2. Measure cover directly or with a cover meter: 3 inches against earth, 2 inches on any exposed face, 1-1/2 inches inside.
-3. Measure every lap and hook, and check that laps are staggered where the drawings stagger them.
-4. Support horizontal bars every 2 to 4 feet on plastic or concrete chairs sized to the cover, with no metal chair at an exposed face.
-5. Tie every other crossing at least, and every crossing where the crew will walk.
-6. Walk the cage for bent or stepped-on bars after the last trade leaves it.
-7. Check embeds and sleeves against the structural and mechanical drawings for conflicts with the bars.
-8. Have a second person sign the checklist, and photograph the final condition before calling for concrete.
-9. Send any field congestion to the engineer as a request for information, and substitute no bar on site.
+2. Measure cover with a rule or a cover meter.
+3. Expect 3 inches against earth, 2 inches on exposed faces and 1-1/2 inches inside.
+4. Measure every lap and hook.
+5. Check that laps are staggered where the drawings stagger them.
+6. Chair horizontal bars every 2 to 4 feet on plastic or concrete chairs sized to the cover.
+7. Put no metal chair at an exposed face.
+8. Tie every other crossing at least, and every crossing where the crew will walk.
+9. Walk the cage for bent or stepped-on bars after the last trade leaves it.
+10. Check embeds and sleeves against the structural and mechanical drawings for conflicts with the bars.
+11. Have a second person sign the checklist.
+12. Photograph the final condition before calling for concrete.
+13. Send field congestion to the engineer as a request for information.
+14. Substitute no bar on site.
 
 **Professional**
 
@@ -410,7 +429,7 @@ Detailing is what lets the reinforcement develop the strength the design assumes
 | Grout slump | 8 to 11 inches, the upper end for self-consolidating fine grout |
 | Bar size on this house | No. 4 and No. 5 throughout, with No. 6 at isolated heavy locations |
 
-The placement is verified at the footing inspection, the foundation-wall inspection and, for grouted block, before each grout pour. Field placement fails in five recurring ways, each with a known control.
+Inspectors verify the placement at the footing inspection, the foundation-wall inspection and, for grouted block, before each grout pour. Field placement fails in five recurring ways, each with a known control.
 
 | Failure | How it happens | Control |
 |---|---|---|
@@ -420,9 +439,9 @@ The placement is verified at the footing inspection, the foundation-wall inspect
 | Displaced bars | Foot traffic, placement equipment and the pour pushing bars off position | Chairs at close spacing, ties at every other crossing or every crossing in traffic, and a pre-pour walk for bent bars |
 | Wrong supports | Chairs sized close to the cover instead of to it, or metal chairs at an exposed face, which become corrosion initiation points | Plastic or concrete-block (dobie) chairs sized to the exact cover |
 
-A missed dowel or anchor bolt is corrected with a post-installed adhesive anchor, and the governing document is product-specific. The hole diameter, depth, cleaning method and dispensing equipment come from the product's ICC-ES evaluation report and the manufacturer's printed instructions it references, never from a generic embedment ratio. Simpson Strong-Tie SET-3G (ESR-4057) is listed for post-installed anchors and reinforcing-bar connections in cracked and uncracked concrete under static, wind and seismic load, and Hilti HIT-RE 500 V3 (ESR-3814) is the equivalent system. The wrong drill-bit diameter, or skipped hole cleaning, voids the tested capacity even where a generic ratio is satisfied, and the crew works from the report current at installation, because reports are revised on renewal.
+Post-installed adhesive anchors correct a missed dowel or anchor bolt, and the governing document is product-specific. Hole size, embedment, cleaning and dispensing come from the product's ICC-ES evaluation report and the manufacturer's printed instructions it references, never from a generic embedment ratio. Simpson Strong-Tie SET-3G (ESR-4057) is listed for post-installed anchors and reinforcing-bar connections in cracked and uncracked concrete under static, wind and seismic load. Hilti HIT-RE 500 V3 (ESR-3814) is the equivalent system. Using the wrong drill-bit diameter, or skipping the hole cleaning, voids the tested capacity even where a generic ratio is satisfied. Reports are revised on renewal, so the crew works from the one current at installation.
 
-The bar schedule tops out at No. 5, with No. 6 at isolated heavy locations. Manual benders are rated to No. 6 or heavier by model, manual cutters stop near No. 4, and powered cutter-benders rated to No. 6 or 1-inch bar cut and bend faster at foundation-schedule volume. Rent against buy is decided from the final bar schedule's total footage and local rental rates.
+This house's bar schedule tops out at No. 5, with No. 6 at isolated heavy locations. Manual benders are rated to No. 6 or heavier by model, and manual cutters stop near No. 4. Powered cutter-benders rated to No. 6 or 1-inch bar cut and bend faster at foundation-schedule volume. Rent against buy is decided from the final bar schedule's total footage and local rental rates.
 
 **Code**
 
@@ -440,7 +459,7 @@ Reinforcement in masonry keeps a minimum cover.
   Source: ORSC R606.3.4 (2023 edition).
 
 Cast-in-place concrete keeps a minimum cover over its bars.
-  3 inches cast against and in permanent contact with ground, 2 inches exposed to weather or ground for No. 6 and larger bars and 1-1/2 inches for No. 5 and smaller, and 3/4 inch in walls and slabs not exposed.
+  3 inches cast against ground, 2 inches exposed to weather or ground for No. 6 and larger bars, 1-1/2 inches for No. 5 and smaller, and 3/4 inch in walls and slabs not exposed.
   Source: ACI 318-19 Table 20.5.1.3.1.
 
 Post-installed anchors and dowels follow their evaluation report.
@@ -452,42 +471,52 @@ Post-installed anchors and dowels follow their evaluation report.
 
 **Simple**
 
-Fresh concrete behaves as a heavy fluid until it stiffens. It presses outward on the forms, it traps air unless it is vibrated, and it bonds poorly to concrete that has already begun to set. Most placement defects trace to one of those three facts. Honeycomb is a pocket where the mortar never filled between the stones. A cold joint is the weak seam left where a late truck met concrete that had started to harden. A blowout is a form tie that let go at the bottom of the pour, where the pressure is highest. The fixes are the form design, the vibration method and the delivery timing, and all three are settled before the first truck arrives.
+Fresh concrete behaves as a heavy fluid until it stiffens. It presses outward on the forms, it traps air unless it is vibrated, and it bonds poorly to concrete that has already begun to set. Most placement defects trace to one of those three facts. Honeycomb is a pocket where the mortar never filled between the stones. Cold joints are the weak seams left where a late truck met concrete that had started to harden. Blowouts start at a form tie that let go near the bottom of the pour, where the pressure is highest. Form design, vibration method and delivery timing are the fixes, and all three are settled before the first truck arrives.
 
 **Applied**
 
 ### Consolidation and placement
 
-1. Limit free fall to 3 to 4 feet, and use a drop chute or tremie pipe for taller forms.
-2. Insert the vibrator on a grid pattern, a few inches into the lift below.
-3. Hold each insertion 5 to 15 seconds, until the large bubbles stop rising, then withdraw it slowly.
-4. Keep the vibrator away from the form face, and stop before paste rises to the surface.
-5. Learn the mix's initial-set time for the day's temperature before the pour, and keep truck intervals inside it.
-6. Stage a backup vibrator, and on a pump pour a backup pump.
-7. When a lift must stop, stop at a planned construction joint, roughened and doweled or bonded as the drawings show.
-8. Treat any bulge in a form as a stop-work signal.
+1. Limit free fall to 3 to 4 feet.
+2. Use a drop chute or tremie pipe for taller forms.
+3. Insert the vibrator on a grid pattern, a few inches into the lift below.
+4. Hold each insertion 5 to 15 seconds, until the large bubbles stop rising.
+5. Withdraw the vibrator slowly.
+6. Keep the vibrator off the form face.
+7. Stop before paste rises to the surface.
+8. Learn the mix's initial-set time for the day's temperature before the pour.
+9. Keep truck intervals inside that window.
+10. Stage a backup vibrator, and on a pump pour a backup pump.
+11. When a lift must stop, stop at a planned construction joint.
+12. Roughen the joint, and dowel or bond it as the drawings show.
+13. Treat any bulge in a form as a stop-work signal.
 
 ### Forms, before the pour
 
-1. Use a manufactured forming system with the maker's pressure and tie-spacing tables for the pour rate and concrete temperature.
-2. Tape, gasket or tight-fit every panel joint.
-3. Space the ties tightest at the base of the pour, where the pressure is highest.
-4. Brace the panels to the ground or to a finished slab with kickers and diagonals, and walk every brace before the truck arrives.
-5. Slow the pour rate in cold weather.
+1. Use a manufactured forming system.
+2. Set tie spacing from the maker's pressure tables for the pour rate and concrete temperature.
+3. Tape, gasket or tight-fit every panel joint.
+4. Space the ties tightest at the base of the pour, where the pressure is highest.
+5. Brace the panels to the ground or to a finished slab with kickers and diagonals.
+6. Walk every brace before the truck arrives.
+7. Slow the pour rate in cold weather.
 
 ### Embeds and anchor bolts
 
-1. Wire anchor bolts, or a template holding several at spacing, to the tied reinforcement, never to the forms.
-2. Check the bolt layout against the sill-plate drawing just before the pour, and recheck position and top-of-concrete elevation as the last truck finishes.
-3. Check every embed plate against the structural drawing's location, elevation and orientation.
-4. Run a written embed, sleeve and dowel checklist against the structural and mechanical drawings, checked by a second person, before calling for concrete.
-5. Photograph the final pre-pour condition of every embed.
+1. Wire anchor bolts, or a template holding several, to the tied reinforcement.
+2. Never fasten a bolt to the forms.
+3. Check the bolt layout against the sill-plate drawing just before the pour.
+4. Recheck bolt position and top-of-concrete elevation as the last truck finishes.
+5. Check every embed plate against the structural drawing's location, elevation and orientation.
+6. Run a written embed, sleeve and dowel checklist against the structural and mechanical drawings.
+7. Have a second person check it before calling for concrete.
+8. Photograph the final pre-pour condition of every embed.
 
 **Professional**
 
-Fresh concrete loads a vertical form with a lateral pressure equal to the lesser of full hydrostatic pressure, the unit weight times the pour height, or a reduced value that depends on how fast the mix stiffens. Faster placement and colder concrete both raise the design pressure. ACI 347R, the formwork guide, holds the pressure formulas, and ACI Committee 347 recommends a factor of safety of 2.0 on form ties, as the For Construction Pros series by KB Engineering reports. The exact coefficients sit in the purchased guide, and the forming system maker's published tables are the working reference on site.
+Fresh concrete loads a vertical form with a lateral pressure equal to the lesser of two values. One is full hydrostatic pressure, the unit weight times the pour height. The other is a reduced value that depends on how fast the mix stiffens. Faster placement and colder concrete both raise the design pressure. ACI 347R, the formwork guide, contains the pressure formulas. ACI Committee 347 recommends a factor of safety of 2.0 on form ties, as the For Construction Pros series by KB Engineering reports. Exact coefficients sit in the purchased guide, and the forming system maker's published tables are the working reference on site.
 
-Blowouts are tie failures far more often than panel failures. A tie under-specified or over-spaced for the actual pressure lets go near the base of the pour, its load shifts to the neighboring ties, and the failure unzips upward. Bulging means the tie-and-wale system is consuming its safety margin. Misalignment traces to external bracing that transfers horizontal thrust poorly, so the whole form assembly walks during the pour instead of deflecting and springing back.
+Blowouts are tie failures far more often than panel failures. One tie under-specified or over-spaced for the actual pressure lets go near the base of the pour. Its load shifts to the neighboring ties, and the failure unzips upward. Bulging means the tie-and-wale system is consuming its safety margin. Misalignment traces to external bracing that transfers horizontal thrust poorly, so the whole form assembly walks during the pour instead of deflecting and springing back.
 
 Honeycomb, the stony pockets where mortar failed to fill between coarse aggregate, has five documented causes in Graniterock's technical notes on surface defects:
 
@@ -497,9 +526,9 @@ Honeycomb, the stony pockets where mortar failed to fill between coarse aggregat
 - a mix too stiff to flow around the bars
 - consolidation that levels the concrete without finishing the release of trapped air
 
-Sand streaking, a sand-rich and cement-poor smear on the formed face, comes from bleed water migrating up the form face and washing out paste, and an air-entrained mix bleeds less and streaks less. Cold-joint prevention is scheduling. Retarders extend the set window in hot weather, accelerators shorten it in cold weather, and the delivery interval is planned around the window the day's mix has.
+Sand streaking, a sand-rich and cement-poor smear on the formed face, comes from bleed water migrating up the form face and washing out paste. An air-entrained mix bleeds less and streaks less. Cold-joint prevention is scheduling. Retarders extend the set window in hot weather, accelerators shorten it in cold weather, and the delivery interval is planned around the window the day's mix has.
 
-Where an anchor bolt is missed despite the checklist, a post-installed anchor corrects it. A missed or misoriented embed plate is more consequential, because a plate is a unique engineered connection, and correcting one means cutting and doweling new work rather than substituting an anchor. Both are documented as corrections, never planned as practice. The sill-plate anchor rules, the footing reinforcement and the grounding electrode cast into the footing are the foundation chapter's, and that chapter's pre-pour list is where those items are checked.
+Where an anchor bolt is missed despite the checklist, a post-installed anchor corrects it. Missing or misoriented embed plates cost more, because a plate is a unique engineered connection, and correcting one means cutting and doweling new work rather than substituting an anchor. Both are documented as corrections, never planned as practice. Sill-plate anchor rules, footing reinforcement and the grounding electrode cast into the footing are stated in the foundation chapter, on its pre-pour list.
 
 ## 6.10 Openings: lintels and diaphragm continuity
 
