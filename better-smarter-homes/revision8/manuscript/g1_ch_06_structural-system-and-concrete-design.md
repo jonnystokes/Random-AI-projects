@@ -37,7 +37,7 @@ Seven loads enter the structural calculation, and each has a source the drawings
 | Soil and water pressure | The geotechnical report's lateral earth pressures and design groundwater level |
 | Construction loads | The contractor's sequence: stacked pallets of block, grout pumps, a crane for planks, and formwork pressure |
 
-Bearing walls stack floor over floor in one plane, and the wall lines run from foundation to roof without offsets. Each floor diaphragm ties into the walls through chord and collector steel, and a bond beam runs at every floor and at the roof. Openings stay within the limits the path decision sets, and every footing is sized from the site's own soil values.
+Bearing walls stack floor over floor in one plane, and the wall lines run from foundation to roof without offsets. Each floor diaphragm ties into the walls through chord and collector steel, and a bond beam runs at each floor level and at the roof. Openings stay within the limits the path decision sets, and every footing is sized from the site's own soil values.
 
 Such a building can be traced in section. Roof load passes to wall, floor to wall, wall to foundation and foundation to soil. Lateral force passes to the diaphragm, from diaphragm to shear wall and from shear wall to foundation. Thicker walls or slabs outside a defined load path add dead load, which raises the seismic demand, and add no capacity.
 
@@ -50,6 +50,8 @@ Floor live loads are fixed minimums.
   40 psf in living areas, 30 psf in sleeping areas, 40 psf on stairs plus a 300-pound point load, 40 psf on decks and balconies, 50 psf in garages plus 2,000-pound wheel loads.
   Source: ORSC Table R301.5 (2023 edition).
 ```
+
+[FIGURE: load-path-section, a section through the house from roof to soil with the gravity path and the lateral path to each shear wall labeled]
 
 ## 6.2 Where the site puts the house: seismic category, wind and snow
 
@@ -124,7 +126,7 @@ Ground snow over 70 psf takes the structure out of the prescriptive chapters.
 
 **Simple**
 
-You can have this house designed two ways. For $4,000 to $10,000 an engineer designs exactly the house you want, concrete floors and roof included. Or you follow the code's pre-approved tables for free. On a western Oregon site they allow one story of reinforced block under a wood roof and over wood floors. Every element the tables do not cover goes to the engineer anyway. Here that means the concrete floors, the concrete roof and every wall under them. This house takes the engineered way, because the thousand-year shell needs the concrete floors and roof.
+You can have this house designed two ways. For $4,000 to $10,000 an engineer designs exactly the house you want, concrete floors and roof included. Or you follow the code's pre-approved tables for free. On a western Oregon site they allow a single story of reinforced block under a wood roof and over wood floors. Every element the tables do not cover goes to the engineer anyway. Here that means the concrete floors, the concrete roof and every wall under them. This house takes the engineered way, because the thousand-year shell needs the concrete floors and roof.
 
 **Applied**
 
@@ -264,6 +266,8 @@ Concrete foundation walls under above-grade concrete walls are engineered in the
   Source: ORSC R404.1.4.2 (2023 edition).
 ```
 
+[FIGURE: control-joint-waterstop, plan and section of a formed control joint in a below-grade wall, with the cast-in waterstop and the sealed groove]
+
 ## 6.5 Alternative forming systems and mixes
 
 **Simple**
@@ -304,7 +308,7 @@ Reinforced block walls are concrete block stacked in mortar with steel inside. V
 
 **Professional**
 
-On an engineered wall TMS 402 governs the design and TMS 602 the construction. Oregon's 2023 residential code references the 2016 editions of both, and the 2022 editions are current, so the drawings name the edition the engineer designed to. Planning values for an engineered wall on this house are in the table.
+On an engineered wall TMS 402 governs the design and TMS 602 the construction. Oregon's 2023 residential code references the 2016 editions of both, and the 2022 editions are current, so the drawings name the edition the engineer designed to. The table lists the planning values an engineered block wall starts from here.
 
 | Parameter | Planning value |
 |---|---|

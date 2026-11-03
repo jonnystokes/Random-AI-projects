@@ -1,6 +1,6 @@
 # Chapter 26: Developing the Site: Shop, Block-Yard, and Outbuildings
 
-Everything on this parcel besides the house goes up in a fixed order: the driveway first, because every truck for the next several years arrives over it, then temporary power and water, then the shop, then the block-yard, and the house shell once the block campaign is under way. At 1,500 to 2,400 square feet, the shop is placed for the decades of use after the build. Small accessory buildings need no building permit under the exemption the legal chapter states. That is how the first practice walls and the yard's fabric shelter go up before the house plans are final. Costs are 2026 figures unless a different year is given.
+Everything on this parcel besides the house goes up in a fixed order: the driveway first, because every truck for the next several years arrives over it, then temporary power and water, then the shop, then the block-yard, and the house shell once the block campaign is under way. At 1,500 to 2,400 square feet, the shop is placed for the decades of use after the build. Small accessory buildings go up without a building permit under the exemption the legal chapter states. That is how the first practice walls and the yard's fabric shelter go up before the house plans are final. Costs are 2026 figures unless a different year is given.
 
 > **Jon's note.** [JON: drafted from the record, confirm or rewrite] The land has to hold more than the house: a shop, a yard where I make and test my own block, and the outbuildings that come after. I am building mostly alone over several years, so the shop and the yard go up before the house. The first walls I lay are garden walls and shed walls, where a bad joint costs a weekend's work. I want food and power that do not depend on the grid. That means a root cellar that uses no electricity, a pantry sized for months, and the generator in its own shed. At the entrance I would rather drive over a cattle guard every day than stop for a gate. [JON: is that right? Will there ever be livestock to keep in or out?] [JON: a pole-barn kit for the shop or a shop built from your own block as the biggest practice run?] [JON: which outbuildings do you want at all and in what order?]
 
@@ -58,7 +58,7 @@ Occupying any structure as a dwelling waits on its own certificate of occupancy,
 
 **Simple**
 
-Onto the site plan, the shop, the yard and the outbuildings go last. The septic field, the well, the house, the driveway and the sun's path to the panels take their ground first. They go last because they can move and the others cannot. Within a few feet of a property line, a building needs fire-rated walls and no windows on that side. Placed to save steps during the build, a shop sits beside your living room for decades, with its noise. Anything tall south of the panels shades them, and anything close against a house wall keeps it damp and mossy. While the house trench is open, an empty conduit goes to every spot an outbuilding will ever stand.
+Onto the site plan, the shop, the yard and the outbuildings go last. The septic field, the well, the house, the driveway and the sun's path to the panels take their ground first. They go last because they can move and the others cannot. Within a few feet of a property line, a building gets fire-rated walls and no windows on that side. Placed to save steps during the build, a shop sits beside your living room for decades, with its noise. Anything tall south of the panels shades them, and anything close against a house wall keeps it damp and mossy. While the house trench is open, an empty conduit goes to every spot an outbuilding will ever stand.
 
 **Applied**
 
@@ -71,7 +71,7 @@ Onto the site plan, the shop, the yard and the outbuildings go last. The septic 
 7. Where it must stand closer, design that wall as fire-rated with no openings.
 8. Keep every outbuilding foundation outside the septic setbacks and the well's service clearance.
 9. Place the shop where it serves the household after the build.
-10. Place the yard between the shop and the driveway, on the far side of the shop from the house's truck turnaround.
+10. Place the yard between the shop and the driveway.
 11. Where a wanted outbuilding site conflicts with a fixed element, move the outbuilding.
 12. Run a spare power conduit and a data conduit to every fixed outbuilding location while the house trench is open.
 13. Run the same pair to the accessory-dwelling zone.
@@ -81,7 +81,7 @@ Onto the site plan, the shop, the yard and the outbuildings go last. The septic 
 
 **Professional**
 
-Outbuildings are the most movable elements on the plan, so they absorb the conflicts the fixed elements create. Lock order, the septic and well rings and the accessory-dwelling zone are the land chapter's, and three constraints bind an accessory structure once its ground is chosen.
+Outbuildings are the most movable elements on the plan, so they absorb the conflicts the fixed elements create. Lock order, the septic and well rings and the accessory-dwelling zone are the land chapter's. Once an outbuilding's ground is chosen, fire separation, shade, permanence and the conduit route bind it.
 
 ### Fire separation at the lot line
 
@@ -89,11 +89,11 @@ The residential code's exterior-wall table protects a neighbor's building from r
 
 ### Shade on the array and on the walls
 
-OSU Extension's moss guidance identifies shade and sustained moisture as the conditions that grow moss on roofs, walls and paving. It recommends thinning or removing the vegetation that shades a surface. Close to a house wall, a shop, a woodshed or a tall fence shades it as a tree does, so outbuildings stand clear of the walls that dry slowest. Drawn at each tree's mature height and each planned structure's full height, the array's shadow lines close the ground south of the panels to anything tall.
+OSU Extension's moss guidance identifies shade and sustained moisture as the conditions that grow moss on roofs, walls and paving. It recommends thinning or removing the vegetation that shades a surface. Close to a house wall, a shop, a woodshed or a tall fence shades it for the same hours a tree would, so outbuildings stand clear of the walls that dry slowest. Drawn at each tree's mature height and each planned structure's full height, the array's shadow lines close the ground south of the panels to anything tall.
 
 ### Placing for the decades after the build
 
-Distance between the shop and the house trades haul time during the build against noise, fumes and vehicle traffic for the decades after it. Because the build ends and the proximity does not, the plan weights the permanent condition. For the yard the weighting runs the other way. Its hardstand has no use after the campaign unless its reuse is designed in. It therefore sits near the driveway and the shop, where deliveries are short, and away from the house's turnaround, where its mud and dust would reach the concrete work.
+Distance between the shop and the house trades haul time during the build against noise, fumes and vehicle traffic for the decades after it. Because the build ends and the proximity does not, the plan weights the permanent condition. For the yard the weighting runs the other way, since its hardstand has no use after the campaign unless its reuse is designed in.
 
 ### Conduit while the trench is open
 
@@ -106,7 +106,7 @@ An accessory building near the lot line carries a rated wall with no openings.
   At a fire separation distance under 3 feet: walls rated 1 hour from both sides, no openings, no projections under 2 feet and rated projections from 2 to 3 feet, penetrations per R302.4.
   Source: ORSC R302.1 and Table R302.1(1) (2023 edition).
 
-Permit-exempt detached accessory structures need no wall protection for their location.
+Permit-exempt detached accessory structures are excused from wall protection for their location.
   Detached nonhabitable accessory structures exempted from permits are not required to provide wall protection based on location on the lot, and projections shall not extend over the lot line.
   Source: ORSC R302.1, exception 3 (2023 edition).
 ```
@@ -136,7 +136,7 @@ Built for cars, a gravel driveway fails under the first loaded concrete truck. R
 
 **Professional**
 
-Base-course depth scales with the wheel load that will cross it. Eger Excavating's and Hello Gravel's driveway guides put a passenger-car driveway at 6 to 8 inches of compacted gravel. For trucks of 14,000 pounds and up they put the total at 12 to 18 inches of compacted base on good subgrade. That section is built as a subbase of larger stone, a crusher-run base and a fine surface course, compacted in thin lifts. Both guides prefer angular crushed stone, which interlocks under compaction, to rounded gravel.
+Base-course depth scales with the wheel load that will cross it. Eger Excavating's and Hello Gravel's driveway guides put a passenger-car driveway at 6 to 8 inches of compacted gravel. For trucks of 14,000 pounds and up they put the total at 12 to 18 inches of compacted base on good subgrade. That section is built as a subbase of larger stone, a crusher-run base and a fine surface course, compacted in thin lifts. Both guides specify angular crushed stone, which interlocks under compaction, over rounded gravel.
 
 On heavy clay one of them specifies 12 to 16 inches of base and a geotextile separation layer. Without the fabric, the base rock works down into a soft subgrade under repeated loads, and the section thins from below. Subgrade classification, culvert sizing and the fish-passage review are the soil chapter's, and the geotechnical engineer sets the final section for the loaded ready-mix truck against the subgrade.
 
@@ -174,7 +174,7 @@ Residential solar openers pair a 10-to-30-watt panel with a 12-volt battery. Gho
 
 DRGAC Fleet's and Barnworld's price guides put economy steel cattle guards at $1,700 to $2,500 before shipping and footings. Mid-grade fabricated guards with skirts and end caps run $3,500 to $5,500. Installed totals come to $2,000 to $7,000, and custom or heavy-duty work runs above $10,000. Wing panels, which stop animals walking around the ends, sell separately.
 
-Spanning a pit deep enough that livestock will not cross, the guard takes footings that carry the vehicle load across the span. It also takes drainage that keeps the pit from filling with water and silt, which a gate's post footings never need. Those makers put a steel guard's service life past 30 years with little maintenance, against a gate's hinges, latches and opener. With no livestock to hold and a stated priority of low daily friction and low upkeep, the guard serves the parcel at a higher one-time cost.
+Spanning a pit deep enough that livestock will not cross, the guard takes footings that carry the vehicle load across the span. It also takes drainage that keeps the pit from filling with water and silt, which a gate's post footings go without. Those makers put a steel guard's service life past 30 years with little maintenance, against a gate's hinges, latches and opener. With no livestock to hold and a stated priority of low daily friction and low upkeep, the guard serves the parcel at a higher one-time cost.
 
 **Code**
 
@@ -252,7 +252,7 @@ Posts fail at the ground line, where wet-season soil sits against them. Hot-dip 
 **Code**
 
 ```
-A low fence of wood, wire or chain link needs no building permit anywhere in Oregon.
+A low fence of wood, wire or chain link is exempt from the building permit anywhere in Oregon.
   A municipality's permit threshold may not include fences of wood, wire mesh or chain link that are 7 feet or less in height, and swimming pool barriers always need a permit.
   Source: ORSC R101.2.2, item 1 (2023 and 2026 editions).
 
@@ -273,7 +273,7 @@ A neighbor who encloses against an existing line fence pays half its value.
 
 **Simple**
 
-Most equipment theft on a building site happens overnight, on weekends and on holidays, when nobody is there. A rural site adds a long drive for the sheriff. Plain defenses answer it. Signs on the fence line say the site is kept. Lights over the material stacks and the entrance take away the dark. Anything small and valuable, pipe, wire, fixtures and hand tools, spends the night in the locked shop. On a solar panel with a cell connection, a camera watches the yard and the gate without grid power. A determined thief with a truck still gets in. The measures lengthen the time a theft takes and raise the chance it is seen.
+Equipment theft on a building site happens mostly overnight, on weekends and on holidays, when nobody is there. A rural site adds a long drive for the sheriff. Plain defenses answer it. Signs on the fence line say the site is kept. Lights over the material stacks and the entrance take away the dark. Anything small and valuable, pipe, wire, fixtures and hand tools, spends the night in the locked shop. On a solar panel with a cell connection, a camera watches the yard and the gate without grid power. A determined thief with a truck still gets in. The measures lengthen the time a theft takes and raise the chance it is seen.
 
 **Applied**
 
@@ -349,13 +349,13 @@ Most retaining walls fail from water trapped behind them. Rain soaks into the ba
 
 **Professional**
 
-Water trapped behind a wall adds hydrostatic pressure to the earth pressure the section was sized for, and that added load is behind most wall failures. Allan Block's residential installation manual is the detail the steps follow. In it the wall rock drains the face, the fabric keeps fines from clogging the rock, and the toe drain carries incidental water out. The manual states that the rock and the drain are not the site's primary drainage, which is why the pad swales carry roof and surface water elsewhere. It also lists the conditions that call for a toe drain on even a low wall.
+Water trapped behind a wall adds hydrostatic pressure to the earth pressure the section was sized for, and that added load is behind most wall failures. Allan Block's residential installation manual is the detail the steps follow. In it the wall rock drains the face, the fabric keeps fines from clogging the rock, and the toe drain carries incidental water out. The manual states that the rock and the drain are not the site's primary drainage, which is why the pad swales carry roof and surface water elsewhere. It also lists the conditions under which it specifies a toe drain on even a low wall.
 
-Its gravity-wall chart gives, for level ground above, 5 feet 4 inches in silty sand and 3 feet 6 inches in clay for its 12-degree-setback unit. For its 6-degree units the figures are 4 feet 7 inches and 3 feet 2 inches. Under a 100-pound-per-square-foot surcharge or a 3-to-1 slope above, those heights fall by a third to a half. The chart excludes seismic loading and calls for a local engineer in a seismic area, which is all of western Oregon. The chart therefore ranks soils and surcharges, and the engineering triggers, the wall ladder and the terrace setback are the soil chapter's.
+Its gravity-wall chart gives, for level ground above, 5 feet 4 inches in silty sand and 3 feet 6 inches in clay for its 12-degree-setback unit. For its 6-degree units the figures are 4 feet 7 inches and 3 feet 2 inches. Under a 100-pound-per-square-foot surcharge or a 3-to-1 slope above, those heights fall by a third to a half. The chart excludes seismic loading and states that a seismic area, which is all of western Oregon, takes a local engineer. The chart therefore ranks soils and surcharges, and the engineering triggers, the wall ladder and the terrace setback are the soil chapter's.
 
 Sustained contact with damp soil at the backfill face is a harsher exposure than a house wall's rain-wetted face. The house-wall test package of compression, absorption and shrinkage does not characterize it. ASTM D559 wetting-and-drying and D560 freezing-and-thawing cycling, about a month to run, are the durability tests for a stabilized mix. A retaining-wall mix passes them or carries a higher stabilizer content than the house wall's.
 
-Whether the alternative-materials approval for the house extends to a retaining wall is a question only a wall over the permit floor raises. Below it no permit is pulled. Dry-stacked interlocking units lay faster, because the unit's lip or pin does the alignment a trowel otherwise does. A dry-stacked first wall teaches none of the mortar work the house will demand, which is why the first wall is mortared.
+Whether the alternative-materials approval for the house extends to a retaining wall is a question only a wall over the permit floor raises. Below it no permit is pulled. Dry-stacked interlocking units lay faster, because the unit's lip or pin does the alignment a trowel otherwise does. A dry-stacked first wall teaches none of the mortar work the house wall will take, which is why the first wall is mortared.
 
 Under the Iowa Statewide Urban Design and Specifications' gabion section, baskets are filled with well-graded broken stone sized above the mesh opening. The outer layer is hand-placed at the face for a square appearance.
 
@@ -472,7 +472,7 @@ Area follows from the production target and the cure hold. At 100 units a day he
 
 Green units are set down and never slid, so the curing surface is flat and firm. A slight cross-fall sheds rain without tipping a pallet, and the paths to the wall stay gentle enough for a loaded cart.
 
-Under the whole yard a compacted crushed-rock base carries the loader. Under the press station and the curing rows a concrete slab gives the flat, clean surface on which green units survive handling. That slab is the part worth pouring for reuse, because a slab designed only as a yard rarely matches the anchor and footing pattern a later structure needs. Thickness for a future floor load, a vapor retarder under any part to be enclosed, and anchors or sleeves at known post positions go in at the pour. Afterward they cannot be added.
+Under the whole yard a compacted crushed-rock base carries the loader. Under the press station and the curing rows a concrete slab gives the flat, clean surface on which green units survive handling. That slab is the part worth pouring for reuse, because a slab designed only as a yard rarely matches the anchor and footing pattern of a later structure. Thickness for a future floor load, a vapor retarder under any part to be enclosed, and anchors or sleeves at known post positions go in at the pour. Afterward they cannot be added.
 
 Compacted and graded, the pad sheds more rain and sheds it faster than the ground it replaced. In the site drainage design it therefore counts as impervious area. Its runoff goes to the same downstream feature as the house pad's and the driveway's, and never to the septic absorption or reserve area. Its disturbed area counts toward the one-acre stormwater threshold with everything else.
 
@@ -483,7 +483,7 @@ UF/IFAS's 2023 study of a 30-by-84-foot kit priced it at $6.16 to $6.72 a square
 **Code**
 
 ```
-A concrete slab or driveway needs no building permit.
+A concrete slab or driveway is exempt from the building permit.
   Concrete sidewalks, slabs, platforms, driveways and similar work are exempt from the building permit, with any electrical, plumbing or mechanical permit still required.
   Source: ORSC R105.2, Building, item 2 (2023 and 2026 editions).
 ```
@@ -494,7 +494,7 @@ A concrete slab or driveway needs no building permit.
 
 **Simple**
 
-From your own block, the first wall you lay is a garden wall. Nothing rests on it, and a bad course is torn down for the price of the mortar. The woodshed's base comes second, and it carries a roof. A small enclosed shed comes third, with openings, a roof tied down and vents that have to work. Last comes a barn or garage with a 10-foot door. Over its opening goes a steel or reinforced-block beam, sized by an engineer from the strength of your own block. Each one adds one thing the house wall will demand. Factory trusses come with their own engineering. A homemade truss does not, and the code gives no owner's path to one.
+From your own block, the first wall you lay is a garden wall. Nothing rests on it, and a bad course is torn down for the price of the mortar. The woodshed's base comes second, and it carries a roof. A small enclosed shed comes third, with openings, a roof tied down and vents that have to work. Last comes a barn or garage with a 10-foot door. Over its opening goes a steel or reinforced-block beam, sized by an engineer from the strength of your own block. Each one adds one requirement of the house wall. Factory trusses come with their own engineering. A homemade truss does not, and the code gives no owner's path to one.
 
 **Applied**
 
@@ -639,7 +639,7 @@ Air reaching the stack from two sides is the design, so an open or slatted upper
 
 **Simple**
 
-With no electricity, a root cellar keeps potatoes, carrots and cabbage all winter. Root crops keep best just above freezing in damp air, and squash and onions on a cool, dry shelf elsewhere. In the wet Pacific Northwest the design is a concrete box set into a slope and bermed with earth. It has a drain on the downhill side, a north-facing entry, and a floor part concrete and part gravel so the room stays damp. Air moves through it on its own: a low pipe brings cold night air in and a high pipe lets warm air out. A thermometer and a humidity gauge show whether it works. A small fan is added only when the readings miss.
+With no electricity, a root cellar keeps potatoes, carrots and cabbage all winter. Root crops keep best just above freezing in damp air, and squash and onions on a cool, dry shelf elsewhere. In the wet Pacific Northwest the design is an earth-bermed concrete box set into a slope. It has a drain on the downhill side, a north-facing entry, and a floor part concrete and part gravel so the room stays damp. Air moves through it on its own: a low pipe brings cold night air in and a high pipe lets warm air out. A thermometer and a humidity gauge show whether it works. A small fan is added only when the readings miss the targets.
 
 **Applied**
 
@@ -843,7 +843,7 @@ Most rows in the table share two mechanisms, water and placement. Water adds loa
 - **Owner-fabricated truss acceptance.** Unknown: whether the building official accepts a stamped site-built truss or rafter design on an exempt or permitted structure. Answered by: the official, at permit. Assumed meanwhile: manufactured trusses or conventional rafters.
 - **Shop quotes.** Unknown: Oregon prices for the pole-barn kit delivered, a stick-framed shop, an engineered steel building erected, a 12-by-12 or 14-by-14 door installed, and the slab's perimeter insulation. Answered by: supplier and contractor quotes against the shop's drawings. Assumed meanwhile: the national ranges, labeled.
 - **Shop service and converter.** Unknown: the shop's load calculation and the converter size. Answered by: the electrical drawings once the equipment list is fixed. Assumed meanwhile: a 10-horsepower rotary converter on the shop's single-phase panel.
-- **Yard pad area, grade and reuse premium.** Unknown: the hardstand the real production rate and cure hold need, the cart grade a loaded cart climbs, and the cost of building reuse into the slab. Answered by: the first production week, and the flatwork quote with and without the reuse items. Assumed meanwhile: 2,000 to 3,000 square feet at 1 to 2 percent, paths under 5 percent.
+- **Yard pad area, grade and reuse premium.** Unknown: the hardstand the real production rate and cure hold take, the cart grade a loaded cart climbs, and the cost of building reuse into the slab. Answered by: the first production week, and the flatwork quote with and without the reuse items. Assumed meanwhile: 2,000 to 3,000 square feet at 1 to 2 percent, paths under 5 percent.
 - **Hoop shelter at this site.** Unknown: cover life under the parcel's wind and snow, and whether the campaign outlasts one cover. Answered by: the first winter. Assumed meanwhile: one cover per campaign.
 - **Generator shed openings and enclosure.** Unknown: the intake and outlet net free area for the chosen model, the enclosure's installed price, and the local noise limit at the line, since the League of Oregon Cities' model ordinance was not read for its figures. Answered by: the manufacturer's data sheet, an enclosure quote, and the county or city ordinance. Assumed meanwhile: openings sized to the maker's airflow, and an enclosure chosen after the ordinance is read.
 - **Battery shed enclosure.** Unknown: the insulation value and heater wattage for a pack outside the house. Answered by: a heat-loss calculation for the chosen shed and pack. Assumed meanwhile: the pack sits in the house.
