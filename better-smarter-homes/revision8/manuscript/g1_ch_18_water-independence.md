@@ -1,40 +1,42 @@
 # Chapter 18: Water Independence
 
-Western Oregon's rain falls between October and April and the household's demand peaks in July, so the number that governs this house's water independence is the volume it can store. The well supplies the drinking water, rain off the roof serves the toilets, the clothes washer and the garden on its own labeled pipes, and one concrete cistern holds the dry season's supply, the slow well's buffer and any fire reserve as a single volume counted once. Nothing between the stored water and at least one indoor tap depends on electricity. The plumbing code's rules from the tank to the fixtures are in the plumbing water-supply chapter. Costs are 2026 figures unless a different year is given.
+Western Oregon's rain falls from October to April, and the household's demand peaks in July, which makes stored volume the number that governs this house's water independence. The well supplies the drinking water. Rain off the roof serves the toilets, the clothes washer and the garden on labeled pipes of its own. One concrete cistern holds the dry season's supply, the slow well's buffer and any fire reserve as a single volume, counted once. Nothing between that water and one indoor tap depends on electricity. Code plumbing from the tank to the fixtures is in the plumbing water-supply chapter. Costs are 2026 figures unless a different year is given.
 
-> **Jon's note.** [JON: drafted from the record, confirm or rewrite] I want the water to be mine the way the power is: a well, rain off the roof, and enough storage to get through a summer. The well is for drinking. The rain is for toilets, laundry and the garden, on its own pipes with its own labels, and I am not going to claim it as drinking water on a permit. I would rather pour the tank in concrete myself, with the forms and the crew from the foundation, than buy a plastic one and bury it. [JON: confirm the owner-poured concrete tank, and whether it is one tank or two] When the power is out I still want to fill a bucket from a tap that runs by gravity. [JON: how many days with no rain and no well should the storage cover?] [JON: a composting toilet, or a flush toilet on rainwater?]
+> **Jon's note.** [JON: drafted from the record, confirm or rewrite] I want the water to be mine the way the power is: a well, rain off the roof, and enough storage to get through a summer. The well is for drinking. The rain is for toilets, laundry and the garden, on its own pipes with its own labels. I am not going to claim it as drinking water on a permit. I would rather pour the tank in concrete myself, with the forms and the crew from the foundation, than buy a plastic one and bury it. [JON: confirm the owner-poured concrete tank, and whether it is one tank or two] When the power is out I still want to fill a bucket from a tap that runs by gravity. [JON: how many days without rain or a working well should the storage cover?] [JON: a composting toilet, or a flush toilet on rainwater?]
 
 ## 18.1 Two sources, one plan
 
 **Simple**
 
-Your house will have two kinds of water and one tank. The well gives drinking water, tested and treated in the mechanical room. The roof gives rainwater, which runs in its own labeled pipes to the toilets, the clothes washer and the garden hose, and never joins the well water. Between them sits a concrete cistern. It holds the summer's water, it smooths a slow well, and it keeps a fire reserve at the bottom, and all three jobs draw on the same gallons. In a long outage, water still reaches one tap by gravity alone.
+Your house will have two kinds of water and one tank. Well water is for drinking, tested and treated in the mechanical room. Rainwater runs in its own labeled pipes to the toilets, the washing machine and the hose bibs, and it never joins the well water. Between the two sits a concrete cistern. It holds the summer's water, it evens out a slow well, and it keeps a fire reserve at the bottom, all from the same gallons. In a long outage, water still reaches one tap by gravity alone.
 
 **Applied**
 
-1. Write the water plan on one page: the well as the potable source, rain to the toilets, clothes washer and hose bibs, and one storage volume.
-2. Assign each fixture to one source at design time, and list the rain fixtures on the plumbing plan.
-3. List the claims on the stored volume: the dry-season supply, the slow well's peak-hour buffer, the fire reserve.
-4. Size the tank to the dry-season supply plus the protected fire reserve. The buffer rides inside the dry-season volume.
-5. Keep one path from the tank to one indoor tap with no pump, valve motor or controller in it.
-6. Treat the rain as nonpotable on the permit, even where its train matches the well's.
-7. Record the plan, with the date and the reasons, in the binder.
+1. Write a one-page water plan naming the potable well, the rain fixtures and the tank.
+2. Assign each fixture to one source at design time.
+3. List the rain fixtures on the plumbing plan.
+4. List the claims on the stored volume, dry-season supply, the well's buffer and the fire reserve.
+5. Size the tank to the dry-season supply plus the protected fire reserve.
+6. Count the well's buffer inside the dry-season volume.
+7. Keep one unpowered path from the tank to one indoor tap.
+8. Treat the rain as nonpotable on the permit, even where its train matches the well's.
+9. Record the plan, with the date and the reasons, in the binder.
 
 **Professional**
 
-Rainwater and well water stay apart to the fixture because a blended system hides a fault. Where both sources feed one pressure system behind one treatment train, a failed stage on the rain side is diluted by the well, and the first sign is a sick household rather than a cloudy tap. Separate piping shows the fault at the rain fixtures and nowhere else. The plumbing water-supply chapter carries the separation architecture, the labels at every rain outlet and the one-time cross-connection test of both systems.
+Rainwater and well water stay apart to the fixture because a blended system hides a fault. Where both sources feed one pressure system behind one treatment train, the well dilutes a failed stage on the rain side. Its first sign is then a sick household rather than a cloudy tap. Separate piping shows the fault at the rain fixtures and nowhere else. Separation architecture, the labels at every rain outlet and the one-time cross-connection test of both systems are stated in the plumbing water-supply chapter.
 
-One cistern serves three purposes because each purpose draws on the same water. In western Oregon the dry-season volume is the largest of the three, the peak-hour buffer for a slow well is a smaller volume inside it, and the fire reserve is a protected volume below the domestic takeoff. Adding the three together double-counts the water. The tank is sized to the largest claim, with the fire reserve added only because the domestic draw is barred from it.
+In western Oregon the dry-season volume is the largest of the three claims on the cistern. Inside it sits the peak-hour buffer for a slow well, and below the domestic takeoff sits the fire reserve. Adding the three together double-counts the water. Sizing therefore follows the largest claim, with the fire reserve added only because the domestic draw is barred from it.
 
-Rainwater stays nonpotable on the permit. Appendix K of the plumbing code, adopted statewide, lets a single-family dwelling claim potable rainwater, with design by a registered design professional or a person the building official accepts, water quality as the official determines, and testing as the owner's duty. A rain train built to the same filtration and ultraviolet dose as the well's gives the same water without that claim, and the well remains the source the water heater and the kitchen tap draw from.
+Rainwater stays nonpotable on the permit by this plan's choice. Appendix K of the plumbing code, adopted statewide, lets a single-family dwelling claim potable rainwater. Under it a registered design professional or a person the building official accepts designs the system, the official sets the water quality, and testing is the owner's duty. A rain train built to the same filtration and ultraviolet dose as the well's gives the same water without that claim. The well remains the source for the water heater and the kitchen tap.
 
-The treatment train, the second set of piping and a second tank are where the budget runs out first. A high water table rules out a buried tank, and a flat site limits the gravity tap to a few feet of head. The code adds a design professional and water-quality duties only where potable status is claimed.
+The full design runs into three limits, in this order. Money runs out first, at the treatment train, the second set of piping and a second tank. Site comes next. A high water table rules out a buried tank, and a flat site limits the gravity tap to a few feet of head. Code adds a design professional and water-quality duties only where potable status is claimed.
 
 ## 18.2 Which agency reaches which water
 
 **Simple**
 
-Four offices have a say in this house's water, and each one reaches a different part of it. The state water office decides whether you may take the water at all, and for a house well and a roof the answer is yes without a permit. The environmental quality office permits the greywater system and registers any well that puts water back into the ground. The county building department permits the pipes. The fire district says how much water it wants held for a fire. None of them tests a private household's drinking water.
+Four offices have a say in this house's water, and each one reaches a different part of it. Oregon's water office decides whether you may take the water at all. For a house well and a roof, the answer is yes, with no permit. DEQ, the environmental quality office, permits the greywater system. It also registers any well that puts water back into the ground. The county building department permits the pipes. Your fire district says how much water it wants held for a fire. None of them tests a private household's drinking water.
 
 **Applied**
 
@@ -49,44 +51,49 @@ Four offices have a say in this house's water, and each one reaches a different 
 | The fire reserve | The rural fire protection district or the county fire marshal | The reserve volume, the draft connection and the apparatus pad |
 | Stored drinking water | A laboratory, on the owner's schedule | Whether the train is holding |
 
-1. Apply for the DEQ greywater general permit before the diverter valve goes in, and for the plumbing permit with it.
-2. Register any heat-pump return well with DEQ's underground injection control program before it is drilled, and get OWRD's injection-well approval first.
-3. Route softener brine, reverse-osmosis reject and filter backwash to the septic system through an indirect waste.
-4. Send cistern overflow and first-flush water to the site's swales or rain gardens, away from the foundation and the drainfield.
-5. Ask the fire district in writing what reserve volume and draft connection it expects, before the tank is sized.
+1. Get the DEQ greywater permit and the plumbing permit before the diverter valve goes in.
+2. Register any heat-pump return well with DEQ before drilling it.
+3. Route brine, reverse-osmosis reject and backwash to the septic system through an indirect waste.
+4. Discharge cistern overflow to a swale or rain garden away from the foundation.
+5. Get the fire district's reserve volume and draft connection in writing before sizing the tank.
 6. Keep the OWRD well filing, the DEQ permits and the district's letter in the binder.
 
 **Professional**
 
-The land chapter states the water-rights side: the household well's domestic exemption and its categories, the rooftop exemption, the spring and pond rules, the critical-area map and the driller's filing. Combining a well, a roof and a spring on one parcel adds no filing, because each source keeps its own rule.
+Water rights are stated in the land chapter, which covers the well's domestic exemption, the rooftop exemption, springs and ponds, the critical-area map and the driller's filing. Combining a well, a roof and a spring on one parcel adds no filing, because each source keeps its own rule.
 
-Cistern overflow and first-flush water are roof runoff returned to the ground, outside the water-rights system and outside DEQ's wastewater rules, and the site's drainage features receive them. Softener brine and reverse-osmosis reject are concentrated waste streams. The plumbing code routes them to the drainage system through an air gap at an indirect waste, and a discharge to the ground that could reach waters of the state falls under DEQ's water-quality jurisdiction. Spent carbon from a radon bed collects radon decay products and leaves the property as low-level radioactive waste.
+Cistern overflow and first-flush water are roof runoff returned to the ground. They sit outside the water-rights system and outside DEQ's wastewater rules, and the site's drainage features receive them. Softener brine and reverse-osmosis reject are concentrated waste streams. Under the plumbing code they reach the drainage system through an air gap at an indirect waste. A discharge to the ground that could reach waters of the state falls under DEQ's water-quality jurisdiction. Spent carbon from a radon bed collects radon decay products and leaves the property as low-level radioactive waste.
 
-A private household's well is outside the Oregon Health Authority's drinking-water rules, which govern public water systems. The owner's own laboratory schedule stands in for the state's.
+Oregon Health Authority's drinking-water rules govern public water systems, and a private household's well sits outside them. The owner's own laboratory schedule takes its place.
 
 ## 18.3 Open-loop ground-source heat and the water it moves
 
 **Simple**
 
-Pumping groundwater through a heat pump counts as taking water, even though it goes back in the ground. A closed loop never takes any: the same antifreeze circles through buried pipe for decades, and the state treats the hole as a boring. An open loop pulls real well water through the heat exchanger and must put it back down a second well. That second well is an injection well, which the environmental quality office registers. Which exemption covers the water, and whether it counts against the household's daily allowance, the water office answers in writing. The closed loop is this house's default, and the open loop waits for a site with plenty of clean groundwater.
+Pumping groundwater through a heat pump counts as taking water, even though it goes back in the ground. A closed loop never takes any. Its antifreeze circles through buried pipe for decades, and the state treats the hole as a boring. An open loop pulls real well water through the heat exchanger and must put it back down a second well. That second well is an injection well, and DEQ registers it. The water office answers in writing which exemption covers the water, and whether it counts against the household's daily allowance. In this house the closed loop is the default. An open loop waits for a site with plenty of clean groundwater.
 
 **Applied**
 
-1. Default to a closed loop, and reconsider the open loop only where the well log shows a high-yield, clean aquifer.
-2. Before sizing an open loop, calculate its daily withdrawal: gallons per minute times the hours it runs times 60.
-3. Ask OWRD in writing which exemption covers the withdrawal and whether it counts against the household's domestic cap.
-4. Register the return well with DEQ's underground injection control program and obtain written approval before drilling.
-5. Have the well constructor request OWRD's approval of the injection well's design and receiving formation.
-6. Design the return to the same aquifer, and ask DEQ whether the pollution-control permit is waived for it.
-7. File the OWRD letter, the DEQ registration and the approvals in the binder.
+1. Default to a closed loop.
+2. Reconsider an open loop only where the well log shows a clean, high-yield aquifer.
+3. Calculate an open loop's daily withdrawal, gallons per minute times running hours times 60.
+4. Ask OWRD in writing which exemption covers the withdrawal.
+5. Ask whether it counts against the household's domestic cap.
+6. Register the return well with DEQ's injection control program before drilling.
+7. Have the well constructor request OWRD's approval of the injection well's design and receiving formation.
+8. Return the water to the same aquifer.
+9. Ask DEQ whether the pollution-control permit is waived for that return.
+10. File the OWRD letter, the DEQ registration and the approvals in the binder.
 
 **Professional**
 
-An open-loop heat pump appropriates groundwater, so it needs a water right or an exemption. ORS 537.545 lists down-hole heat exchange as its own exempt category with no gallon cap, beside the domestic category and the industrial and commercial category. OWRD's handout Exempt Water Uses in Oregon describes that category as "an open loop heat exchange hole to provide source heat" and states that each exemption is separate and one well may serve several exempt uses. OWRD's low-temperature geothermal rule puts household heating and cooling inside the domestic exemption, under the domestic cap, and ORS 537.515 defines groundwater used for its heat from a well with a bottom-hole temperature under 250 F as geothermal fluid. Which accounting OWRD applies to a system that withdraws from one well and reinjects through another, and whether that water counts against the household's domestic cap, is settled with OWRD before the system is sized.
+An open-loop heat pump appropriates groundwater, so it needs a water right or an exemption. ORS 537.545 lists down-hole heat exchange as its own exempt category with no gallon cap, beside the domestic category and the industrial and commercial category. OWRD's handout Exempt Water Uses in Oregon describes that category as "an open loop heat exchange hole to provide source heat". It also states that each exemption is separate and one well may serve several exempt uses.
 
-The return well is a Class V injection well under DEQ's underground injection control program, delegated from EPA in 1984 and run under OAR chapter 340, division 44. A heat-pump return well that puts the water back into the supply aquifer after non-contact use is authorized by rule once it is registered with its inventory information. Reinjection also takes OWRD's approval of the well and a DEQ pollution-control permit, which DEQ may waive by agreement for water returned uncontaminated to the aquifer it came from. Discharging to daylight or a drainfield instead avoids the injection well and raises a surface-discharge question in its place, with the withdrawal question unchanged.
+OWRD's low-temperature geothermal rule puts household heating and cooling inside the domestic exemption, under the domestic cap. ORS 537.515 defines groundwater used for its heat, from a well with a bottom-hole temperature under 250 F, as geothermal fluid. How OWRD accounts for a system that withdraws from one well and reinjects through another is settled with OWRD before the system is sized.
 
-A closed loop exchanges heat through sealed pipe, appropriates no water and is regulated as a boring. Its ground loop is reported to last 25 to 30 years, and the buried pipe longer, by Energy Vanguard and GreenBuildingAdvisor, where an open loop on poor water may last 10 to 15 years. The HVAC chapter carries the ground-loop equipment, the cost comparison and the injection-well approval entries, and treats the open loop as a conditional path.
+Under DEQ's underground injection control program, delegated from EPA in 1984 and run under OAR chapter 340, division 44, the return well is a Class V injection well. A heat-pump return well needs no individual permit once DEQ holds its registration and inventory information. The condition is that the water goes back to the aquifer it came from, having only exchanged heat. Reinjection also takes OWRD's approval of the well and a DEQ pollution-control permit. DEQ may waive that permit by agreement for water returned uncontaminated to the aquifer it came from. Discharging to daylight or a drainfield instead avoids the injection well and raises a surface-discharge question in its place, with the withdrawal question unchanged.
+
+By contrast a closed loop exchanges heat through sealed pipe, appropriates no water and is regulated as a boring. Energy Vanguard and GreenBuildingAdvisor put a closed ground loop's life at 25 to 30 years, with the buried pipe lasting longer. By the same two sources an open loop on poor water lasts 10 to 15 years. Ground-loop equipment, the cost comparison and the injection-well approval entries are stated in the HVAC chapter, which treats the open loop as a conditional path.
 
 **Code**
 
@@ -108,7 +115,7 @@ Reinjection needs a DEQ permit unless DEQ waives it.
 
 **Simple**
 
-Rain picks up whatever is on your roof, so the roof is the first piece of the water system. A smooth surface sheds nearly all of its rain into the gutters, and a rough or porous one loses a tenth to evaporation and texture. The material matters more for what it adds. Bare galvanized metal and a rubber membrane shed zinc into the water. Concrete and a white plastic membrane shed almost nothing and leave the water slightly alkaline, which suits rain that arrives acidic. Asphalt shingles leach tar compounds and never feed a drinking-water system. On a new concrete roof the first winters' runoff runs alkaline until the surface weathers.
+Rain picks up whatever is on your roof, so the roof is the first piece of the water system. Smooth surfaces shed nearly all of their rain into the gutters. Rough or porous ones lose a tenth to evaporation and texture. What the material adds matters more. Bare galvanized metal and rubber membranes shed zinc into the water. Concrete and white plastic membranes shed almost nothing, and they leave the water slightly alkaline, which suits rain that arrives acidic. Asphalt shingles leach tar compounds and never feed a drinking-water system. On a new concrete roof the first winters' runoff runs alkaline until the surface weathers.
 
 **Applied**
 
@@ -123,37 +130,43 @@ Rain picks up whatever is on your roof, so the roof is the first piece of the wa
 | PVC membrane | None | Arsenic | Nonpotable |
 | Asphalt or composite shingle | About a tenth | Tar compounds and the toxic components the Texas manual names | Never |
 
-1. Choose the catchment surface from the table above: concrete, a TPO membrane without brominated flame retardant, or painted metal.
-2. Rule out asphalt shingle, bare Galvalume or galvanized steel, and EPDM for any water people will drink.
+1. Choose concrete, TPO without brominated flame retardant, or painted metal from the table above.
+2. Rule out asphalt shingle, bare galvanized metal and EPDM for water people will drink.
 3. Keep copper flashing, copper gutters and lead solder off any roof that feeds the tank.
-4. Set the gutters tight to the eave edge so the roof's runoff lands in them, and size the valleys for their combined flow.
-5. Fit snow stops where the roof carries a design snow load, so snow melts in place and reaches the gutters.
-6. Test the runoff pH of a new concrete roof monthly through its first wet season and record it.
-7. Record the roof material, its coating and the date in the binder, because the treatment train is designed to it.
+4. Set the gutters tight to the eave edge so the runoff lands in them.
+5. Size each valley for the combined flow of the two slopes it drains.
+6. Fit snow stops on a roof built for snow, so the melt reaches the gutters.
+7. Test and record a new concrete roof's runoff pH monthly through its first wet season.
+8. Record the roof material, its coating and the date in the binder.
 
 **Professional**
 
-Rain arrives acidic, and acid dissolves the zinc of a galvanic coating. The Washington State Department of Ecology's Roofing Materials Assessment (publication 14-03-033, the second round, 20 rain events on 4-by-8-foot pilot panels) measured Puget Sound rain off a glass control at pH 4.6 to 5.2, and found zinc elevated off Zincalume, painted galvanized and EPDM panels. Concrete tile released no metal or organic compound above the control, because the calcium and magnesium in the matrix neutralize the rain. The same chemistry means a new cast concrete surface leaches lime for its first years, since the interior of concrete sits at pH 12.5 to 13.9 and the surface carbonates only as rain and carbon dioxide convert the calcium hydroxide to carbonate. A sealer flattens that trajectory to an inert surface's and gives up the buffer with it.
+Rain arrives acidic, and acid dissolves the zinc of a galvanic coating. The Washington State Department of Ecology's Roofing Materials Assessment (publication 14-03-033, its second round) measured 20 rain events on 4-by-8-foot pilot panels. Puget Sound rain came off a glass control at pH 4.6 to 5.2. Zinc ran elevated off Zincalume, painted galvanized and EPDM panels. Concrete tile released no metal or organic compound above the control, because the calcium and magnesium in the matrix neutralize the rain.
 
-The Texas Water Development Board's Texas Manual on Rainwater Harvesting (third edition, 2005) recommends plain galvanized or painted metal for potable systems, docks tile and composite roofs a tenth for texture and evaporation, and rules composite shingles out of potable service for the toxins they leach. No study measured a flat cast-in-place concrete roof's coefficient, so the band in the table is an interpolation between metal and tile, confirmed against the finished surface.
+That same chemistry makes a new cast concrete surface leach lime for its first years. Inside, concrete sits at pH 12.5 to 13.9, and its surface carbonates only as rain and carbon dioxide convert the calcium hydroxide to carbonate. A sealer flattens that trajectory to an inert surface's and gives up the buffer with it.
 
-Bermuda's roofs have been catchments by law for a century, and their detailing carries over without the limestone. The surface is smooth, white and sealed, renewed with lime wash on a schedule. The water-catching glides sit close to the roof edge, where the Bermuda Residential Building Code of 2014 targets 80 percent capture. Stepped slopes slow the water toward the collection points, and the roof is maintained as a water-supply component. Snow on the roof is already in the station's precipitation normal as water equivalent, and it sublimates, blows off or melts while the hardware is frozen, so snowmelt is treated as an occasional supplement and never as design supply.
+In the Texas Water Development Board's Texas Manual on Rainwater Harvesting (third edition, 2005), plain galvanized or painted metal is the recommended potable surface. Tile and composite roofs are docked a tenth for texture and evaporation, and composite shingles are ruled out of potable service for the toxins they leach. For a flat cast-in-place concrete roof the table's band is an interpolation between metal and tile, confirmed against the finished surface.
 
-[FIGURE: catchment-train, roof to tank: gutter, screen, vortex filter, first-flush standpipe, inlet, overflow]
+Bermuda's roofs have been catchments by law for a century, and their detailing carries over without the limestone. Each surface is smooth, white and sealed, renewed with lime wash on a schedule. Glides sit close to the roof edge, where the Bermuda Residential Building Code of 2014 targets 80 percent capture. Stepped slopes slow the water toward the collection points, and the roof is maintained as a water-supply component.
+
+Snow on the roof is already in the station's precipitation normal as water equivalent. It sublimates, blows off or melts while the hardware is frozen, so snowmelt counts as an occasional supplement and never as design supply.
+
+[FIGURE: catchment-train, roof to tank with gutter, screen, vortex filter, first-flush standpipe and overflow]
 
 ## 18.5 Gutters, screens and the first flush
 
 **Simple**
 
-Everything that lands on the roof over a dry Oregon summer comes down the gutter in the first storm of October: needles, pollen, dust and bird droppings. A first-flush diverter is a tall pipe that fills with that first dirty water and holds it until the rain has rinsed the roof, and only then does the flow reach the tank. Under fir trees, a fine mesh over the gutter keeps the needle mat out, and the gutter still needs clearing before and after the first big storms. Any pipe that holds standing water in winter has to drain before a hard freeze, or ice splits it.
+Everything that lands on the roof over a dry Oregon summer comes down the gutter in the first storm of October. Needles, pollen, dust and bird droppings all arrive at once. A first-flush diverter is a tall pipe that fills with that first dirty water and holds it. Only once the rain has rinsed the roof does the flow reach the tank. Under fir trees, a fine mesh over the gutter keeps the needle mat out. Even then the gutter needs clearing before and after the first big storms. Any pipe that holds standing water in winter must drain before a hard freeze, or ice splits it.
 
 **Applied**
 
-- Pull the 5-minute, 100-year rainfall intensity for the parcel from NOAA Atlas 14, and size gutters and downspouts to it with the roof's horizontal area.
-- Hang seamless aluminum gutters, half-round or K-style, and leave vinyl off the house.
-- Set hidden hangers at 24 inches, closed up to 18 inches where the roof carries a design snow load, within the hanger maker's instructions.
+- Pull the 5-minute, 100-year rainfall intensity for the parcel from NOAA Atlas 14.
+- Size the gutters and downspouts to that intensity over the roof's horizontal area.
+- Hang one-piece aluminum gutters, half-round or K-style, and leave vinyl off the house.
+- Set hidden hangers at 24 inches, or 18 inches under a design snow load.
 - Cover the gutters with micro-mesh guards on rigid aluminum frames where conifers overhang.
-- Sweep the mesh each season, and look at it before and after the first big storms of autumn.
+- Sweep the mesh each season, and inspect it before and after the first autumn storms.
 - Pitch every gutter and downspout to drain, so no standing water is left to freeze.
 
 | Stage | What it removes | Price |
@@ -165,15 +178,21 @@ Everything that lands on the roof over a dry Oregon summer comes down the gutter
 
 ### Sizing the first-flush diverter
 
-1. Start at 10 to 20 gallons per 1,000 square feet of roof footprint, toward 20 under conifers and after a dry summer.
-2. Multiply by the roof footprint: 2,000 square feet at 15 gallons per 1,000 is 30 gallons.
-3. Divide by the pipe's volume per foot: 0.36 gallons for 3-inch PVC, 0.67 for 4-inch, 1.5 for 6-inch.
-4. Where the length is impractical, 45 feet of 4-inch pipe for 30 gallons, use 6-inch pipe, several standpipes in parallel or a manufactured chamber.
-5. Drill the bleed hole small enough to drain the standpipe between storms and not during one, and give it a reachable cleanout cap.
-6. Before the first autumn storm, rinse the roof and gutters with a hose and hold that storm's flow out of the tank by hand.
-7. Pull the cleanout cap after each storm in the first weeks of the wet season, and clear the orifice.
-8. Run the diverted water to a swale or rain garden downslope, clear of the foundation, the drainfield and any bed grown for raw eating.
-9. Before a hard freeze, drain the standpipe and any exposed run, and leave them drained at a foothill site until spring.
+1. Allow 10 to 20 gallons per 1,000 square feet of roof, more under conifers.
+2. Multiply by the footprint. At 15 gallons per 1,000, a 2,000-square-foot roof needs 30 gallons.
+3. Divide by the pipe's volume per foot.
+4. That is 0.36 gallons a foot for 3-inch PVC, 0.67 for 4-inch and 1.5 for 6-inch.
+5. For 30 gallons, 45 feet of 4-inch pipe is impractical.
+6. Use 6-inch pipe, several standpipes in parallel, or a manufactured chamber.
+7. Drill the bleed hole to empty the standpipe between storms, not during one.
+8. Give the standpipe a cleanout cap you can reach from the ground.
+9. Before the first autumn storm, rinse the roof and gutters with a hose.
+10. Hold that first storm's flow out of the tank by hand.
+11. After each early-season storm, pull the cleanout cap and clear the orifice.
+12. Run the diverted water downslope to a swale, clear of the foundation and drainfield.
+13. Keep it off any bed grown for raw eating.
+14. Before a hard freeze, drain the standpipe and any exposed run.
+15. At a foothill site, leave them drained until spring.
 
 | Diverter | How it works | What fails | The fix |
 |---|---|---|---|
@@ -183,50 +202,60 @@ Everything that lands on the roof over a dry Oregon summer comes down the gutter
 
 **Professional**
 
-The volume a roof needs flushed depends on the days since the last rain, the debris load, the tree overhang, the roof's slope and smoothness and the storm's intensity, which is why the Texas Water Development Board's manual gives a range rather than a formula. Its rule of thumb is a minimum of 10 gallons per 1,000 square feet, and it reports an Australian component vendor's recommendation of 13 to 49 gallons. It takes about 0.1 inch of rain an hour to wash a sloped roof and 0.18 inch to wash a flat one. The Washington Ecology study found metal concentrations in roof runoff rising with the length of the dry spell before the storm and falling with the storm's total and intensity. A diverter sized for the October storm wastes water all winter, and one sized for a rinsed January roof under-diverts in October, so the fixed standpipe is sized for ordinary winter storms and the first autumn storm is held out by hand.
+How much a roof needs flushed depends on the days since the last rain, the debris load, the tree overhang, the roof's slope and the storm's intensity. For that reason the Texas Water Development Board's manual gives a range rather than a formula. Its rule of thumb is a minimum of 10 gallons per 1,000 square feet, and it reports an Australian component vendor's recommendation of 13 to 49 gallons. Washing a sloped roof takes about 0.1 inch of rain an hour, and a flat one 0.18 inch. In the Washington Ecology study, metal concentrations in runoff rose with the length of the dry spell before a storm and fell with the storm's total and intensity.
 
-The standpipe diverter and the vortex filter do different work in series. The vortex separates particles continuously through a vertical stainless screen and sends the dirt fraction out its bottom outlet, and Rainwater Management Solutions' data for the WISY unit gives a design flow near 2.78 liters a second at average intensity. The diverter removes the first volume of a storm whatever its particle size. A bleed orifice of 0.25 millimeters passes about 80 milliliters a minute and one of 2 millimeters about 845, by NTO Tank's product blog, which sets how fast a standpipe empties between storms.
+Sized for the October storm, a diverter wastes water all winter. Sized for a rinsed January roof, it under-diverts in October. For that reason the fixed standpipe is sized for ordinary winter storms, and the first autumn storm is held out by hand.
 
-For a potable train the Texas manual bars lead solder, which older metal gutters sometimes carry and which acidic rain dissolves, and notes that copper flashing discolors fixtures. Half-round PVC, seamless aluminum and galvanized steel without lead solder are its conveyance materials. Gutter Empire, a Portland-area gutter company, reports vinyl embrittling and cracking under Oregon's sun and cold, and American Gutter Service describes conifer needles as the debris most guard styles fail on, with micro-mesh on a rigid frame as the exception. A needle mat on a guard sheets water off the roof past the gutter, and the fines that do pass raise the load on the diverter, the cartridges and the ultraviolet sleeve.
+Standpipe diverter and vortex filter do different work in series. The vortex separates particles continuously through a vertical stainless screen and sends the dirt fraction out its bottom outlet. Rainwater Management Solutions' data for the WISY unit gives a design flow near 2.78 liters a second at average intensity. The diverter removes the first volume of a storm whatever its particle size. By NTO Tank's product blog, a bleed orifice of 0.25 millimeters passes about 80 milliliters a minute and one of 2 millimeters about 845. That rate sets how fast a standpipe empties between storms.
 
-Gutter and downspout capacity is sized to the design intensity times the horizontally projected roof area. NOAA Atlas 14's Precipitation Frequency Data Server returns point estimates by coordinates for durations from 5 minutes to 60 days, and the National Weather Service's Atlas 14 job sheet puts Portland's 5-minute, 100-year intensity near 2.5 inches an hour against more than 8 on the Gulf Coast, so a national default oversizes western Oregon's downspouts. The soil chapter sizes the swale or rain garden the diverted water reaches.
+For a potable train the Texas manual bars lead solder, which older metal gutters sometimes carry and acidic rain dissolves, and it notes that copper flashing discolors fixtures. Half-round PVC, continuous aluminum and galvanized steel without lead solder are its conveyance materials. Gutter Empire, a Portland-area gutter company, reports vinyl embrittling and cracking under Oregon's sun and cold. American Gutter Service describes conifer needles as the debris most guard styles fail on, with micro-mesh on a rigid frame as the exception. On a guard, a needle mat sheets water off the roof past the gutter. Fines that do pass raise the load on the diverter, the cartridges and the ultraviolet sleeve.
+
+Gutter and downspout capacity follows the design intensity times the horizontally projected roof area. NOAA Atlas 14's Precipitation Frequency Data Server returns point estimates by coordinates for durations from 5 minutes to 60 days. By the National Weather Service's Atlas 14 job sheet, Portland's 5-minute, 100-year intensity is near 2.5 inches an hour, against more than 8 on the Gulf Coast, so a national default oversizes western Oregon's downspouts. Swales and rain gardens that take the diverted water are sized in the soil chapter.
 
 ## 18.6 How much water the roof gives and the house needs
 
 **Simple**
 
-Two sums decide the tank's size, and in western Oregon the second one sets it. The first sum is supply: the roof's area, the year's rain and how much of it reaches the tank. The second is demand: gallons a day for the household, multiplied by the days from the last spring rain to the first autumn one. A roof of ordinary size catches more rain in a year than a family uses. Nearly all of it falls between October and April, and the tank has to carry the rest of the year. An inch of rain on 1,000 square feet of roof is 620 gallons before losses.
+In western Oregon the second of two sums sets the tank's size. Supply comes first, from the roof's area, the year's rain and how much of it reaches the tank. Demand comes second, from gallons a day for the household times the days from the last spring rain to the first autumn one. A roof of ordinary size catches more rain in a year than a family uses. Nearly all of it falls between October and April, and the tank has to carry the rest of the year. One inch of rain on 1,000 square feet of roof is 620 gallons before losses.
 
 **Applied**
 
-1. Pull the monthly precipitation normals for the nearest station from NOAA's Climate Normals Quick Access, and cross-check a rural parcel with PRISM.
-2. Count the driest consecutive stretch in days, June through September in most of Oregon.
-3. Measure the roof's horizontal footprint in square feet, eave to eave.
-4. Multiply footprint by annual inches by 0.62 by 0.80 for the year's harvest in gallons.
-5. Build indoor demand from the fixture list, 35 to 50 gallons a person a day with low-flow fixtures and a composting toilet.
-6. Add the summer irrigation and any livestock draw as separate lines.
-7. Multiply the daily total by the dry-stretch days for the storage the dry season needs.
-8. Check that the wet-season harvest refills that volume before June.
-9. Add a margin for a second dry winter from the basin's Drought Monitor record.
-10. Compare the result with 8 to 15 gallons per square foot of roof, the island codes' ratios, as an upper bound.
-11. Price the next 1,000 gallons of storage against the days it buys, and stop where the price per added day is no longer worth it.
-12. Record the inputs, the date and the result in the binder, and rerun the sums when the roof plan changes.
+1. Pull the monthly precipitation normals for the nearest station from NOAA's Climate Normals Quick Access.
+2. Cross-check a rural parcel against PRISM's gridded data.
+3. Count the driest consecutive stretch in days, June through September in most of Oregon.
+4. Measure the roof's horizontal footprint in square feet, eave to eave.
+5. Multiply footprint by annual inches by 0.62 by 0.80 for the year's harvest in gallons.
+6. Build indoor demand from the fixture list.
+7. With low-flow fixtures and a composting toilet, plan on 35 to 50 gallons a person a day.
+8. Add the summer irrigation and any livestock draw as separate lines.
+9. Multiply the daily total by the dry-stretch days for the storage the dry season needs.
+10. Check that the wet-season harvest refills that volume before June.
+11. Add a margin for a second dry winter from the basin's Drought Monitor record.
+12. Check the total against the island ratios, 8 to 15 gallons per square foot of roof.
+13. Price each added 1,000 gallons against the days it buys.
+14. Stop adding volume where the price per added day is too high.
+15. Record the inputs, the date and the result in the binder.
+16. Rerun the sums when the roof plan changes.
 
-Worked with example inputs, a 2,000-square-foot footprint under 40 inches of rain gives 2,000 times 40 times 0.62 times 0.80, which is 39,680 gallons a year. Four people at 45 gallons a day draw 180 gallons a day, and 120 dry days take 21,600 gallons before irrigation. The island ratios put the same roof between 16,000 and 30,000 gallons. The parcel's own normals and the house's own fixture list replace the example figures.
+Worked with example inputs, a 2,000-square-foot footprint under 40 inches of rain gives 2,000 times 40 times 0.62 times 0.80, or 39,680 gallons a year. Four people at 45 gallons a day draw 180 gallons a day. Over 120 dry days that is 21,600 gallons before irrigation. For the same roof, the island ratios give 16,000 to 30,000 gallons. The parcel's own normals and the house's own fixture list replace the example figures.
 
 **Professional**
 
-The demand calculation binds in western Oregon because the two sums answer different questions. The supply sum catches a roof too small or a sky too dry to collect a year's water, and even a modest roof clears that test here. The demand sum catches rain that falls in the wrong months, and that is the Oregon case: the cistern bridges a summer with close to zero input, so stored volume rather than annual harvest is the design number. The Texas manual's volumetric constant is 0.62 gallons per square foot per inch of rain, and it states that most installers assume a collection efficiency of 75 to 90 percent, with 85 percent in its own worked balances. This plan uses 0.80 because an active first-flush diverter and a vortex filter divert more than a bare barrel does, and 0.75 where the diversion is generous.
+Demand binds in western Oregon because the two sums answer different questions. Supply catches a roof too small or a sky too dry to collect a year's water, and even a modest roof clears that test here. Demand catches rain that falls in the wrong months, and that is the Oregon case. Because the cistern bridges a summer with close to zero input, stored volume rather than annual harvest is the design number.
 
-The per-person figure is built from the fixtures, because the national average is the wrong number. EPA WaterSense puts the average American's use at 82 gallons a day at home, with outdoor use above 30 percent of the household total on average. Low-flow fixtures and a toilet that uses no water take the indoor figure down to the planning band in the steps, and summer irrigation is the discretionary draw that drives the dry-season total.
+In the Texas manual the volumetric constant is 0.62 gallons per square foot per inch of rain, and most installers assume a collection efficiency of 75 to 90 percent, with 85 percent in its own worked balances. This plan uses 0.80, because an active first-flush diverter and a vortex filter divert more than a bare barrel does, and 0.75 where the diversion is generous.
 
-Imteaz, Ahsan, Naser and Rahman (2011) ran a daily water balance for Melbourne, a dry-summer climate comparable to western Oregon's, and found a two-person household fully reliable on a roof of 150 to 300 square meters with a tank of 5,000 to 10,000 liters, while a four-person household fell short of full reliability even at 300 square meters and 10,000 liters. The University of Washington's cistern design manual gives a starting rule of one-third of the annual harvest as tank volume, with the caveat that water sitting in rarely turned volume degrades. The U.S. Virgin Islands Code requires 10 gallons of cistern per square foot of roof for a one-story dwelling and 15 for two or more stories, and Bermuda's code 8, but both are written for year-round rain with short gaps, so they serve here as a ceiling check and never as the sizing rule. The multi-year margin comes from the U.S. Drought Monitor's time series and NOAA NCEI's station record for the basin, read for consecutive below-normal winters, since a dry winter leaves the tank less than full at the start of a dry summer.
+Per-person demand is built from the fixtures, because the national average is the wrong number. EPA WaterSense puts the average American's use at 82 gallons a day at home, with outdoor use above 30 percent of the household total on average. Low-flow fixtures and a toilet that uses no water bring the indoor figure down to the planning band in the steps. Summer irrigation is the discretionary draw that drives the dry-season total.
+
+Imteaz, Ahsan, Naser and Rahman (2011) ran a daily water balance for Melbourne, a dry-summer climate comparable to western Oregon's. There a two-person household reached full reliability on a roof of 150 to 300 square meters with a tank of 5,000 to 10,000 liters. Four people fell short of full reliability even at 300 square meters and 10,000 liters. As a starting rule, the University of Washington's cistern design manual gives one-third of the annual harvest as tank volume, with the caveat that water sitting in rarely turned volume degrades.
+
+Island codes give a ceiling rather than a rule. The U.S. Virgin Islands Code requires 10 gallons of cistern per square foot of roof for a one-story dwelling and 15 for two or more stories, and Bermuda's code 8. Both are written for year-round rain with short gaps, so here they serve as a check and never as the sizing rule. For the multi-year margin, the U.S. Drought Monitor's time series and NOAA NCEI's station record for the basin are read for consecutive below-normal winters, since a dry winter leaves the tank less than full when the dry summer starts.
 
 ## 18.7 Choosing the tank: material, number and place
 
 **Simple**
 
-A buried concrete tank is the one that fits a house meant to stand for centuries. Plastic tanks flex under the soil and float up out of wet ground, steel rusts from the outside, and concrete sits still under its own weight. Concrete's weakness is that it is porous, so the inside gets a lining fit for drinking water. You can pour the tank with the same forms and the same crew as the foundation. Two smaller tanks let you drain and scrub one while the other keeps the house supplied. Below the frost line, on a bed of gravel, the water never freezes and the ground under it never heaves.
+A buried concrete tank is the one that fits a house meant to stand for centuries. Plastic tanks flex under the soil and float up out of wet ground. Steel rusts from the outside. Concrete sits still under its own weight. Its weakness is that it is porous, so the inside gets a lining fit for drinking water. You can pour the tank with the same forms and the same crew as the foundation. Two smaller tanks let you drain and scrub one while the other keeps the house supplied. Below the frost line, on a bed of gravel, the water never freezes and the ground under it never heaves.
 
 **Applied**
 
@@ -239,68 +268,87 @@ A buried concrete tank is the one that fits a house meant to stand for centuries
 | Fiberglass | As poly | Needs engineered backfill within the maker's burial limit | Above poly |
 | Ferrocement | Decades, with maintenance | A thin shell that mesh corrosion limits | Low material, high skilled labor |
 
-1. Size the tank first, then choose the material, because the volume decides whether precast can be delivered.
-2. Pour cast-in-place concrete where the volume passes 5,000 gallons or the driveway cannot take a crane truck.
-3. Split the volume into two manifolded tanks, so one can be drained and cleaned while the other supplies the house.
-4. Bury the tank with its base below the county's frost depth, on compacted free-draining gravel, or on an insulated pad.
-5. Design the empty tank against flotation with dead weight, anchors or a relief detail where groundwater can rise around it.
-6. Keep the tank out of the foundation footprint unless the passive scheme uses the stored water as thermal mass and the engineer designs the shared wall.
-7. Where it does share a wall, waterproof both faces and keep the footing drain from draining the tank.
-8. Set the tank where a gravity line can reach one indoor tap, uphill of the house or on a bermed pad.
-9. Build the top as part of the tank, a roof or dome cast with the walls, never a loose lid.
+1. Size the tank first, since the volume decides whether precast can be delivered.
+2. Pour cast-in-place concrete above 5,000 gallons, or wherever the driveway cannot take a crane truck.
+3. Split the volume into two manifolded tanks.
+4. Then one can be drained and cleaned while the other supplies the house.
+5. Bury the base below the county's frost depth, on compacted gravel or an insulated pad.
+6. Hold the empty tank down against groundwater with dead weight, anchors or a relief detail.
+7. Keep the tank out of the foundation footprint unless its water serves as thermal mass.
+8. Where it shares a foundation wall, waterproof both faces.
+9. Keep the footing drain from draining the tank.
+10. Place the tank uphill of the house or on a berm, where gravity reaches one tap.
+11. Cast the top with the walls as a roof or dome, never a loose lid.
 
 **Professional**
 
-Dorothy Ainsworth's 12-by-12-by-6-foot tank of 6,500 gallons, with 8-inch walls and floor in a 1:3:5 mix, forms of 5/8-inch plywood on 2-by-4 frames and a troweled cement-based interior coating, cost $750 in 1983 and $1,500 at the 2006 prices of her Backwoods Home article. Manufactured tanks before installation run $1,100 to $6,800 in concrete and $800 to $6,000 in polyethylene, and a professionally installed buried concrete cistern above 5,000 gallons runs $17,000 to $21,000 with excavation and backfill, by AquaBarrel's cost page and Design Transition Studio's price survey. What the owner-pour does not buy is the engineering for the burial depth and soil load, a controlled cure, a tested tightness standard and the potable-contact certification of every lining and sealant, and those are added back by design, by the tightness test and by the listing of each product.
+Dorothy Ainsworth's 12-by-12-by-6-foot tank of 6,500 gallons has 8-inch walls and floor in a 1:3:5 mix, poured in forms of 5/8-inch plywood on 2-by-4 frames, with a troweled cement-based interior coating. It cost $750 in 1983 and $1,500 at the 2006 prices of her Backwoods Home article. Manufactured tanks before installation run $1,100 to $6,800 in concrete and $800 to $6,000 in polyethylene, by AquaBarrel's cost page and Design Transition Studio's price survey. Those two put a professionally installed buried concrete cistern above 5,000 gallons at $17,000 to $21,000 with excavation and backfill.
 
-Clark Tanks and Team Poly, two Australian tank makers, list the case for several tanks: isolation, so one tank with a dead animal in its inlet or a crack in its wall is drained without losing the reserve, redundancy with no utility behind the house, and growth in stages. One tank is cheaper per gallon below about 25,000 gallons and takes less pipe. For an owner pouring concrete, two tanks also mean two placements of a size one crew can manage.
+What the owner-pour does not buy is the engineering for the burial depth and soil load, a controlled cure, a tested tightness standard and the potable-contact certification of every lining and sealant. Each of those is added back, by design, by the tightness test and by the listing of each product.
 
-Stored water loses heat into the ground, which can thaw and destabilize the soil under a shallow tank, so the cold-climate guidance from AquaBarrel and the permies.com cold-climate thread puts a tank on free-draining gravel or an insulated pad and buries it fully where winters are hard. Free-draining gravel holds none of the water that frost heave needs. The county's frost depth sets the burial, and the plumbing water-supply chapter carries the depths by elevation.
+Clark Tanks and Team Poly, two Australian tank makers, list the case for several tanks. One tank with a dead animal in its inlet or a crack in its wall is drained without losing the reserve. With no utility behind the house, the second tank is the redundancy, and the volume can grow in stages. Below about 25,000 gallons one tank is cheaper per gallon and takes less pipe. For an owner pouring concrete, two tanks also mean two placements of a size one crew can manage.
 
-A tank inside the foundation footprint couples the stored water to the house's thermal mass. Water's specific heat is 1 BTU per pound per degree Fahrenheit and ordinary concrete's is near 0.2, so a vault of water inside the envelope damps interior swings more than the same volume of concrete. That benefit is the only one that pays for the complexity, because burial below frost gives the freeze protection on its own. The vault is a water-retaining structure loaded from inside when full and from the soil when empty, designed to the liquid-tight concrete standard with both faces waterproofed and its own base slab, and the soil chapter states what it does to the foundation's drainage, its flotation case and its pour order.
+Stored water loses heat into the ground, which can thaw and destabilize the soil under a shallow tank. Cold-climate guidance from AquaBarrel and the permies.com cold-climate thread puts a tank on free-draining gravel or an insulated pad and buries it fully where winters are hard. Free-draining gravel holds none of the water that frost heave needs. Burial depth follows the county's frost depth for the parcel's elevation.
 
-The ab anbar, the covered cistern of arid Persia, was built below ground to resist the water's outward push and the earthquakes of the Iranian plateau, roofed with a massive dome ventilated by wind-catcher shafts, and lined with a dedicated impermeable render. Each of those three choices is the modern detail by another route: a buried shell, an integral roof with a screened vent, and a lining separate from the structural wall.
+Inside the foundation footprint, a tank couples the stored water to the house's thermal mass. Water's specific heat is 1 BTU per pound per degree Fahrenheit and ordinary concrete's is near 0.2, so a vault of water inside the envelope damps interior swings more than the same volume of concrete. That benefit is the only one that pays for the complexity, because burial below frost gives the freeze protection on its own.
+
+Such a vault is a water-retaining structure, loaded from inside when full and from the soil when empty, designed to the liquid-tight concrete standard with both faces waterproofed and its own base slab. What it does to the foundation's drainage, its flotation case and its pour order is stated in the soil chapter.
+
+Persia's ab anbar, a covered cistern, was built below ground to resist the water's outward push and the earthquakes of the Iranian plateau. It was roofed with a massive dome ventilated by wind-catcher shafts and lined with a dedicated impermeable render. Each of those three choices is the modern detail by another route: a buried shell, an integral roof with a screened vent, and a lining separate from the structural wall.
 
 ## 18.8 Building the concrete cistern
 
 **Simple**
 
-A tank that holds water is built harder than a wall that holds back dirt. Water pushes outward with the full weight of its depth, and it finds a crack a hairline wide. So the walls carry more steel than a basement wall, the joints between pours get a groove and a swelling rubber strip, and the inside gets a coating certified for drinking water. The forms have to be stiff: one owner-built tank's half-inch plywood bulged under the wet concrete and took half again as much concrete as planned. Before the tank goes into service it is filled to the brim and watched for days.
+A tank that holds water is built harder than a wall that holds back dirt. Water pushes outward with the full weight of its depth, and it finds a crack a hairline wide. Against that, the walls carry more steel than a basement wall. Joints between pours get a groove and a swelling rubber strip. Inside, the walls get a coating certified for drinking water. Forms have to be stiff. One owner-built tank's half-inch plywood bulged under the wet concrete and took half again as much concrete as planned. Before the tank goes into service it is filled to the brim and watched for days.
 
 **Applied**
 
-1. Sheathe the wall forms with 3/4-inch plywood on 2-by-4 studs at 16 inches, braced and tied for the pour height and rate.
-2. Place a tall wall in lifts to cut the pressure at the base, with a keyed, waterstopped joint between lifts.
-3. Form a beveled keyway in the floor slab along the wall line, with a strip of beveled 2-by-4 pressed into the wet slab.
-4. Dowel the wall's vertical bars out of the floor, continuous across the joint, at the engineer's spacing.
-5. Before the wall pour, roughen and clean the joint and glue a hydrophilic waterstop strip along it, NSF 61-listed where stored water touches it.
-6. Repeat the roughened joint, the waterstop and the continuous steel at every lift.
-7. Build the reinforcement to the engineer's schedule, designed to ACI 350, and treat the field example of #6 bars on a 12-inch grid as a check on it.
-8. Pour the floor as its own slab, thicker and separately reinforced from the footings around it.
-9. Moist-cure the shell for the full period in the specification.
-10. Coat the interior with an NSF/ANSI 61-listed system, crystalline, cementitious or high-solids epoxy, to the product's preparation and cure sheet.
-11. Pull the product's current NSF listing and data sheet at specification time, since listings lapse and formulas change.
-12. Below grade, waterproof the outside face too, continuous with the foundation's membrane where the tank adjoins it.
-13. Fill the tank to the overflow, let it stand 24 to 72 hours while the concrete takes up its first water, then mark the level.
-14. Measure the level daily for several days against a floating evaporation pan, and walk the outside for damp spots.
-15. Treat a weep, a damp patch or a drop past the engineer's allowance as a failure, and repair the joint or crack before service.
-16. Photograph the steel, the waterstops and the gauge readings for the binder.
+1. Sheathe the wall forms with 3/4-inch plywood on 2-by-4 studs at 16 inches.
+2. Brace and tie the forms for the pour height and rate.
+3. Place a tall wall in lifts to cut the pressure at the base.
+4. Key and waterstop the joint between lifts.
+5. Form the keyway with a beveled 2-by-4 pressed into the wet slab along the wall line.
+6. Dowel the wall's vertical bars out of the floor at the engineer's spacing.
+7. Roughen and clean the joint, then glue a hydrophilic waterstop strip along it.
+8. Where stored water touches the strip, use an NSF 61-listed one.
+9. Repeat the roughened joint, the waterstop and the continuous steel at every lift.
+10. Build the reinforcement to the engineer's schedule, designed to ACI 350.
+11. Check that schedule against the field example of #6 bars on a 12-inch grid.
+12. Pour the floor as its own slab, thicker and separately reinforced.
+13. Moist-cure the shell for the full period in the specification.
+14. Coat the interior with an NSF/ANSI 61-listed crystalline, cementitious or epoxy system.
+15. Follow the product's preparation and cure sheet.
+16. Pull the product's current NSF listing at specification time, since listings lapse.
+17. Below grade, waterproof the outside face too, continuous with the foundation's membrane.
+18. Fill the tank to the overflow and let it stand 24 to 72 hours.
+19. Mark the level, then measure it daily for several days against a floating evaporation pan.
+20. Walk the outside for damp spots each day of the test.
+21. Treat a weep, a damp patch or a drop past the engineer's allowance as a failure.
+22. Find the joint or crack, repair it, and retest before service.
+23. Photograph the steel, the waterstops and the gauge readings for the binder.
 
 **Professional**
 
-Fresh concrete loads a form as a fluid, with the pressure at the base rising with the placement height and rate, and ACI 347 governs the form design. The Dancing Rabbit Ecovillage's account of an 8-foot-deep, 8-by-12-foot cistern formed in 1/2-inch plywood on flat 2-by-4s records the forms bulging, a second ready-mix truck, half again the estimated concrete, about 1,000 gallons of lost capacity, #6 bars wired on a 1-foot grid into holes drilled in the slab, and a keyway added only after the pour. The builder's own correction is a 2-by-4 wall on 16-inch centers under sheathing at least 3/4 inch thick.
+Fresh concrete loads a form as a fluid, with the pressure at the base rising with the placement height and rate, and ACI 347 governs the form design. Dancing Rabbit Ecovillage's account of an 8-foot-deep, 8-by-12-foot cistern formed in 1/2-inch plywood on flat 2-by-4s records the forms bulging and a second ready-mix truck. Half again the estimated concrete went in, about 1,000 gallons of capacity were lost, #6 bars were wired on a 1-foot grid into holes drilled in the slab, and a keyway was added only after the pour. Their correction for next time is a 2-by-4 wall on 16-inch centers under sheathing at least 3/4 inch thick.
 
-ACI 350, Code Requirements for Environmental Engineering Concrete Structures, governs the design because the property to keep is liquid-tightness. Against ACI 318 it asks for more temperature-and-shrinkage steel, 0.0024 times the section against 0.0018 for Grade 60, a load factor of 1.7 on lateral liquid pressure against 1.4, crack-width limits with reinforcement spread to hold them, and a low-permeability mix, by CTLGroup's note on liquid-tight structures and ACI's own listing. Bar size and spacing come out of the hoop and bending check for the tank's height and plan, so the field example is a magnitude to compare the engineer's schedule with. The seismic check follows ACI 350.3, which separates the water that moves with the tank from the water that sloshes. For a small buried tank the impulsive pressure, the anchorage and the connections govern, and a full sloshing analysis is reserved for a tank tall, large or aboveground enough for the free surface to matter.
+ACI 350, Code Requirements for Environmental Engineering Concrete Structures, governs the design because the property to keep is liquid-tightness. Against ACI 318 it asks for more temperature-and-shrinkage steel, 0.0024 times the section against 0.0018 for Grade 60. It applies a load factor of 1.7 on lateral liquid pressure against 1.4, crack-width limits with reinforcement spread to hold them, and a low-permeability mix, by CTLGroup's note on liquid-tight structures and ACI's own listing. Bar size and spacing come out of the hoop and bending check for the tank's height and plan, so the field example is only a magnitude to compare with the engineer's schedule.
 
-The cold joint is the leak path of record in water-retaining concrete. A keyway lengthens the water's route and interlocks the pours, a hydrophilic or bentonite strip swells on contact with water and closes the joint from within, and continuous steel across the joint keeps it from opening. Sustained water contact is what keeps a hydrophilic strip swollen, which suits a cistern. The foundation chapter carries the membrane and drainage-board assembly the outside face ties into.
+Seismic design follows ACI 350.3, which separates the water that moves with the tank from the water that sloshes. For a small buried tank the impulsive pressure, the anchorage and the connections govern. A full sloshing analysis is reserved for a tank tall, large or aboveground enough for the free surface to matter.
 
-Interior linings in three classes carry NSF/ANSI 61 listings for potable contact. Crystalline treatments such as Xypex grow into the concrete and waterproof it from either face, cementitious coatings trowel or brush onto a roughened saturated substrate, and high-solids epoxies, the municipal standard, need a blasted or etched profile and a full cure before filling. Tank-interior coating work runs $5 to $20 a square foot installed, by Extreme Epoxy Coatings' and TFBE's price pages, with confined access and surface preparation at the high end. A coating that isolates the concrete also removes the alkalinity buffer the bare surface gives acidic rainwater.
+Cold joints are the leak path of record in water-retaining concrete. A keyway lengthens the water's route and interlocks the pours. A hydrophilic or bentonite strip swells on contact with water and closes the joint from within, and continuous steel across the joint keeps it from opening. Sustained water contact is what keeps a hydrophilic strip swollen, which suits a cistern. Membrane and drainage-board assembly for the outside face, and its tie-in, are stated in the foundation chapter.
 
-The proof test for a water-retaining structure is a tightness test, specified by ACI 350.1. The tank is filled to its design level, held while the concrete absorbs its first water, then measured for loss over a period of at least 24 hours corrected for evaporation and rain, and the engineer specifies the acceptance class as a fraction of the volume per day. Visible flowing leakage or a damp exterior fails the test whatever the measured loss. The test replaces the compression cylinder as the proof, because tightness and not strength is the property in question.
+Interior linings in three classes carry NSF/ANSI 61 listings for potable contact. Crystalline treatments such as Xypex grow into the concrete and waterproof it from either face. Cementitious coatings trowel or brush onto a roughened saturated substrate. High-solids epoxies, the municipal standard, need a blasted or etched profile and a full cure before filling. Tank-interior coating runs $5 to $20 a square foot installed, by Extreme Epoxy Coatings' and TFBE's price pages, with confined access and surface preparation at the high end. Any coating that isolates the concrete also removes the alkalinity buffer a bare surface gives acidic rainwater.
+
+For a water-retaining structure the proof test is a tightness test, specified by ACI 350.1. Filled to its design level, the tank is held while the concrete absorbs its first water, then measured for loss over at least 24 hours, corrected for evaporation and rain. Its acceptance class, a fraction of the volume per day, is the engineer's to specify. Visible flowing leakage or a damp exterior fails the test whatever the measured loss. This test replaces the compression cylinder as the proof, because tightness and not strength is the property in question.
 
 ### Ferrocement, the thin-shell alternative
 
-Ferrocement saves material and spends skilled labor. The UNHCR's Large Ferro-Cement Water Tank guide of 2006, built on the Ferrocement Model Code and checked by finite-element analysis and prototypes of 45 to 90 cubic meters, uses a welded skeleton of 9-millimeter bars at 200 millimeters with 6-millimeter secondaries, wrapped in two layers of galvanized mesh of 0.5 to 1.0 millimeter wire and 10 to 25 millimeter openings, plastered with a 1:2 cement-to-sand mortar at a water-cement ratio of 0.4 through a 6.4-millimeter screen, with an integral roof whose trusses stiffen the wall. That mortar is richer and drier than the Type N or S mortar of the masonry chapter, which runs 1 part cement, a half to 1 part lime and 4.5 to 6 parts sand for bond and workability, and the two are never substituted. The shell cracks when it dries too fast, rusts where cover is thin and concentrates stress where the bars meet the mesh, and the plaster goes on in one continuous session to avoid cold joints. Thailand's National Jar Programme set out more than 10 million cement and ferrocement jars of 1.2 to 2 cubic meters from the 1980s, and the documented failures were contamination and mosquitoes rather than cracked shells. The field record supports decades of service with maintenance and nothing longer, so for a shell meant to last with the house the formed tank is the better-supported choice.
+Ferrocement saves material and spends skilled labor in its place. UNHCR's Large Ferro-Cement Water Tank guide of 2006 rests on the Ferrocement Model Code and on finite-element analysis and prototypes of 45 to 90 cubic meters. Its wall is a welded skeleton of 9-millimeter bars at 200 millimeters with 6-millimeter secondaries, wrapped in two layers of galvanized mesh of 0.5 to 1.0 millimeter wire and 10 to 25 millimeter openings. Over that goes a 1:2 cement-to-sand mortar at a water-cement ratio of 0.4, with sand through a 6.4-millimeter screen, under an integral roof whose trusses stiffen the wall.
+
+That mortar is richer and drier than Type N or S masonry mortar, which runs 1 part cement, a half to 1 part lime and 4.5 to 6 parts sand for bond and workability, and the two are never substituted. Thin shells crack when they dry too fast, rust where cover is thin and concentrate stress where the bars meet the mesh, so the plaster goes on in one continuous session to avoid cold joints.
+
+Thailand's National Jar Programme set out more than 10 million cement and ferrocement jars of 1.2 to 2 cubic meters from the 1980s, and its documented failures were contamination and mosquitoes rather than cracked shells. Field records support decades of service with maintenance and nothing longer. For a shell meant to last with the house, the formed tank is the better-supported choice.
 
 **Code**
 
@@ -314,34 +362,42 @@ An abandoned underground tank is drained and filled.
 
 **Simple**
 
-Stored water stays clean when nothing gets in: no light, no insects, no animals and no unscreened air. Light grows algae, so the tank is opaque and its lid sealed. A mosquito needs a gap wider than a sixteenth of an inch, so every vent and overflow carries a finer mesh. A new concrete tank makes its first water strongly alkaline, and it takes two or three fillings to settle. Even a sealed tank gets a water test once a year, because bacteria arrive with the rain off the roof. Climbing inside the tank to clean it can kill, because the air in a closed tank can run short of oxygen.
+Stored water stays clean when nothing gets in. That means no light, no insects, no animals and no unscreened air. Light grows algae, so the tank is opaque and its lid sealed. A mosquito needs a gap wider than a sixteenth of an inch, so every vent and overflow carries a finer mesh. New concrete makes its first water strongly alkaline, and it takes two or three fillings to settle. Even a sealed tank gets a water test once a year, because bacteria arrive with the rain off the roof. Climbing inside the tank to clean it can kill, because the air in a closed tank can run short of oxygen.
 
 **Applied**
 
-1. Build the top as an integral roof or dome, opaque, with a gasketed, lockable hatch at least 24 inches across.
-2. Screen every opening, the vent, the inlet, the outlet and the overflow, with corrosion-resistant mesh of 1/16 inch or finer.
-3. Make the vent large and screened, so air moves freely during a fast fill and a fast draw.
-4. Fit a flap-valve overflow fitting with its own screen, and run the overflow to a drainage feature away from the foundation.
-5. Before service, scrub the interior with a bleach solution, a cup of unscented bleach to a 55-gallon drum, and pump out the washings.
-6. Hold the first two or three fills on nonpotable duty, and test the pH until it reads 9 or below, then settles between 6 and 8.
-7. Disinfect the tank at commissioning and after any opening, at the dose and hold the plumbing water-supply chapter lists for a storage tank.
-8. Sample the stored water for total coliform, E. coli and turbidity after commissioning, once a year, and after any opening.
-9. Design the tank so cleaning happens from outside: a drain valve at the low point and a pressure-wash wand through the hatch.
-10. Never enter alone, and never enter without an attendant outside who does not go in.
-11. Before entry, run a blower into the tank, then test the air at the top, the middle and the bottom.
-12. Test oxygen first, then flammable gas, then toxic gas, and keep the meter running during the work.
-13. Enter only with oxygen between 19.5 and 23.5 percent, in a full-body harness on a retrieval line to a tripod winch at the hatch.
-14. Cast ladder rungs into the wall under the hatch, or bolt a fixed ladder there.
+1. Build the top as an opaque integral roof or dome, with a gasketed, lockable hatch at least 24 inches across.
+2. Screen the vent, the inlet, the outlet and the overflow with corrosion-resistant mesh of 1/16 inch or finer.
+3. Make the vent large, so air moves freely during a fast fill and a fast draw.
+4. Fit a flap-valve overflow fitting with its own screen.
+5. Run the overflow to a drainage feature away from the foundation.
+6. Before service, scrub the interior with a cup of unscented bleach in a 55-gallon drum of water.
+7. Pump out the washings.
+8. Hold the first two or three fills on nonpotable duty.
+9. Test the pH until it reads 9 or below, then settles between 6 and 8.
+10. Disinfect the tank at commissioning and after any opening, at the dose the plumbing water-supply chapter lists for a storage tank.
+11. Sample the stored water for total coliform, E. coli and turbidity after commissioning, once a year, and after any opening.
+12. Put a drain valve at the low point and clean through the hatch with a pressure-wash wand, so most cleaning happens from outside.
+13. Never enter alone, and never enter without an attendant outside who does not go in.
+14. Before entry, run a blower into the tank, then test the air at the top, the middle and the bottom.
+15. Test oxygen first, then flammable gas, then toxic gas, and keep the meter running during the work.
+16. Enter only with oxygen between 19.5 and 23.5 percent.
+17. Wear a full-body harness on a retrieval line to a tripod winch at the hatch.
+18. Cast ladder rungs into the wall under the hatch, or bolt a fixed ladder there.
 
 **Professional**
 
-Mosquitoes breed in any tank they can reach, and the overflow is the opening most often left open. NC State Extension's factsheet Mosquito Control for Rainwater Harvesting Systems found larvae in 18 percent of systems with an adequate overflow and effective screening against 44 percent with an inadequate overflow, and in 4 percent where the inlet was screened and the overflow adequate. The Alameda County Mosquito Abatement District's guideline for cisterns is fine mesh of 1/16 inch over every inlet, outlet and vent and a sealed lid. Rain Harvesting's Mozzie Stoppa and its screened overflow kits are the buyable flap-valve fittings, and a generous screened vent keeps the fineness of the mesh and the airflow of a fast fill from competing. Mesh biofouls and clogs on its own schedule and is cleaned with the gutters.
+Mosquitoes breed in any tank they can reach, and the overflow is the opening most often left open. NC State Extension's factsheet Mosquito Control for Rainwater Harvesting Systems found larvae in 18 percent of systems with an adequate overflow and effective screening, against 44 percent with an inadequate overflow. Where the inlet was screened and the overflow adequate, larvae were in 4 percent.
 
-New concrete leaches calcium hydroxide into the first water it holds. Rain Brothers, a cistern supplier, reports pH of 10 to 11 in a new tank, two or three full empty-and-fill cycles before the water holds at 9 or below, and a settled range of 6 to 8 once the surface has carbonated. From then on the bare surface neutralizes acidic rain upward, the same chemistry that put concrete-tile runoff at the top of the Ecology study's pH results, and that passive buffer shrinks the neutralizer's work without replacing its control. The delivered pH is measured rather than assumed, because the buffer depends on contact time, turnover and the age of the surface. A lining that isolates the concrete removes the leach and the buffer together.
+Alameda County Mosquito Abatement District's guideline for cisterns is fine mesh of 1/16 inch over every inlet, outlet and vent, under a sealed lid. Rain Harvesting's Mozzie Stoppa and its screened overflow kits are the buyable flap-valve fittings. With a generous screened vent, the fineness of the mesh and the airflow of a fast fill stop competing. Mesh biofouls and clogs on its own schedule and is cleaned with the gutters.
 
-A sealed, opaque, screened tank with ultraviolet treatment at the point of use removes the need for a standing chlorine residual in the tank, and it does not remove the need for a test. The Virginia Water Resources Research Center's 1998 survey of rooftop cisterns in Dickenson County found more than 65 percent of the cisterns tested failing the federal coliform standard, the only parameter that failed, with maintenance the cause. Thailand's jar program recorded the same lesson across millions of vessels: the failures of stored rainwater are contamination and mosquitoes, caught by covering, screening and cleaning. A clean coliform and turbidity result confirms the design, and a positive one points at the hatch, the screens or the diverter.
+New concrete leaches calcium hydroxide into the first water it holds. Rain Brothers, a cistern supplier, reports pH of 10 to 11 in a new tank. Two or three full empty-and-fill cycles pass before the water holds at 9 or below, and it settles between 6 and 8 once the surface has carbonated. From then on the bare surface neutralizes acidic rain upward, the same chemistry that put concrete-tile runoff at the top of the Ecology study's pH results.
 
-A closed tank is a confined space whose air can be short of oxygen from biological activity and can hold hydrogen sulfide, which settles low, and a space that smells clean can still incapacitate within seconds. Oregon OSHA's confined-space rule binds employers, and OSHA's own tank-cleaning guidance records would-be rescuers among the dead, which is why the attendant stays outside and the entrant wears a retrieval line. A hatch of 24 inches admits a person in a harness and allows a retrieval, and a drain valve and a wash wand keep most cleaning outside the tank altogether.
+That passive buffer shrinks the neutralizer's work without replacing its control. Delivered pH is measured rather than assumed, because the buffer depends on contact time, turnover and the age of the surface. Any lining that isolates the concrete removes the leach and the buffer together.
+
+Sealed, opaque and screened, with ultraviolet treatment at the point of use, a tank needs no standing chlorine residual, and it still needs a test. In 1998 the Virginia Water Resources Research Center surveyed rooftop cisterns in Dickenson County and found more than 65 percent of those tested failing the federal coliform standard, the only parameter that failed, with maintenance the cause. Thailand's jar program recorded the same lesson across millions of vessels. The failures of stored rainwater are contamination and mosquitoes, caught by covering, screening and cleaning. A clean coliform and turbidity result confirms the design. A positive one points at the hatch, the screens or the diverter.
+
+Closed tanks are confined spaces in the legal sense. Biological activity can leave their air short of oxygen and can add hydrogen sulfide, which settles low, and a space that smells clean can still incapacitate within seconds. Oregon OSHA's confined-space rule binds employers, and OSHA's own tank-cleaning guidance records would-be rescuers among the dead, which is why the attendant stays outside and the entrant wears a retrieval line. A hatch of 24 inches admits a person in a harness and allows a retrieval. With a drain valve and a wash wand, most cleaning stays outside the tank altogether.
 
 **Code**
 
@@ -359,30 +415,37 @@ Vertical entry deeper than 5 feet takes a mechanical retrieval device.
 
 **Simple**
 
-Rain is soft, slightly acidic and nearly empty of minerals, and it carries whatever washed off the roof. Its treatment is a row of four parts: a spinning filter at the downspout, a cartridge for grit, a carbon cartridge for taste and organic color, and an ultraviolet lamp. The lamp only works on clear water, so the cartridges ahead of it matter as much as the lamp. The rain never gets a standing dose of chlorine in this house, because the pipes are short and the water turns over daily. Running the row costs a few hundred dollars a year in lamps and cartridges.
+Rain is soft, slightly acidic and nearly empty of minerals. It carries whatever washed off the roof. Its treatment is a row of four parts. First comes a spinning filter at the downspout, then a cartridge for grit. A carbon cartridge takes out taste and organic color, and an ultraviolet lamp finishes the job. Lamps only work on clear water, so the cartridges ahead of it matter as much as the lamp itself. In this house the rain never gets a standing dose of chlorine, because the pipes are short and the water turns over daily. Running the row costs a few hundred dollars a year in lamps and cartridges.
 
 **Applied**
 
 1. Separate the roof water at the downspout in a vortex filter, 280 microns, with its dirt stream to the drain.
 2. From the tank, pump through a 5-micron sediment cartridge, then activated carbon, then the ultraviolet unit last.
-3. Set the lamp and sleeve schedule to the rain condition, the shorter of the two schedules the plumbing water-supply chapter lists.
-4. Measure turbidity at commissioning and after the first autumn storm, and hold it under 5 NTU ahead of the lamp, under 1 where the train allows.
-5. Where a storm pushes turbidity above 5 NTU, add a 1-micron polishing cartridge or a UV unit with a transmittance alarm.
-6. Keep a calcite neutralizer in the rain train as a trim, sized from the delivered pH once the tank has settled, and correct the rain in its own train.
-7. Change the carbon on the rain side sooner than on the well side, because tannins coat it.
-8. Budget $300 to $500 a year for the lamp, the sleeve cleaning and the cartridges.
-9. Treat a developed spring like rain: a spring box behind a cutoff wall first, finer polishing ahead of the lamp, and a turbidity check after storms.
-10. Keep any owner-built biosand filter out of the permitted system.
+3. Set the lamp and sleeve schedule to the rain condition, the shorter of the two the plumbing water-supply chapter lists.
+4. Measure turbidity at commissioning and after the first autumn storm.
+5. Hold it under 5 NTU ahead of the lamp, and under 1 where the train allows.
+6. Where a storm pushes turbidity above 5 NTU, add a 1-micron polishing cartridge or a UV unit with a transmittance alarm.
+7. Keep a calcite neutralizer in the rain train as a trim, sized from the delivered pH once the tank has settled.
+8. Correct the rain's pH in its own train, before any point where the two waters could meet.
+9. Change the carbon on the rain side sooner than on the well side, because tannins coat it.
+10. Budget $300 to $500 a year for the lamp, the sleeve cleaning and the cartridges.
+11. Treat a developed spring like rain, with a spring box behind a cutoff wall first.
+12. Give a spring finer polishing ahead of the lamp and a turbidity check after storms.
+13. Keep any owner-built biosand filter out of the permitted system.
 
 **Professional**
 
-Ultraviolet light disinfects by a dose delivered along a line of sight, and suspended particles shadow the organisms behind them and absorb the dose. The National Water Research Institute's UV guidelines and the Australian Drinking Water Guidelines put the working ceiling at 5 NTU, with no measurable effect below 1 NTU and pre-filtration advised once suspended solids pass 10 parts per million. A smooth roof behind a first flush, a vortex filter and a 5-micron cartridge runs well under that ceiling in ordinary weather, and a debris event, a stuck diverter or a washout of conifer fines can spike it, which is why the train carries a polishing stage or an alarm rather than an assumption.
+Ultraviolet light disinfects by a dose delivered along a line of sight. Suspended particles shadow the organisms behind them and absorb the dose. The National Water Research Institute's UV guidelines and the Australian Drinking Water Guidelines put the working ceiling at 5 NTU, with no measurable effect below 1 NTU and pre-filtration advised once suspended solids pass 10 parts per million. Behind a first flush, a vortex filter and a 5-micron cartridge, a smooth roof runs well under that ceiling in ordinary weather. A debris event, a stuck diverter or a washout of conifer fines can spike it, which is why the train carries a polishing stage or an alarm rather than an assumption.
 
-Seattle's Bullitt Center, a commercial building held to public-water-system rules, runs a vortex inlet filter, storage, a 5-micron cartridge, two 0.5-micron carbon stages, ultraviolet light and a small terminal chlorine dose, with charcoal at the taps to take the chlorine taste back out. A continuously occupied house with short runs, daily turnover and flushable dead legs has no standing water for a residual to protect, so its train ends at the lamp, and weeks of vacancy are the condition that argues for a residual. The lamp and its power are the larger share of the yearly cost and the cartridges the rest, with the carbon changed on 6 to 12 months and sooner where tannins color the water, since they coat the carbon's surface and cut its capacity.
+Seattle's Bullitt Center is a commercial building held to public-water-system rules. Its train runs a vortex inlet filter, storage, a 5-micron cartridge, two 0.5-micron carbon stages, ultraviolet light and a small terminal chlorine dose, with charcoal at the taps to take the taste back out.
 
-Rain arrives near pH 5.6 with no alkalinity to buffer it, the concrete tank lifts that upward, and the well's chemistry is unknown until it is tested, so each source is corrected in its own train before the two could meet. A developed spring draws from a shallow, surface-influenced flow path and behaves like groundwater under the direct influence of surface water: Penn State Extension's guide to spring development notes storm turbidity rising past 15 NTU, far above the lamp's ceiling, so the spring train starts with a spring box, a cutoff wall, a covered and screened collection chamber and the exclusion of livestock, carries a finer or redundant polishing stage, and treats disinfection as mandatory. Iron, manganese, hardness and tannin stages are added only where a test finds them.
+In a continuously occupied house with short runs, daily turnover and flushable dead legs, no standing water needs a residual's protection, so the train ends at the lamp. Weeks of vacancy are the condition that argues for a residual. Lamp and power are the larger share of the yearly cost and the cartridges the rest. Carbon is changed on 6 to 12 months, and sooner where tannins color the water, since they coat the carbon's surface and cut its capacity.
 
-A biosand filter of the CAWST design removes 2 to 7 log of E. coli, 97.9 to 99.8 percent, once its biological layer matures over about 30 days, with modest virus removal. No owner-built unit carries an NSF listing, and the plumbing code requires potable-contact treatment devices to be listed, so a biosand filter is an emergency fixture and never the plumbed train.
+Rain arrives near pH 5.6 with no alkalinity to buffer it. Concrete lifts that upward, and the well's chemistry is unknown until it is tested, so each source is corrected in its own train before the two could meet. Springs draw from a shallow, surface-influenced flow path and behave like groundwater under the direct influence of surface water. Penn State Extension's guide to spring development notes storm turbidity rising past 15 NTU, far above the lamp's ceiling.
+
+A spring train therefore starts with a spring box, a cutoff wall, a covered and screened collection chamber and the exclusion of livestock. It carries a finer or redundant polishing stage, and it treats disinfection as mandatory. Iron, manganese, hardness and tannin stages are added only where a test finds them.
+
+Biosand filters of the CAWST design remove 2 to 7 log of E. coli, 97.9 to 99.8 percent, once their biological layer matures over about 30 days, with modest virus removal. No owner-built unit carries an NSF listing, and the plumbing code requires potable-contact treatment devices to be listed, which keeps a biosand filter an emergency fixture and never the plumbed train.
 
 **Code**
 
@@ -400,33 +463,37 @@ Nonpotable rainwater meets a stated quality.
 
 **Simple**
 
-A slow well still delivers a day's water, only not all at once. A well that makes 2 gallons a minute delivers 2,880 gallons a day, more than a family uses, but it cannot fill two showers and a washing machine at seven in the morning. The cistern makes up the difference: the well trickles into it all day at the rate the well can stand, and a booster pump sends water to the house as fast as the fixtures draw. The tank you sized for the dry season does this job without growing. Fracturing the rock around a poor well with high-pressure water often doubles its flow, for a fraction of a new well's price.
+A slow well still delivers a day's water, only not all at once. At 2 gallons a minute a well delivers 2,880 gallons a day, more than a family uses. It cannot fill two showers and a washing machine at seven in the morning. Here the cistern makes up the difference. All day the well trickles into it at the rate the well can stand. A booster pump sends water to the house as fast as the fixtures draw. Your dry-season tank does this job without growing. Fracturing the rock around a poor well with high-pressure water often doubles its flow, for a fraction of a new well's price.
 
 **Applied**
 
-1. Convert the well log's sustained yield to a daily figure: gallons per minute times 1,440.
+1. Convert the well log's sustained yield to a daily figure, gallons per minute times 1,440.
 2. Compare it with the household's daily total and with the peak hour's draw.
-3. Where the day's supply covers the day's demand and the peak hour does not, size the buffer to the peak hour's shortfall.
+3. Where the day's supply covers the day and the peak hour falls short, size the buffer to the peak hour's shortfall.
 4. Count the buffer inside the dry-season volume, never on top of it.
 5. Design the buffer against the logged yield first, before any attempt to improve the well.
-6. On a bedrock well, get a hydrofracturing quote, $1,500 to $6,000, and have the driller re-test the yield afterward.
-7. Fit the fill control and repeat the coliform re-sampling the plumbing water-supply chapter specifies for a buffered well and for well work.
-8. Run the trickle fill in the midday hours when the array produces, since the pump then draws little and steadily.
-9. Ask drillers who work the parcel's formation for their hydrofracturing results in basalt, and look up treated wells in OWRD's well-log database.
+6. On a bedrock well, get a hydrofracturing quote, $1,500 to $6,000.
+7. Have the driller re-test the yield afterward.
+8. Fit the fill control and repeat the coliform re-sampling the plumbing water-supply chapter specifies for a buffered well and for well work.
+9. Run the trickle fill in the midday hours when the array produces, since the pump then draws little and steadily.
+10. Ask drillers who work the parcel's formation for their hydrofracturing results in basalt.
+11. Look up treated wells in the same formation in OWRD's well-log database.
 
 **Professional**
 
-The peak-hour buffer and the dry-season volume answer two different failure conditions. The buffer assumes the well still producing at its logged rate and short only at the busiest hour, and it comes out at a few hundred to a few thousand gallons, scaled to the gap between the peak hour's draw and what the well delivers in that hour. The dry-season volume assumes no input for weeks. A tank sized for the second covers the first as a side effect, and a tank sized only for the first covers nothing in a dry August. Raw well water that waits in the buffer loses any chlorine residual and grows biofilm on the walls, so the buffer is dosed and inspected as a treatment stage.
+Peak-hour buffer and dry-season volume answer two different failure conditions. The buffer assumes the well still producing at its logged rate and short only at the busiest hour. It comes out at a few hundred to a few thousand gallons, scaled to the gap between the peak hour's draw and what the well delivers in that hour. Dry-season volume assumes no input for weeks. A tank sized for the second covers the first as a side effect, and a tank sized only for the first covers nothing in a dry August. Raw well water that waits in the buffer loses any chlorine residual and grows biofilm on the walls, so the buffer is dosed and inspected as a treatment stage.
 
-Hydrofracturing pumps water into the bore at pressure to open and widen the fractures that feed it. S.C. Well Service, Wragg Brothers and Skillings and Sons, three drilling firms, report success on 70 to 90 percent of suitable fractured-bedrock wells, yield gains of 35 to 1,000 percent with a doubling or tripling the common result, and a price 50 to 70 percent below a new well. A survey article in The Driller found sandstone and siltstone sequences responding best and shale and volcanic sequences with lower percentage gains that still average near a doubling. Oregon's Columbia River Basalt and Cascade volcanics produce where a bore meets a fracture zone and are unpredictable from the surface, so an attempt is cheap insurance on a logged marginal well and never the design basis. The buffer is designed first against the logged yield, the attempt is made, and the yield is re-tested. The disturbance is the one new drilling makes, so the post-construction coliform re-sampling is repeated after it.
+Hydrofracturing pumps water into the bore at pressure to open and widen the fractures that feed it. S.C. Well Service, Wragg Brothers and Skillings and Sons, three drilling firms, report success on 70 to 90 percent of suitable fractured-bedrock wells. Yield gains run 35 to 1,000 percent, with a doubling or tripling the common result, at a price 50 to 70 percent below a new well. In The Driller's survey article, sandstone and siltstone sequences responded best, and shale and volcanic sequences showed lower percentage gains that still average near a doubling.
 
-A well pump that starts on demand must be carried by standby power at its full starting draw whenever a fixture opens. A pump that trickle-fills a cistern through a flow restrictor runs at a small, steady draw that can be scheduled into the hours the array produces, and the standby budget keeps only the booster's load. OWRD's 2022 white paper on Upper Deschutes Basin groundwater levels documents a multi-year decline there from reduced canal seepage, pumping and climate, which is why a single yield test on one day is checked against the trend in neighboring well logs before a parcel is bought.
+Oregon's Columbia River Basalt and Cascade volcanics produce where a bore meets a fracture zone and are unpredictable from the surface. An attempt is therefore insurance on a logged marginal well and never the design basis. The buffer is designed first, the attempt made, the yield re-tested. Because the disturbance is the one new drilling makes, the post-construction coliform re-sampling is repeated after it.
+
+Started on demand, a well pump must be carried by standby power at its full starting draw whenever a fixture opens. Trickle-filling a cistern through a flow restrictor, the same pump runs at a small, steady draw that can be scheduled into the hours the array produces, and the standby budget keeps only the booster's load. OWRD's 2022 white paper on Upper Deschutes Basin groundwater levels documents a multi-year decline there from reduced canal seepage, pumping and climate. For that reason a single yield test on one day is checked against the trend in neighboring well logs before a parcel is bought.
 
 ## 18.12 Greywater: the permit and its rules
 
 **Simple**
 
-Greywater is the used water from showers, baths, bathroom sinks, the kitchen sink and the washing machine, and the state defines it that way. Toilet water, dishwasher water and the water from washing diapers are left out. Oregon lets a household send it to trees and garden beds through buried pipes under a state general permit, as long as the house keeps its septic connection and a valve that can send the water back there. A family with low-flow fixtures makes 100 to 160 gallons of it a day, well under the permit's 300-gallon line. The permit also says where the water may not go: near a well, onto frozen or soaked ground, or onto anything you will eat raw.
+Greywater is the used water from showers, baths, bathroom sinks, the kitchen sink and the washing machine. Oregon's statute defines it that way. Toilet water, dishwasher water and the water from washing diapers are left out. Oregon lets a household send greywater to trees and garden beds through buried pipes under a state general permit. In return the house keeps its septic connection and a valve that can send the water back there. A family with low-flow fixtures makes 100 to 160 gallons of it a day, well under the permit's 300-gallon line. The permit also bars the water from three places: near a well, on frozen or soaked ground, and on anything you will eat raw.
 
 **Applied**
 
@@ -439,25 +506,31 @@ Greywater is the used water from showers, baths, bathroom sinks, the kitchen sin
 | Property line | 2 feet | 5 feet | 2 feet |
 | Building | None | None | None stated |
 
-1. Count the greywater fixtures and estimate each one's flow: shower minutes times the head's gallons per minute, laundry gallons a load times loads, and sink use observed for a week.
-2. Check the total against 300 gallons a day and the house against four bedrooms, the Tier 1 permit's two limits.
-3. Choose Tier 1 for subsurface irrigation, and Tier 2 only for drip irrigation or a landscape pond.
-4. Draw the site diagram: the reuse area, wells, springs, streams, the septic tank and drainfield, rain gardens and swales, slopes and cuts.
-5. Lay out the discharge points to the setbacks in the table above, and dig a test hole at irrigation season to confirm 4 feet to groundwater.
-6. Write the system design plan: uses, location, design flow, source fixtures, distribution design, treatment, and the person responsible for the design.
-7. Write the operation and maintenance manual: a diagram with the diverter, when water goes to reuse and when to septic, and the products that stay out.
-8. Add the maintenance list to the manual: spring start-up, filter service, flushing the surge tank and lines, and draining the lines before winter.
-9. Apply to DEQ for the general permit, $50 plus $40 for Tier 1, and for the plumbing permit at the same time.
-10. File the annual report, which waives the Tier 1 annual fee in four years of five.
-11. Keep the drainfield sized for full flow, and ask the county evaluator in writing whether the diversion earns any credit.
+1. Count the greywater fixtures.
+2. Estimate each one's flow, shower minutes times the head's gallons per minute, laundry gallons a load times loads, and sink use observed for a week.
+3. Check the total against 300 gallons a day and the house against four bedrooms, the Tier 1 permit's two limits.
+4. Choose Tier 1 for subsurface irrigation, and Tier 2 only for drip irrigation or a garden pond.
+5. Draw the site diagram with the reuse area, wells, springs, streams, the septic system, rain gardens, swales, slopes and cuts.
+6. Lay out the discharge points to the setbacks in the table above.
+7. Dig a test hole at irrigation season to confirm 4 feet to groundwater.
+8. Write the system design plan, with uses, location, design flow, source fixtures, distribution design, treatment and the responsible person.
+9. Write the operation and maintenance manual, starting with a diagram that shows the diverter.
+10. State in it when water goes to reuse and when to septic, and which products stay out.
+11. Add the maintenance list, spring start-up, filter service, flushing the surge tank and lines, and draining the lines before winter.
+12. Apply to DEQ for the general permit, $50 plus $40 for Tier 1, and for the plumbing permit at the same time.
+13. File the annual report, which waives the Tier 1 annual fee in four years of five.
+14. Keep the drainfield sized for full flow.
+15. Ask the county evaluator in writing whether the diversion earns any credit.
 
 **Professional**
 
-ORS 454.605 defines gray water as shower and bath, bathroom sink, kitchen sink and laundry wastewater, and excludes toilet wastes, garbage wastes and diaper wash water. DEQ grades it by treatment: Type 1 is untreated or has passed a physical screen for grease and solids and still holds dissolved oxygen, Type 2 has passed secondary treatment to a stated oxygen demand and solids content, and Type 3 is disinfected after that. The land chapter's septic section states the three-tier permit ladder. The Tier 2 general permit asks for the design plan and the maintenance manual with the application and costs $534 plus $50 a year against Tier 1's $50 plus $40, by DEQ's fee schedule and its homeowner guide, and DEQ's 2026 fee rulemaking raises its water-quality fees from November 2026.
+ORS 454.605 defines gray water as shower and bath, bathroom sink, kitchen sink and laundry wastewater, and excludes toilet wastes, garbage wastes and diaper wash water. DEQ grades it by treatment. Type 1 is untreated or has passed a physical screen for grease and solids and still holds dissolved oxygen. Type 2 has passed secondary treatment to a stated oxygen demand and solids content, and Type 3 is disinfected after that.
 
-Showers, bathroom sinks and laundry produce 25 to 40 gallons a person a day in a low-flow household, so four people make 100 to 160 gallons, and a household steps to Tier 2 for its uses rather than its volume. Kitchen-sink water joins only through primary treatment, a physical process that holds back grease and settleable solids, and dishwasher, garbage-disposal and diaper wash water never join. A system under 1,200 gallons a day connected to the septic system needs no land use compatibility statement. Greywater crosses a property line only under a written agreement between the two owners, with the state's inspectors admitted to both sides.
+The three-tier permit ladder is stated in the land chapter's septic section. Under the Tier 2 general permit the design plan and the maintenance manual go in with the application, and it costs $534 plus $50 a year, by DEQ's fee schedule and its homeowner guide. DEQ's 2026 fee rulemaking raises its water-quality fees from November 2026.
 
-The drainfield is sized for the full flow because the greywater returns to it every winter, and DEQ's program gives no design-flow credit for the diversion. Whether a county evaluator credits a reduced flow at site evaluation is asked in writing for the specific parcel. A constructed wetland, a lined gravel bed planted with reeds, treats greywater to a cleaner effluent than a mulch basin receives, at the price of land area, excavation, a liner, gravel media, reed management and a winter slowdown in biological activity. A subsurface system needs none of that treatment, and DEQ's greywater rules are written around subsurface irrigation, so DEQ classifies a treatment wetland before one is designed.
+Showers, bathroom sinks and laundry produce 25 to 40 gallons a person a day in a low-flow household, so a household steps to Tier 2 for its uses rather than its volume. Kitchen-sink water joins only through primary treatment, a physical process that holds back grease and settleable solids. Dishwasher, garbage-disposal and diaper wash water never join. Below the Tier 2 ceiling, a system connected to the septic system needs no land use compatibility statement. Greywater crosses a property line only under a written agreement between the two owners, with the state's inspectors admitted to both sides.
+
+Because the greywater returns to the drainfield every winter, the drainfield is sized for the full flow, and DEQ's program gives no design-flow credit for the diversion. Whether a county evaluator credits a reduced flow at site evaluation is asked in writing for the specific parcel. A constructed wetland, a lined gravel bed planted with reeds, treats greywater to a cleaner effluent than a mulch basin receives. It costs land area, excavation, a liner, gravel media, reed management and a winter slowdown in biological activity. Subsurface systems need none of that treatment, and DEQ's greywater rules are written around subsurface irrigation, so DEQ classifies a treatment wetland before one is designed.
 
 **Code**
 
@@ -495,33 +568,38 @@ A small system needs no land-use statement.
 
 **Simple**
 
-The simplest greywater system has no pump, no filter and no tank. The water runs downhill from the shower drain through a branching pipe to mulch basins around the trees, and that works only when the bathrooms sit above the garden and the ground falls away from the house. A washing machine's own pump can push its water out to the yard through a 1-inch line. A three-way valve near the machine, turned by hand, sends the water to the garden in summer and back to the septic tank in winter, when the ground is already full. In Oregon that winter switch is what makes the system legal year-round.
+The simplest greywater system has no pump, no filter and no tank. Water runs downhill from the shower drain through a branching pipe to mulch basins around the trees. That works only when the bathrooms sit above the garden and the ground falls away from the house. A washing machine's own pump can push its water out to the yard through a 1-inch line. Near the machine, a three-way valve turned by hand sends the water to the garden in summer. In winter, when the ground is already full, the same valve sends it back to the septic tank. In Oregon that winter switch makes the system legal year-round.
 
 **Applied**
 
-1. Lay the floor plan's shower, bath, lavatory and laundry drains over the site's grades, and confirm continuous fall to every basin.
-2. Where the plan lacks the fall, move the wet zone to the downhill side on paper before accepting a pump.
-3. Build a branched drain with no uphill run and no low spot that ponds, splitting the flow at each tee toward several outlets.
-4. End every outlet in a valve box or an inverted pot with an air gap over the soil, so roots cannot grow into the pipe.
-5. Size each mulch basin to the soil, larger in clay loam, so no water ponds on the surface.
-6. For laundry to landscape, run the full 1-inch line with no ball valve downstream of the washer.
-7. Install a brass or pool-type three-way diverter valve, $60 to $70, where the household can reach it without tools.
-8. Label the valve's two positions, and turn it to septic for the wet months and to the garden when evapotranspiration passes rainfall.
-9. Drain the irrigation lines before the first hard freeze, and flush the surge tank and the lines at spring start-up.
-10. Inspect the outlets for lint and dirt through the heavy-use months, and clear the emitter boxes that fill.
-11. Use biodegradable soaps on the garden setting, and switch to septic for bleach loads and diaper washing.
+1. Lay the floor plan's shower, bath, lavatory and laundry drains over the site's grades.
+2. Confirm continuous fall from every drain to every basin.
+3. Where the plan lacks the fall, move the wet zone to the downhill side on paper before accepting a pump.
+4. Build a branched drain with no uphill run and no low spot that ponds, splitting the flow at each tee.
+5. End every outlet in a valve box or an inverted pot with an air gap over the soil, so roots stay out of the pipe.
+6. Size each mulch basin to the soil, larger in clay loam, so no water ponds on the surface.
+7. On a washer-to-garden line, run the full 1-inch pipe with no ball valve downstream of the washer.
+8. Install a brass or pool-type three-way diverter valve, $60 to $70, where the household can reach it without tools.
+9. Label the valve's two positions.
+10. Turn it to septic for the wet months, and to the garden when evapotranspiration passes rainfall.
+11. Drain the irrigation lines before the first hard freeze.
+12. Flush the surge tank and the lines at spring start-up.
+13. Inspect the outlets for lint and dirt through the heavy-use months, and clear the emitter boxes that fill.
+14. Use biodegradable soaps on the garden setting, and switch to septic for bleach loads and diaper washing.
 
 **Professional**
 
-Art Ludwig's branched-drain method, documented by Oasis Design, moves greywater by gravity alone from fixtures set above the planting area to mulch basins through a tree of tees, each splitting the flow, with a continuous fall and no pump, filter or surge tank. Where a flat site or a slab-level bathroom denies that fall, a pumped system adds a pump tank, an effluent pump, a power dependency and a failure mode, which is why the wet zone is placed uphill on the plan before a pump is accepted.
+Art Ludwig's branched-drain method, documented by Oasis Design, moves greywater by gravity alone. Fixtures set above the planting area drain to mulch basins through a tree of tees, each splitting the flow, with a continuous fall and no pump, filter or surge tank. Where a flat site or a slab-level bathroom denies that fall, a pumped system adds a pump tank, an effluent pump, a power dependency and a failure mode. For that reason the wet zone is placed uphill on the plan before a pump is accepted.
 
-A Willamette Valley winter saturates the soil while the plants are dormant, and the permit bars discharge to saturated ground and allows irrigation only while evapotranspiration exceeds rainfall. The diversion valve is therefore a seasonal switch, and the septic system is sized to take the whole winter's flow. Greywater Action's troubleshooting guide for laundry-to-landscape systems traces lint clogs to a ball valve throttling the 1-inch line, which also back-pressures the washer's pump and shortens its life, ponding to basins undersized for slow soil, and root intrusion to outlets buried in soil without an air gap. Oasis Design sells a 1-inch brass three-way diverter at $59, and Jandy and Pentair pool diverters at $65 to $70 are the common durable alternative, both with a lever that turns by hand. The valve's construction rules, accessible, labeled, corrosion-resistant and watertight, and the overflow rule for any surge tank are in the drain-waste-vent chapter.
+Willamette Valley winters saturate the soil while the plants are dormant, and the permit bars discharge to saturated ground and allows irrigation only while evapotranspiration exceeds rainfall. Hence the diversion valve is a seasonal switch, and the septic system is sized to take the whole winter's flow. Greywater Action's troubleshooting guide for washer-to-garden systems traces lint clogs to a ball valve throttling the 1-inch line, which also back-pressures the washer's pump and shortens its life. It traces ponding to basins undersized for slow soil, and root intrusion to outlets buried in soil without an air gap.
+
+Oasis Design sells a 1-inch brass three-way diverter at $59, and Jandy and Pentair pool diverters at $65 to $70 are the common durable alternative, both with a lever that turns by hand. Construction rules for the valve, accessible, labeled, corrosion-resistant and watertight, and the overflow rule for any surge tank are stated in the drain-waste-vent chapter.
 
 ## 18.14 Composting toilets and the water they save
 
 **Simple**
 
-A toilet is the biggest water user in most houses, nearly three gallons in ten indoors, and a composting toilet uses none. Oregon law allows one in a house, with no limit on how many people may use it, as long as the rest of the house's used water has a legal place to go. In a full-time household the units that work for years have a large chamber in the basement or a seat that diverts urine, and a fan that never stops. The fan draws under 3 watts. The finished compost, a few cubic feet a year per person, is buried under a foot of soil away from anything edible.
+Nearly three gallons in ten of a house's indoor water go down the toilet. A composting toilet uses none. Oregon law allows one in a house, with no limit on how many people may use it. The one condition is that the rest of the house's used water has a legal place to go. In a full-time household the units that work for years have a large chamber in the basement, or a seat that diverts urine. Either way the fan never stops. That fan draws under 3 watts. Finished compost, a few cubic feet a year per person, is buried under a foot of soil away from anything edible.
 
 **Applied**
 
@@ -534,21 +612,30 @@ A toilet is the biggest water user in most houses, nearly three gallons in ten i
 | Incinerating | A heating element of several kilowatts each burn, a poor match for a battery | None | Ash | Hundreds to a few thousand dollars |
 
 1. Decide the toilet type with the floor plan, because a central unit needs a chamber room below the toilet.
-2. For full-time occupancy, choose a central system where the plan gives it a basement chamber, or a urine-diverting self-contained unit where it does not.
-3. Buy only a unit listed to NSF/ANSI 41, and get the plumbing permit before installing it.
-4. Site the toilet where the rest of the house's wastewater goes to the septic system or a DEQ-permitted greywater system.
-5. Put the vent fan on the critical-loads panel, add its watts to the always-on list, and leave it running.
-6. Run the vent sealed and insulated to 2 feet above the highest part of any building within 10 feet, away from windows and intakes.
-7. Keep the unit, or its chamber, inside insulated space so the pile stays warm enough to compost.
-8. Add carbon bulking material after each use, and keep the pile moist and never wet.
-9. Empty the finished chamber on the maker's cycle, cure the material, and bury it under 12 inches of soil away from vegetable beds, rotating the site.
-10. Before the plan omits a flush toilet, get the building official's written answer that a compost toilet may be the only toilet fixture.
+2. For full-time occupancy, choose a central system where the plan gives it a basement chamber.
+3. Where it does not, choose a urine-diverting self-contained unit.
+4. Buy only a unit listed to NSF/ANSI 41, and get the plumbing permit before installing it.
+5. Site the toilet where the rest of the house's wastewater goes to the septic system or a DEQ-permitted greywater system.
+6. Put the vent fan on the critical-loads panel, add its watts to the always-on list, and leave it running.
+7. Run the vent sealed and insulated to 2 feet above the highest part of any building within 10 feet.
+8. End the vent away from windows and air intakes.
+9. Keep the unit, or its chamber, inside insulated space so the pile stays warm enough to compost.
+10. Add carbon bulking material after each use, and keep the pile moist and never wet.
+11. Empty the finished chamber on the maker's cycle, and cure the material.
+12. Bury it under 12 inches of soil away from vegetable beds, rotating the site.
+13. Before the plan omits a flush toilet, get the building official's written answer that a compost toilet may be the only toilet fixture.
 
 **Professional**
 
-EPA WaterSense puts toilets at nearly 30 percent of an average home's indoor use, with older toilets at up to 6 gallons a flush against 1.28 for a labeled one. A composting toilet removes that line from the indoor figure and from the septic system's blackwater, and it leaves the drainfield's size unchanged. ORS 447.118 permits the occupant of a dwelling to install a compost toilet that meets the rules' minimums, and neither the statute nor the installation rule sets an occupancy or bedroom limit or requires a flush water closet beside it. Whether a building official reads the residential and plumbing codes as satisfied by a compost toilet alone is a question for the official in writing, because national practice expects a water closet in a dwelling.
+Older toilets use up to 6 gallons a flush against 1.28 for a WaterSense-labeled one, by EPA's figures. Composting removes that line from the indoor figure and from the septic system's blackwater, and it leaves the drainfield's size unchanged.
 
-InspectAPedia's composting-toilet pages and the Rise building guide describe the failures of full-time use after the first season: a self-contained unit overloaded past its rated capacity, a wet pile from poor liquid control, a stalled or underpowered fan, too little bulking material, and fruit flies and gnats in a wet or exposed pile. Liquid is the root of most odor and fly complaints, which is why urine diversion is the strongest single factor in a self-contained unit's long-term success and why a central chamber, which molders a large pile slowly and is emptied rarely, suits a full-time family. The fan runs continuously as a small always-on load, 1.4 to 2.5 watts in the Sun-Mar and Separett ratings the solar chapter lists, and it sits on the critical-loads panel because a stopped fan brings odor within hours. An incinerating toilet burns waste to ash with a heating element that draws several kilowatts for tens of minutes per use, read from the product's rating, and that draw argues against it in a battery-backed house. Finished compost amounts to a few cubic feet a person a year after the pile's water and volume are lost, and a rural parcel absorbs that for decades under the burial rule with rotated sites.
+ORS 447.118 permits the occupant of a dwelling to install a compost toilet that meets the rules' minimums. Neither the statute nor the installation rule sets an occupancy or bedroom limit or requires a flush water closet beside it. Whether a building official reads the residential and plumbing codes as satisfied by a compost toilet alone is a question for the official in writing, because national practice expects a water closet in a dwelling.
+
+InspectAPedia's composting-toilet pages and the Rise building guide describe the failures of full-time use after the first season. A self-contained unit is overloaded past its rated capacity, a pile goes wet from poor liquid control, a fan stalls or was underpowered, or the bulking material runs short. Fruit flies and gnats then colonize the wet or exposed pile.
+
+Liquid is the root of most odor and fly complaints. Urine diversion is therefore the strongest single factor in a self-contained unit's long-term success, and a central chamber, which molders a large pile slowly and is emptied rarely, suits a full-time family.
+
+Vent fans run continuously as a small always-on load, 1.4 to 2.5 watts in the Sun-Mar and Separett ratings the solar chapter lists, and the fan sits on the critical-loads panel because a stopped fan brings odor within hours. Incinerating toilets burn waste to ash with a heating element that draws several kilowatts for tens of minutes per use, read from the product's rating, and that draw argues against them in a battery-backed house. Finished compost amounts to a few cubic feet a person a year after the pile's water and volume are lost. Under the burial rule, with rotated sites, a rural parcel absorbs that for decades.
 
 **Code**
 
@@ -570,33 +657,40 @@ The compost-toilet vent clears the roofs around it.
 
 **Simple**
 
-By August the tank is the only water you have, and a gauge on its side tells you how many days are left. Divide the gallons left by the days until the rains usually return, and you have the day's budget. Households that ride out a dry summer watch that number every morning. The habits that move it are plain ones: shorter showers, full laundry loads, the garden on greywater and no water on the lawn. If the power and the well both fail, the drinking water comes from the tank through a filter that needs no electricity, or from a pot brought to a boil.
+By August the tank is the only water you have, and a gauge on its side tells you how many days are left. Divide the gallons left by the days until the rains usually return, and you have the day's budget. Households that ride out a dry summer watch that number every morning. Plain habits move it, shorter showers, full laundry loads, the garden on greywater and no water on the lawn. If the power and the well both fail, drinking water comes from the tank through a filter that needs no electricity. A pot brought to a boil is the other source.
 
 **Applied**
 
-1. Fit a sight tube or a float-and-dial gauge on the tank that reads without power, and add an electronic level sensor if the house system wants one.
-2. Each morning in the dry months, read the gallons, divide by the days to the wet season's usual return, and post the day's budget.
-3. Compare the budget with yesterday's draw from the meter, and cut irrigation first, then shower minutes, then laundry frequency.
-4. Set the target number of consecutive days with no rain and no well that the storage must cover, and write it in the binder.
-5. Run the autonomy check as stored gallons divided by the conservation-mode daily draw, counting the fire and buffer claims on the same water once.
-6. Stock the fallback kit: a gravity filter, clear PET bottles, a spare UV lamp, two sets of cartridges and the boil-water protocol.
-7. Keep an owner-built biosand filter with the kit, and start it 30 days before it is needed so its biological layer matures.
-8. Disinfect clear water in PET bottles in full sun for 6 hours, or 2 days under cloud, when nothing else is working.
-9. Boil cloudy water at a rolling boil for 1 minute, 3 minutes above 6,500 feet, per CDC's emergency guidance.
+1. Fit a sight tube or a float-and-dial gauge on the tank that reads without power.
+2. Add an electronic level sensor only as a second gauge, for logging and alarms.
+3. Each morning in the dry months, read the gallons and divide by the days to the wet season's usual return.
+4. Post that day's budget where the household sees it.
+5. Compare the budget with yesterday's draw from the meter.
+6. Cut irrigation first, then shower minutes, then laundry frequency.
+7. Set the target number of consecutive days with no rain and no well that the storage must cover.
+8. Write that target in the binder.
+9. Run the autonomy check as stored gallons divided by the conservation-mode daily draw.
+10. Count the fire and buffer claims on that same water once.
+11. Stock the fallback kit, a gravity filter, clear PET bottles, a spare UV lamp, two sets of cartridges and the boil-water protocol.
+12. Keep an owner-built biosand filter with the kit, started 30 days before it is needed so its biological layer matures.
+13. Disinfect clear water in PET bottles in full sun for 6 hours, or 2 days under cloud, when nothing else is working.
+14. Boil cloudy water at a rolling boil for 1 minute, 3 minutes above 6,500 feet, per CDC's emergency guidance.
 
 **Professional**
 
-A sight tube plumbed to the tank's bottom or a float driving an external dial reads the level through any outage and fails only by a stuck float. An ultrasonic or pressure-transducer sensor adds logging, trend and a low-level alarm at the price of a power dependency, so it is the second gauge and never the only one. The number the gauge produces is a daily budget, remaining gallons over days to the wet season's return, and the budget is what turns a tank into a habit.
+Plumbed to the tank's bottom, a sight tube reads the level through any outage, and a float driving an external dial fails only by a stuck float. An ultrasonic or pressure-transducer sensor adds logging, trend and a low-level alarm at the price of a power dependency, so it is the second gauge and never the only one. What the gauge produces is a daily budget, remaining gallons over days to the wet season's return, and that budget turns a tank into a habit.
 
-Vivek, Malghan and Mukherjee (2021) ran a field experiment in which a five-week habit intervention cut household water use by 15 to 25 percent without volumetric pricing and the cut persisted for more than a year, and the interventions that lasted were those that changed automatic behavior rather than appealing to effort. The Frugal Off Grid blog's account of high-desert households says the same in practice: a dry season is ridden out by daily awareness and conservative use rather than by any one device. The behaviors that move the number are the gauge read every morning, showers shortened, laundry batched to full loads, the garden on greywater, summer irrigation deferred or dropped, and a dry toilet through the dry months.
+Vivek, Malghan and Mukherjee (2021) ran a field experiment in which a five-week habit intervention cut household water use by 15 to 25 percent without volumetric pricing, and the cut persisted for more than a year. Interventions that lasted were those that changed automatic behavior rather than appealing to effort. Frugal Off Grid, a blog on high-desert households, says the same in practice. A dry season is ridden out by daily awareness and conservative use rather than by any one device. Behaviors that move the number are the gauge read every morning, showers shortened, laundry batched to full loads, the garden on greywater, summer irrigation deferred or dropped, and a dry toilet through the dry months.
 
-The target in step 4 is the plan's choice. Once it is set, the worst case counts stored volume alone, divided by the conservation-mode draw, because a grid-down event has no tie to a rain event and a dead well pump is the scenario's premise. The kit is sized to drinking and cooking water, a few gallons a person a day, and never to fixture demand. Solar disinfection in clear PET bottles kills bacteria and protozoa in clear water by ultraviolet light and heat, by the SODIS method's own guidance, and a gravity filter of the Berkey class delivers a few gallons an hour with no power. The resilience chapter holds the household's emergency plan, with the gravity filter and the stores, and this kit is documented there as well as here.
+Step 7's target is the plan's choice and Jon's to set. Once it is set, the worst case counts stored volume alone, divided by the conservation-mode draw, because a grid-down event has no tie to a rain event and a dead well pump is the scenario's premise.
+
+Kit sizing follows drinking and cooking water, a few gallons a person a day, and never fixture demand. Solar disinfection in clear PET bottles kills bacteria and protozoa in clear water by ultraviolet light and heat, by the SODIS method's own guidance. A gravity filter of the Berkey class delivers a few gallons an hour with no power. Emergency planning for the household, with the gravity filter and the stores, is stated in the resilience chapter, and this kit is documented there as well as here.
 
 ## 18.16 A fire reserve in the same tank
 
 **Simple**
 
-The bottom of the cistern can hold the water a fire engine needs, and the house cannot drink it by accident. The house's pipe draws from a point partway up the tank, so ordinary use stops at that level. The fire connection draws from the floor. A truck pulls the water out through a dry hydrant, a capped pipe at the roadside with a strainer at the bottom of the tank. How many gallons the district wants, and where the truck must be able to park, the district decides in writing. One roof and one gutter can fill both volumes.
+The bottom of the cistern can hold the water a fire engine needs. The house cannot drink it by accident. Your house's pipe draws from a point partway up the tank, so ordinary use stops at that level. The fire connection draws from the floor. A truck pulls the water out through a dry hydrant, a capped pipe at the roadside with a strainer at the bottom of the tank. The district decides in writing how many gallons it wants and where the truck must be able to park. One roof and one gutter can fill both volumes.
 
 **Applied**
 
@@ -604,21 +698,24 @@ The bottom of the cistern can hold the water a fire engine needs, and the house 
 2. Set the domestic takeoff above the reserve level and the fire takeoff at the floor, with no shared suction point.
 3. Where the fire line runs off the pressurized house side instead, fit a check valve and a low-level cutoff at the reserve line.
 4. Run a dry hydrant with a strainer to a firm all-weather pad the engine can reach within the district's hose distance.
-5. Where the reserve also feeds a sprinkler system, test the stored water for pH, filterable solids and turbidity to the ASTM methods NFPA 13 names, and correct acidity.
-6. Build a tank that serves fire protection to NFPA 22 as well as the plumbing code.
-7. Label the hydrant, record the reserve volume in the binder, and tell the district when the tank is full.
+5. Where the reserve also feeds a sprinkler system, test the stored water for pH, filterable solids and turbidity to the ASTM methods NFPA 13 names.
+6. Correct the water's acidity before it reaches sprinkler piping.
+7. Build a tank that serves fire protection to NFPA 22 as well as the plumbing code.
+8. Label the hydrant, record the reserve volume in the binder, and tell the district when the tank is full.
 
 **Professional**
 
-Combined-service tanks in standpipe practice draw each service from its own takeoff elevation. The domestic suction sits above the reserved volume, so household draw stops at that level, and the fire suction reaches the floor, so no single pickup can be pulled down past the domestic intake by a large fire draw. Where the fire line is fed from the pressurized domestic side, a check valve and a float-actuated low-level cutoff enforce the same reserve. One roof and one conveyance path can fill both volumes, and the single points of failure in a shared system are the gutter path and the tank shell rather than the roof, which is the case for two tanks.
+Combined-service tanks in standpipe practice draw each service from its own takeoff elevation, so no single pickup can be pulled down past the domestic intake by a large fire draw. Where the fire line is fed from the pressurized domestic side, a check valve and a float-actuated low-level cutoff enforce the same reserve. One roof and one conveyance path can fill both volumes. Shared systems fail at the gutter path and the tank shell rather than the roof, which is the case for two tanks.
 
-NFPA 13 has always accepted static sources such as ponds, which are open collections of rain, so a separated, backflow-protected rainwater tank can supply a sprinkler reserve. Pioneer Water Tanks and Fire Protection Water Tanks, two tank vendors, list what that adds: the water is tested for pH by ASTM D5464 and for filterable solids by ASTM D1253, the owner's certificate discloses corrosive conditions, rainwater's acidity is corrected so it does not corrode the sprinkler piping, and a tank serving fire protection is built to NFPA 22, Standard for Water Tanks for Private Fire Protection. NFPA 1142 sizes a rural supply from the structure's volume, its construction classification and its occupancy hazard, with concrete and masonry classified more favorably than wood frame, and the district runs or checks that calculation against the finished house. The resilience chapter carries the calculation and the stored-water plan.
+NFPA 13 has always accepted static sources such as ponds, which are open collections of rain, so a separated, backflow-protected rainwater tank can supply a sprinkler reserve. Pioneer Water Tanks and Fire Protection Water Tanks, two tank vendors, list what that adds. The water is tested for pH by ASTM D5464 and for filterable solids by ASTM D1253, the owner's certificate discloses corrosive conditions, and rainwater's acidity is corrected so it does not corrode the sprinkler piping. A tank serving fire protection is built to NFPA 22, Standard for Water Tanks for Private Fire Protection.
+
+NFPA 1142 sizes a rural supply from the structure's volume, its construction classification and its occupancy hazard, with concrete and masonry classified more favorably than wood frame, and the district runs or checks that calculation against the finished house. Calculation and stored-water plan are stated in the resilience chapter.
 
 ## 18.17 Faults and fixes
 
 **Simple**
 
-Most of what goes wrong with a rain system shows up as a slow change: a tank that stops filling on rainy days, a lamp that still glows but no longer disinfects, a valve seat that leaks. The table lists the symptom, the usual cause and the fix. Each one is caught by a walk around the system before and after the first storms of autumn and a look at the gauge every morning in summer.
+Most of what goes wrong with a rain system shows up as a slow change. The tank stops filling on rainy days, or a lamp still glows but no longer disinfects, or a valve seat leaks. The table lists the symptom, the usual cause and the fix. A walk around the system before and after the first autumn storms catches most of them. The gauge, read every morning in summer, catches the rest.
 
 **Applied**
 
@@ -680,7 +777,7 @@ Most of what goes wrong with a rain system shows up as a slow change: a tank tha
 - **Cost of skipped guard cleaning.** Unknown: a costed figure for the yield and filter life lost to an uncleared needle mat. Answered by: the first wet season's log of yield against rain and of cartridge life. Assumed meanwhile: a seasonal sweep and storm-bracketed inspections.
 - **Installed cost of the vortex filter.** Unknown: the installed price with fittings and labor. Answered by: an installer's quote. Assumed meanwhile: the $658 base price plus installation.
 - **Measured turbidity.** Unknown: the turbidity the finished roof and train deliver to the lamp. Answered by: the commissioning test and the first autumn storm's test. Assumed meanwhile: under 5 NTU in ordinary weather, with a polishing stage or an alarm for spikes.
-- **OPSC Chapter 16 tank sections.** Unknown: the 2026 text and numbers of the storage-tank, overflow, vent-screen and marking sections of Chapter 16 that the change summary did not reprint. Answered by: the 2026 codebook at epubs.iapmo.org. Assumed meanwhile: the tank hardware rules the plumbing water-supply chapter carries, and the mosquito guidelines for the mesh.
+- **OPSC rainwater tank sections.** Unknown: the 2026 text and numbers of the storage-tank, overflow, vent-screen and marking sections of the plumbing code's rainwater chapter, which the change summary did not reprint. Answered by: the 2026 codebook at epubs.iapmo.org. Assumed meanwhile: the tank hardware rules the plumbing water-supply chapter carries, and the mosquito guidelines for the mesh.
 - **DEQ fee increase.** Unknown: the Tier 1 and Tier 2 greywater fees after DEQ's November 2026 water-quality fee increase. Answered by: DEQ's Table 70 fee schedule. Assumed meanwhile: $50 plus $40 and $534 plus $50, from DEQ's schedule and its 2013 homeowner guide.
 - **General Permit 2401's current issue.** Unknown: whether the 2401 permit posted with a June 1, 2017 effective date has been reissued, and whether its conditions changed. Answered by: DEQ's graywater program page and the current permit text. Assumed meanwhile: the posted permit's conditions.
 - **Graywater setback table in the rule.** Unknown: nothing in substance, but Table 2 of OAR 340-053-0090 was read as reproduced in the 2401 permit and DEQ's guide rather than in the rule's own PDF. Answered by: the Secretary of State's PDF of the rule. Assumed meanwhile: the permit's figures.
