@@ -107,3 +107,5 @@ Refill plan until 12:00 PM (dispatch on Opus as writers finish, each new chapter
 2026-11-03 (1:11 PM): the six v5 writers (6, 18, 20, 26, 33, 36) resumed with a plain "continue" by SendMessage; all six replied "Resuming agent" (same session, no transcript copy needed). NEXT: as each reports, merge flags, lint, review in full, log rows 12 onward, commit.
 
 2026-11-03 (1:27 PM): chapter 18 (Water Independence) reported done under v5: 397 -> 15,781 words, 17 sections, 18 Code entries, 26 open items, lint PASS (0 FAIL, 0 WARN), 116 items integrated or routed, research/new/ch18.md with 12 findings and 6 flags (merged into _cross-chapter-flags.md). Reviewer dispatched to read it in full (worklogs/review-ch18.md).
+
+2026-11-03 (1:28 PM), Jon: "Finish all running agents. Do not start any more once they finish." Running: writers 6, 20, 26, 33, 36 and the chapter 18 reviewer. As each reports: merge its flags, lint, log, commit and push. No new agents (so no reviews of 6, 20, 26, 33, 36 in this session). NEXT after they finish: wait for Jon.
