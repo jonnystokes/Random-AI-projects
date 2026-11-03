@@ -107,7 +107,7 @@ Hold the utility's service-planning meeting before the foundation drawings are f
 
 **Professional**
 
-From the transformer to the meter socket the utility's manual governs, and from the socket inward the electrical code does. On the utility's side the trench and the conductor follow the National Electrical Safety Code and the utility's standards. Both utilities in the table supply the available fault current on request. Pacific Power puts the usual interrupting rating of a 200-ampere residential service at 10,000 amperes and warns that a large transformer close to the house can exceed it. That one figure sets the rating of every piece of service equipment on the wall. Both columns of the table below are read from the utilities' own documents.
+From the transformer to the meter socket the utility's manual governs, and from the socket inward the electrical code does. On the utility's side the trench and the conductor follow the National Electrical Safety Code and the utility's standards. Both utilities in the table supply the available fault current on request. Pacific Power puts the usual interrupting rating of a 200-ampere residential service at 10,000 amperes and warns that a large transformer close to the house can exceed it. That one figure sets the rating of every piece of service equipment on the wall. Each column of the table below is read from that utility's own documents.
 
 | Requirement | Pacific Power, Electric Service Requirements Manual (2022, revised 2024) | Portland General Electric, residential construction pages (2026) |
 |---|---|---|
@@ -188,7 +188,7 @@ A separate structure fed from the house service gets its own disconnect and elec
 
 **Simple**
 
-Sizing the service means adding up the loads and discounting them, because they never all run at once. It counts the first slice of the load in full and a fraction of the rest. Heat pump and car chargers are added without discount. On paper, an all-electric house with two chargers and a shop comes out just over 200 amperes. That leaves two ways to build it. One is 400 amperes with spare room. The other is 200 amperes with a panel that pauses the chargers while the oven runs. Costs are 2026 figures unless a different year is given. Raising a finished house to 400 amperes costs $8,000 to $12,000 in Fixr's national guide, before the utility's charges.
+Sizing the service means adding up the loads and discounting them, because they never all run at once. That calculation counts the first slice of the load in full and a fraction of the rest. Heat pump and car chargers are added without discount. On paper, an all-electric house with two chargers and a shop comes out just over 200 amperes. That leaves two ways to build it. One is 400 amperes with spare room. The other is 200 amperes with a panel that pauses the chargers while the oven runs. Costs are 2026 figures unless a different year is given. Raising a finished house to 400 amperes costs $8,000 to $12,000 in Fixr's national guide, before the utility's charges.
 
 **Applied**
 
@@ -220,7 +220,7 @@ Build the load inventory before the service equipment is ordered.
 
 **Professional**
 
-Under the standard method each class of load takes its own demand factor, and the optional method for a single dwelling sums every load at nameplate and discounts all of it past an initial tier. For a house full of large appliances the optional method yields less demand, and it is the method a dwelling with electric heat is sized by in practice. One representative all-electric program, with nameplates assumed where the equipment is not yet chosen, is in the table.
+Under the standard method each class of load takes its own demand factor, and the optional method for a single dwelling sums every load at nameplate and discounts all of it past an initial tier. For a house full of large appliances the optional method yields less demand, and it is the method an all-electric dwelling is sized by. One representative all-electric program, with nameplates assumed where the equipment is not yet chosen, is in the table.
 
 | Load | Nameplate, volt-amperes |
 |---|---|
@@ -281,7 +281,7 @@ Dwelling service conductors may be sized at 83 percent of the service rating.
 
 **Simple**
 
-Smart panels are breaker panels with a computer inside, able to switch off a circuit when the house draws too much. With one, two car chargers, a heat pump, a water heater and a range share a 200-ampere service. It slows or pauses the chargers for the minutes the oven and the dryer run together. Oregon's code accepts that when the panel is listed for it, and counts the managed loads at the panel's limit. Its price is a dependence. That software has to keep working for the life of the service. If it stops, the house is a plain 200-ampere panel with two chargers it cannot run at once. No software sits in a 400-ampere service.
+Smart panels are breaker panels with a computer inside, able to switch off a circuit when the house draws too much. With one, two car chargers, a heat pump, a water heater and a range share a 200-ampere service. It slows or pauses the chargers for the minutes the oven and the dryer run together. Oregon's code accepts that when the panel is listed for it, and counts the managed loads at the panel's limit. Its price is a dependence. Its software has to keep working for the life of the service. If it stops, the house is a plain 200-ampere panel with two chargers it cannot run at once. No software sits in a 400-ampere service.
 
 **Applied**
 
@@ -407,7 +407,7 @@ Footing steel is the house's connection to the earth, made on pour day or never.
 
 **Professional**
 
-Concrete in contact with soil stays damp and conductive. Its long contact area gives a footing a lower resistance to earth than a rod, which depends on whatever soil it meets and dries out in August. Direct earth contact is the qualification. By the rule's informational note, a vapor barrier, insulation or a similar film between the concrete and the earth ends that contact, and this house's slab sits on both.
+Concrete in contact with soil stays damp and conductive. A footing's long contact area gives it a lower resistance to earth than a rod, which depends on whatever soil it meets and dries out in August. Direct earth contact is the qualification. By the rule's informational note, a vapor barrier, insulation or a similar film between the concrete and the earth ends that contact, and this house's slab sits on both.
 
 Oregon's residential code writes the detail into the footing itself, bar, position, stub and ties, and the electrical code sets the electrode's minimum length and cover. Where several footings qualify, bonding one of them satisfies the code. Welded connections at the major intersections are the project's practice, because they make the whole shell one low-impedance electrode, and a welded joint cannot loosen where a clamp can.
 
@@ -451,7 +451,7 @@ A single rod needs a second electrode unless it tests low.
 
 **Simple**
 
-Bonding ties every piece of metal in the house together, so a fault has a short, heavy path back to the breaker. When a hot wire touches a pipe or a panel box, the bond carries the current back to the source. Then the breaker trips in a fraction of a second, instead of leaving the metal live. Its neutral touches ground at one place only, the main switch outside. Any second connection downstream lets everyday neutral current wander through the pipes and the ground wires. That heats connections and makes the safety breakers trip for no reason. Water pipes, the well casing and the generator's gas line all get a bond wire to the panel.
+Bonding ties every piece of metal in the house together, so a fault has a short, heavy path back to the breaker. When a hot wire touches a pipe or a panel box, the bond carries the current back to the source. Then the breaker trips in a fraction of a second, instead of leaving the metal live. The wiring's neutral touches ground at one place only, the main switch outside. Any second connection downstream lets everyday neutral current wander through the pipes and the ground wires. That heats connections and makes the safety breakers trip for no reason. Water pipes, the well casing and the generator's gas line all get a bond wire to the panel.
 
 **Applied**
 
