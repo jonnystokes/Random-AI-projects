@@ -534,21 +534,27 @@ Where an anchor bolt is missed despite the checklist, a post-installed anchor co
 
 **Simple**
 
-Every opening cuts a path the loads were using, and something has to carry them around it. Over a window or door, a lintel does that: a steel angle, a precast concrete beam, or a block course filled with grout and bars that spans the gap. Its ends must rest far enough onto solid, grouted block to pass the load down. A stair opening does the same thing to a floor, and a floor also works as the house's horizontal earthquake brace. Bars cut by the opening are replaced around its edges. Past a certain size, one hole puts the whole story into engineered design.
+Every opening cuts a path the loads were using, and something has to carry them around it. Over a window or door, a lintel does that. It can be a steel angle, a precast concrete beam, or a block course filled with grout and bars. Its ends must rest far enough onto solid, grouted block to pass the load down. Stair openings do the same thing to a floor, and a floor also works as the house's horizontal earthquake brace. Bars cut by the opening are replaced around its edges. Past a certain size, one hole puts the whole story into engineered design.
 
 **Applied**
 
 1. Have the engineer size every lintel in the block wall from the load above it.
-2. Bear each lintel at least 4 inches on cells grouted solid, in a full mortar bed.
-3. Run the bond beam's bars past each opening for the development length the drawings give.
-4. Add the trim, diagonal and chord bars around each slab opening as drawn, before the pour.
-5. Keep stair openings under the irregularity threshold, or have the engineer design the story's diaphragm with chords and collectors.
+2. Bear each lintel at least 4 inches on cells grouted solid.
+3. Set each bearing in a full mortar bed.
+4. Run the bond beam's bars past each opening for the development length the drawings give.
+5. Add the trim, diagonal and chord bars around each slab opening before the pour.
+6. Keep stair openings under the irregularity threshold.
+7. Past it, have the engineer design the story's diaphragm with chords and collectors.
 
 **Professional**
 
-Masonry over an opening rests on a steel lintel, a reinforced concrete or masonry lintel, or an arch, each designed for the load it carries (Code below). Three lintel types serve the block wall: a steel angle or fabricated beam, a precast reinforced concrete lintel, and a reinforced grouted lintel block, U-shaped units carrying bars and grout. CMHA's Lintel Design Manual TR91B tabulates load-rated spans for the masonry types, and its TEK 14-08B gives the bearing minimum that TMS 402 sets. Bearing ends land on solidly grouted cells, and the number of grouted jamb cells and any jamb bars follow from the lintel's end reaction. A 10-foot-class opening, the garage or barn door case, carries roof, wall and snow load that puts the lintel past a nominal angle and into a sized steel member or a published-table masonry lintel. Steel-angle lintels under the brick veneer have their own span table in the residential code, stated in the wall system chapter.
+Masonry over an opening rests on a steel, reinforced concrete or masonry lintel, or on an arch, each designed for the load it carries (Code below). Three lintel types serve the block wall: a steel angle or fabricated beam, a precast reinforced concrete lintel, and a reinforced grouted lintel block of U-shaped units carrying bars and grout. CMHA's Lintel Design Manual TR91B tabulates load-rated spans for the masonry types, and its TEK 14-08B states the bearing minimum that TMS 402 sets.
 
-In a cast-in-place slab diaphragm, the bars the opening interrupts are replaced beside it, half above and half below the opening at the slab edges. The engineer's typical detail adds two No. 5 diagonal bars at each corner with a 4-foot lap into the uninterrupted slab, continuous chord steel along the opening's edge of No. 5 at minimum with a 40-bar-diameter lap, and the slab's minimum reinforcement ratio throughout. ACI 318-19's one-way and two-way slab chapters and its diaphragm chapter govern those details. In a block wall, a bond beam interrupted by an opening takes supplementary bars developed on each side of it, two No. 5 at minimum with a 48-bar-diameter lap, and the continuous bars above and below the opening extend 24 inches past its edges. A stair opening longer than the irregularity threshold puts the whole story into engineered design, with collector and chord reinforcement in place of a trim detail.
+Bearing ends land on solidly grouted cells. How many jamb cells are grouted, and whether the jamb takes bars, follows from the lintel's end reaction. A 10-foot-class opening, the garage or barn door case, carries roof, wall and snow load that puts the lintel past a nominal angle and into a sized steel member or a published-table masonry lintel. Steel-angle lintels under the brick veneer have their own span table in the residential code, stated in the wall system chapter.
+
+In a cast-in-place slab diaphragm, the bars the opening interrupts are replaced beside it, half above and half below the opening at the slab edges. Two No. 5 diagonal bars at each corner, lapped 4 feet into the uninterrupted slab, are the engineer's typical corner detail. Continuous chord steel of No. 5 at minimum runs along the opening's edge with a 40-bar-diameter lap, and the slab keeps its minimum reinforcement ratio throughout. ACI 318-19's slab and diaphragm provisions govern those details.
+
+In a block wall, a bond beam interrupted by an opening takes supplementary bars developed on each side of it, two No. 5 at minimum with a 48-bar-diameter lap. Continuous bars above and below the opening extend 24 inches past its edges. Past the irregularity threshold, a stair opening puts the whole story into engineered design, with collector and chord reinforcement in place of a trim detail.
 
 **Code**
 
@@ -562,15 +568,16 @@ Masonry over an opening bears on a designed lintel or arch.
 
 **Simple**
 
-A floor here can be concrete poured in place, factory concrete planks craned into position, concrete over steel, or factory-engineered wood. Concrete floors last as long as the walls and need the engineer. Wood floors are the low-cost prescriptive route and have the shortest life. For the engineered shell the default is hollow-core plank: factory-cast concrete slabs with round voids through them, set by crane and topped with a thin layer of poured concrete that ties them together. A bare concrete floor is loud underfoot in the room below. A floating finish floor over a resilient mat fixes that without touching the structure.
+Floors here can be concrete poured in place, factory concrete planks craned into position, concrete over steel, or factory-engineered wood. Concrete floors last as long as the walls and need the engineer. Wood floors are the low-cost prescriptive route and have the shortest life. For the engineered shell the default is hollow-core plank. Planks are factory-cast concrete slabs with round voids through them. A crane sets them, and a thin layer of poured concrete on top ties them together. Bare concrete floors are loud underfoot in the room below. Floating a finish floor over a resilient mat fixes that without touching the structure.
 
 **Applied**
 
-1. Size each span early at a depth of span over 24 for a cast-in-place slab and span over 40 for hollow-core.
-2. For a 24-foot span, plan a 12-inch cast-in-place slab or an 8-inch hollow-core plank.
-3. Confirm crane access and delivery turning room for planks before the floor system is fixed.
-4. On the prescriptive path, file the joist or truss maker's evaluation report and span tables with the permit.
-5. Over any occupied room, specify a floating finish floor on a resilient underlayment with the interior finishes.
+1. Size a cast-in-place slab early at a depth of span over 24.
+2. Size hollow-core at span over 40.
+3. For a 24-foot span, plan a 12-inch cast-in-place slab or an 8-inch hollow-core plank.
+4. Confirm crane access and delivery turning room for planks before the floor system is fixed.
+5. File the wood joist or truss maker's evaluation report and span tables with the permit.
+6. Over any occupied room, specify a floating finish floor on a resilient underlayment.
 
 **Professional**
 
@@ -582,9 +589,11 @@ A floor here can be concrete poured in place, factory concrete planks craned int
 | Manufacturer-engineered wood I-joists | 9-1/2 to 16 inches deep, to the maker's span tables, continuous over bearing walls or beams | Lowest cost, fast install, the maker's stamp carrying the engineering | Wood, with a shorter design life and vulnerability to fire and water |
 | Manufacturer-engineered wood floor trusses | 12 to 24 inches deep, open web, designed and stamped by the maker | Long spans, integrated mechanical chases, the maker's stamp | Wood, with the same vulnerabilities as I-joists |
 
-For the engineered shell, hollow-core precast is the primary path at spans of 16 to 32 feet, and the cast-in-place one-way slab is the alternative at shorter spans where single-material formwork is simpler than a crane day. The PCI Manual for the Design of Hollow Core Slabs and Walls is the industry design manual behind the planks, and the maker's stamped shop drawings and erection sequence go in the permit file. Elevated structural slabs are designed under ACI 318-19's one-way and two-way slab chapters, never under the slab-on-ground provisions of ACI 332-20. On the prescriptive path, wood I-joists or open-web wood trusses are the default, and the owner submits the maker's product evaluation report and span tables with the permit, the stamp doing the engineering.
+For the engineered shell, hollow-core precast is the primary path at spans of 16 to 32 feet. Cast-in-place one-way slab is the alternative at shorter spans, where single-material formwork is simpler than a crane day. Behind the planks stands the PCI Manual for the Design of Hollow Core Slabs and Walls, the industry design manual, and the maker's stamped shop drawings and erection sequence go in the permit file. Elevated structural slabs are designed under ACI 318-19's slab chapters, never under the slab-on-ground provisions of ACI 332-20.
 
-A bare concrete slab performs poorly against footfall. Commercial Acoustics' and AcousPlan's rating guides put a bare 4-inch reinforced slab near Impact Insulation Class 25 and a bare 8-inch slab near 28, so footsteps on an unfinished concrete floor are audible in the room below. The correction is a floating finish floor on a resilient underlayment of rubber, cork or a rated acoustic mat, which decouples the walking surface from the slab. A resilient mat under a hard finish reaches a class of 50 to 60, and underlayment plus carpet 65 to 75, with each product publishing the points it adds over the bare slab. The assembly changes nothing in the structural slab, and the interiors chapter selects it with the finishes.
+On the prescriptive path, wood I-joists or open-web wood trusses are the default. Their maker's product evaluation report and span tables go in with the permit, and the stamp does the engineering.
+
+Bare concrete slabs perform poorly against footfall. Commercial Acoustics' and AcousPlan's rating guides put a bare 4-inch reinforced slab near Impact Insulation Class 25 and a bare 8-inch slab near 28. Footsteps on an unfinished concrete floor are therefore audible in the room below. Floating the finish floor on a resilient underlayment of rubber, cork or a rated acoustic mat decouples the walking surface from the slab. Under a hard finish a resilient mat reaches a class of 50 to 60, and underlayment plus carpet 65 to 75. Each product publishes the points it adds over the bare slab. Nothing in the structural slab changes, and the interiors chapter selects the assembly with the finishes.
 
 **Code**
 
@@ -598,15 +607,18 @@ On the prescriptive masonry path, the floor and roof diaphragms are wood panels 
 
 **Simple**
 
-Your roof is two things with two lifespans. The structure that holds it up should last as long as the walls. The weather surface on top is replaced two or three times in a century. The design keeps them separate so the second never damages the first. On a concrete deck the membrane comes off and goes back on without touching the structure. Oregon's roof collapses on record broke at the connections under drifted snow, not in the framing, which is why the connections get the engineer's attention here.
+Your roof is two things with two lifespans. Its structure should last as long as the walls. Its weather surface is replaced two or three times in a century. Keeping them separate means the second never damages the first. On a concrete deck the membrane comes off and goes back on without touching the structure. Oregon's roof collapses on record broke at the connections under drifted snow, not in the framing. That is why the connections get the engineer's attention here.
 
 **Applied**
 
-1. Have the engineer check drift at every parapet, valley and roof step against the load standard's drift provisions.
-2. Slope a concrete deck at least 1/4 inch per foot to drains, with an overflow for each drained area.
-3. For the truss option, read the required uplift from the code's table, and select a connector rated at or above it.
-4. Where the house deck meets a separate structure's metal roof, run an expansion joint from roof to foundation, with an 8-inch roof curb.
-5. Cast in anchor plates for future solar racking, or plan ballasted racks that need no penetration.
+1. Have the engineer check snow drift at every parapet, valley and roof step.
+2. Slope a concrete deck at least 1/4 inch per foot to its drains.
+3. Give each drained area an overflow.
+4. On the truss option, read the required uplift from the code's table.
+5. Select a connector rated at or above it.
+6. Where the house deck meets a separate structure's metal roof, run an expansion joint from roof to foundation.
+7. Raise an 8-inch curb at the joint on the roof.
+8. Cast in anchor plates for future solar racking, or plan ballasted racks.
 
 **Professional**
 
@@ -616,21 +628,21 @@ Your roof is two things with two lifespans. The structure that holds it up shoul
 | Concrete deck under a sloped wood-framed false roof | The same deck, with treated sleepers carrying a 3:12 to 6:12 frame under metal or slate | 100 years and more | 50 to 70 years for 24-gauge standing seam, 75 to 150 for natural slate | The alternate where slope is wanted, engineered, at higher cost |
 | Wood truss roof on the bond beam | Manufacturer-engineered trusses at two-foot spacing, bearing on the bond beam | 50 to 80 years for the truss assembly | 50 to 70 years for metal, 15 to 30 for asphalt shingle | The prescriptive option, with the maker's stamp carrying the engineering |
 
-Asphalt shingles are rejected on both paths, because a 15-to-30-year surface does not belong on a shell with a multi-century life. A flat concrete deck slopes to drains at every low point, carries an overflow wherever a parapet could trap water, and is checked for ponding instability under ASCE 7-16 section 8.4. The roof system chapter holds the assembly, the parapet and edge detail, and the drainage design. On a concrete deck, future solar racking is either cast-in anchor plates set at design time or ballasted racks on the finished membrane roof, which add no penetrations and whose foot loads are checked against the insulation's compressive strength.
+Asphalt shingles are rejected on both paths, because a 15-to-30-year surface does not belong on a shell with a multi-century life. Flat concrete decks slope to drains at every low point and carry an overflow wherever a parapet could trap water. ASCE 7-16 section 8.4 is the ponding-instability check. Assembly, parapet and edge detail, and the drainage design are stated in the roof system chapter. Future solar racking on a concrete deck is either cast-in anchor plates set at design time or ballasted racks on the finished membrane roof. Ballasted racks add no penetrations, and their foot loads are checked against the insulation's compressive strength.
 
-On the truss option the code's uplift table gives the force each truss-to-wall connection must resist, by wind speed, exposure, spacing, span and pitch. At or under the table's threshold the standard fastening schedule serves without a rated connector, and above it a load-rated tie is selected from the maker's evaluation report. Every Oregon county's design wind speed falls within the table's range, so catalog hardware meets the demand outside the special wind regions. Inside one, or anywhere on the engineered path, the connection design moves to the engineer with the rest of the roof.
+On the truss option the code's uplift table lists the force each truss-to-wall connection must resist, by wind speed, exposure, spacing, span and pitch. At or under the table's threshold the standard fastening schedule serves without a rated connector. Above it, a load-rated tie is selected from the maker's evaluation report. Every Oregon county's design wind speed falls within the table's range, so catalog hardware meets the demand outside the special wind regions. Inside one, or anywhere on the engineered path, the connection design moves to the engineer with the rest of the roof.
 
 ### Oregon snow failures on record
 
-Three documented collapses set the design lesson. An east Multnomah County warehouse failed in December 2008, with 3 to 5 feet of drifted snow at the parapets and 2 to 3 feet over the field, and 24 trusses came down. Rad, Afghan and Lewis's 2018 forensic report, from Portland State University, found load above the design load, drift against tall parapets beyond the design assumption, construction defects and progressive collapse as each failing truss shed load to its neighbor. Of the failed trusses, 18 failed at connection welds and 6 by concrete breakout at the connection. A northern Oregon manufacturing plant lost 80,000 square feet of a 400,000-square-foot roof in November 2014 under snow, freezing rain and temperatures near minus 20°F, as StructureMag's article on the collapse records. North Medford High School's gymnasium roof collapsed in 2025 under a reported 350 tons of snow, per KOIN and KGW.
+Three documented collapses in Oregon set the design lesson. In December 2008 an east Multnomah County warehouse failed with 3 to 5 feet of drifted snow at the parapets and 2 to 3 feet over the field, and 24 trusses came down. Rad, Afghan and Lewis's 2018 forensic report from Portland State University found four causes. Load exceeded the design value, drift piled against tall parapets beyond the design assumption, and construction defects were present. Each failing truss then shed load to its neighbor, and the collapse progressed. Of the failed trusses, 18 failed at connection welds and 6 by concrete breakout at the connection. In November 2014 a northern Oregon manufacturing plant lost 80,000 square feet of a 400,000-square-foot roof under snow, freezing rain and temperatures near minus 20°F. StructureMag's article on the collapse records it. In 2025 North Medford High School's gymnasium roof collapsed under a reported 350 tons of snow, per KOIN and KGW.
 
-The documented mechanism is connection margin and drift load at parapets and roof discontinuities, not the framing material. A concrete deck has no truss connections to fail, and the truss option is manufacturer-engineered with its connections inside the stamped design, against the site's ground snow load from the lookup. The engineer checks drift at every parapet, valley and roof step in the actual geometry, because the 2008 collapse followed drift beyond the design assumption.
+Connection margin and drift load at parapets and roof discontinuities are the documented mechanism, not the framing material. Concrete decks have no truss connections to fail. On the truss option the connections sit inside the maker's stamped design, against the site's ground snow load from the lookup. Drift is checked at every parapet, valley and roof step in the actual geometry, because the 2008 collapse followed drift beyond the design assumption.
 
 ### Where a concrete deck meets a metal roof
 
-An expansion joint is standard where the main house's concrete deck meets a standing-seam metal roof over an attached but structurally separate garage or shop. Nystrom's roof-to-roof joint guidance and the IIBEC Ohio Valley fact sheet on roof decks each name two conditions that require it, and both are present here: a change of deck material, and a heated building meeting an unheated one. The joint runs from rooftop to foundation with parallel structural elements on each side, so each section moves on its own, and a roof-level cover alone does not decouple the two structures. The roof-level detail is a raised curb with a flexible cover spanning the gap. Whether the wall-to-wall connection needs the same full-height treatment is set when the attachment is designed.
+Where the main house's concrete deck meets a standing-seam metal roof over an attached but structurally separate garage or shop, an expansion joint is standard. Nystrom's roof-to-roof joint guidance and the IIBEC Ohio Valley fact sheet on roof decks each name two conditions that require it. Both are present here, a change of deck material and a heated building meeting an unheated one. Such a joint runs from rooftop to foundation with parallel structural elements on each side, so each section moves on its own. A roof-level cover alone does not decouple the two structures. At roof level the detail is a raised curb with a flexible cover spanning the gap. Whether the wall-to-wall connection needs the same full-height treatment is set when the attachment is designed.
 
-Gutters, downspouts and any first-flush diverter fail by freezing while full of water, not by structural overload. Their sizing and freeze protection are part of the rainwater-catchment design, ice dams at the eave trace to roof heat loss rather than to the structure, and snowmelt adds to the annual catchment yield on a delayed schedule at lower peak flow than rain.
+Gutters, downspouts and any first-flush diverter fail by freezing while full of water, not by structural overload. Their sizing and freeze protection belong to the rainwater-catchment design. Ice dams at the eave trace to roof heat loss rather than to the structure. Snowmelt adds to the annual catchment yield on a delayed schedule, at lower peak flow than rain.
 
 **Code**
 
@@ -652,11 +664,11 @@ A flat roof drains at each low point and overflows wherever water could be trapp
 
 **Simple**
 
-A service layer is a hollow space between floors that carries the pipes, wires and ducts. The code sorts any such space by its height and by how people get into it, and the sorting decides which rules apply. A shallow sealed space reached through panels is a concealed space. A space tall enough to walk into, with a ladder and lights, is a story in its own right. Anything in between is argued over at plan review, and the argument slows the permit. This house uses one of the two clean cases and nothing in between.
+Service layers are hollow spaces between floors that carry the pipes, wires and ducts. Oregon's code sorts any such space by its height and by how people get into it, and the sorting decides which rules apply. Reached through panels, a shallow sealed space is a concealed space. Tall enough to walk into, with a ladder and lights, it is a story in its own right. Anything in between is argued over at plan review, and the argument slows the permit. This house uses one of the two clean cases and nothing in between.
 
 **Professional**
 
-The residential code defines a story from floor surface to floor surface and sets its own rules for habitable space, under-floor space, concealed space and mezzanines (Code below). A service layer falls into one of them by its clear height and its access.
+Oregon's residential code defines a story from floor surface to floor surface and sets its own rules for habitable space, under-floor space, concealed space and mezzanines (Code below). By its clear height and its access, a service layer falls into one of them.
 
 | Classification | What it is | Consequence |
 |---|---|---|
@@ -665,7 +677,7 @@ The residential code defines a story from floor surface to floor surface and set
 | Concealed space | Space that is not occupied and is entered only for inspection or maintenance | Fireblocking and draftstopping where the construction is combustible, and the mechanical code's material limits where it serves as a return-air plenum |
 | Mezzanine | An intermediate level within a room, under the code's area limit | Part of the room below, not a separate story |
 
-Where a service layer is large enough for a person to enter, some building officials classify it as a mezzanine, an attic or a story, and the classification is argued case by case. Two classifications avoid the argument. The first is a concealed plenum of 30 inches clear or less, reached only through removable panels, with no story consequence. The second is a conditioned mechanical level of 4 feet clear or more, with ventilation, lighting and a permanent ladder or stair, counted as a story and designed as one. The band between them is the plan's own threshold, not a code number, and the house picks one of the two.
+Where a service layer is large enough for a person to enter, some building officials classify it as a mezzanine, an attic or a story. That classification is argued case by case. Two classifications avoid the argument. Under 30 inches clear and reached only through removable panels, a concealed plenum has no story consequence. At 4 feet clear or more, with ventilation, lighting and a permanent ladder or stair, a conditioned mechanical level is counted and designed as a story. Those two heights are the plan's own thresholds, not code numbers, and the house picks one of the two.
 
 **Code**
 
@@ -695,16 +707,18 @@ Fireblocking and draftstopping apply to combustible construction.
 
 **Simple**
 
-Concrete fails over decades for two main reasons. Water reaches the steel and rusts it, and rust takes up more room than steel, so it cracks the concrete from inside. Freeze and thaw cycles pry at any water trapped in the pores. Long-life concrete counters both. The mix holds less water, plus fly ash or slag that keeps filling the pores for years. The steel gets more concrete over it, and the curing runs a week or two instead of three days. One trade-off comes with the dense mix. In a fire it can spall, because steam cannot escape through it, and a small dose of plastic fibers gives the steam a way out.
+Concrete fails over decades for two main reasons. Water reaches the steel and rusts it, and rust takes up more room than steel, so it cracks the concrete from inside. Freeze and thaw cycles pry at any water trapped in the pores. Long-life concrete counters both. Its mix holds less water, plus fly ash or slag that keeps filling the pores for years. Its steel gets more concrete over it, and its curing runs a week or two instead of three days. One trade-off comes with the dense mix. In a fire it can spall, because steam cannot escape through it, and a small dose of plastic fibers gives the steam a way out.
 
 **Applied**
 
 1. Ask the concrete supplier for the aggregate source's alkali-silica service record and any test reports.
-2. Order an ASTM C1567 test on the actual aggregate, cement and SCM dose before the mix design is final.
-3. Raise the SCM dose or change the SCM where the test result requires it.
-4. File the result in the binder with the mix submittal.
-5. Have the engineer assign an exposure class to every element from the geotechnical report, and show it on the drawings.
-6. Specify polypropylene monofilament fibers in the fire-exposed structural elements the engineer names.
+2. Order an ASTM C1567 test on the actual aggregate, cement and SCM dose.
+3. Run it before the mix design is final.
+4. Raise the SCM dose or change the SCM where the test result requires it.
+5. File the result in the binder with the mix submittal.
+6. Have the engineer assign each element's exposure class from the geotechnical report.
+7. Show the classes on the drawings.
+8. Specify polypropylene monofilament fibers in the fire-exposed structural elements the engineer names.
 
 **Professional**
 
@@ -717,13 +731,13 @@ ACI 318-19 organizes concrete durability by exposure class, and the mix paramete
 | Water | W0, W1 in contact with water, W2 where low permeability is required | Permeability and water transmission |
 | Corrosion | C0, C1, C2 severe with chlorides | Reinforcement corrosion in chloride environments |
 
-Above grade in mild exposure, an Oregon long-life house takes F1, S0, W0 and C1. Below grade in contact with soil that may be aggressive, it takes F1 or F2, S1, W1 or W2, and C1 or C2 by the chloride exposure. Footings and below-grade walls are the elements that can reach the severe classes, and their classification comes from the geotechnical report's soil and groundwater chemistry. Above-grade walls take the mild baseline. Two elements are classified separately at design time: an exterior-exposed slab edge sits closer to the below-grade condition than to the interior baseline, and any water-retaining structure is classified on its own. A severe class does not itself call for corrosion-resistant bar. The exposure-class system is calibrated for uncoated steel with mix and cover as the primary protection, and coated or stainless bar is an added layer where the measured chloride exposure makes mix and cover insufficient for the target life, as the durability chapter sets out.
+Above grade in mild exposure, an Oregon long-life house takes F1, S0, W0 and C1. Below grade in contact with soil that may be aggressive, it takes F1 or F2, S1, W1 or W2, and C1 or C2 by the chloride exposure. Footings and below-grade walls are the elements that can reach the severe classes, and their classification comes from the geotechnical report's soil and groundwater chemistry. Above-grade walls take the mild baseline. Two elements are classified separately at design time. Exterior-exposed slab edges sit closer to the below-grade condition than to the interior baseline, and any water-retaining structure is classified on its own. Severe classes do not by themselves call for corrosion-resistant bar. ACI 318-19's class system is calibrated for uncoated steel, with mix and cover as the primary protection. Coated or stainless bar is an added layer where the measured chloride exposure makes mix and cover insufficient for the target life, as the durability chapter sets out.
 
 ### The five mechanisms
 
-Carbonation is atmospheric carbon dioxide reacting with the alkaline hydration products and lowering the pore-fluid pH. When the carbonation front reaches the bar, the passive oxide film that protects steel at high pH breaks down and ordinary corrosion begins. The rate scales with permeability, so a low-w/c, well-cured mix slows it. Chloride ions diffuse through the pore structure, and at a threshold concentration at the bar they break down the passive film locally, even without carbonation, producing pitting that is harder to detect than uniform corrosion. Low w/c and SCM densification slow the diffusion, and added cover lengthens the path.
+Carbonation is atmospheric carbon dioxide reacting with the alkaline hydration products and lowering the pore-fluid pH. When the carbonation front reaches the bar, the passive oxide film that protects steel at high pH breaks down and ordinary corrosion begins. Its rate scales with permeability, so a low-w/c, well-cured mix slows it. Chloride ions diffuse through the pore structure. At a threshold concentration at the bar they break down the passive film locally, even without carbonation, and the pitting that follows is harder to detect than uniform corrosion. Low w/c and SCM densification slow the diffusion, and added cover lengthens the path.
 
-Sulfates from soil or groundwater react with calcium aluminate hydrates to form expansive ettringite and gypsum, which crack the paste from within. That attack is on the paste, not the steel, and Type II or V cement or SCM replacement is the response for the S1 to S3 classes. In alkali-silica reaction, cement alkalis react with reactive silica in some aggregates to form a gel that absorbs water and expands, with map cracking as the classic symptom, and the reaction is aggregate-specific. Freezing water expands near 9 percent, and the hydraulic pressure fractures paste over repeated cycles. Entrained air voids give the expanding water relief space, which is the air-content requirement in the F1 to F3 classes. In the field the mechanisms couple: freeze-thaw cracking opens new chloride paths, so measured deterioration runs faster than the single-mechanism rates.
+Sulfates from soil or groundwater react with calcium aluminate hydrates to form expansive ettringite and gypsum, which crack the paste from within. That attack is on the paste, not the steel, and Type II or V cement or SCM replacement is the response for the S1 to S3 classes. In alkali-silica reaction, cement alkalis react with reactive silica in some aggregates to form a gel that absorbs water and expands. Map cracking is the classic symptom, and the reaction is aggregate-specific. Freezing water expands near 9 percent, and the hydraulic pressure fractures paste over repeated cycles. Entrained air voids give the expanding water relief space, which is the air-content requirement in the F1 to F3 classes. In the field the mechanisms couple: freeze-thaw cracking opens new chloride paths, so measured deterioration runs faster than the single-mechanism rates.
 
 | Parameter | Standard residential concrete | Long-life target on this house |
 |---|---|---|
@@ -739,11 +753,11 @@ Fly ash, slag and silica fume reduce permeability over time, raise chemical resi
 
 ### Verifying the aggregate against alkali-silica reaction
 
-Alkali-silica control is tested, never assumed. ASTM C1567 is an accelerated mortar-bar test of the project's own aggregate, cement and candidate SCM dose together, read against the standard's expansion threshold (Code below). Shafaatian and others' 2013 study of fly ash in that test put the minimum effective replacement at 15 to 35 percent by ash source, through alkali dilution and binding, reduced transport and altered gel chemistry. That range sits largely inside the fly ash and slag replacement the mix already specifies, and the overlap is not proof for this house's materials. Where the test requires a higher dose or a different SCM, the mix specification changes to match.
+Alkali-silica control is tested on this house's materials, never assumed. ASTM C1567 is an accelerated mortar-bar test of the actual aggregate, cement and candidate SCM dose together, read against the standard's expansion threshold (Code below). Shafaatian and others' 2013 study of fly ash in that test put the minimum effective replacement at 15 to 35 percent by ash source. The mechanisms were alkali dilution and binding, reduced transport and altered gel chemistry. That range sits largely inside the fly ash and slag replacement the mix already specifies, and the overlap is not proof for this house's materials. Where the test requires a higher dose or a different SCM, the mix specification changes to match.
 
 ### Fire spalling, the dense mix's trade-off
 
-Heated concrete generates internal vapor pressure as pore water vaporizes, and a low-permeability concrete cannot vent it fast enough, so a surface layer detaches violently. NIST's overview of high-strength concrete at high temperature and the 2022 critical review of fire spalling in high-strength concrete both record explosive spalling in the 250 to 400°C range, name permeability as the governing variable, and find that raising the w/c ratio reduces the risk, the opposite direction from every other durability rule. The 4,000-to-5,000 psi, 0.40-to-0.45 w/c, SCM-densified mix is therefore the susceptible profile. The exposure that matters is a structural element under sustained fire that must still carry load afterward: the structural walls and any structural floor or roof slab. The documented mitigation is polypropylene monofilament fibers at low dosage, in the low single-digit pounds per cubic yard, which melt in fire and leave fine channels that vent the vapor gradually. That is a separate application from shrinkage-control fibers, no substitute for any reinforcement, and specified for the fire-exposed structural elements the engineer names.
+Heated concrete generates internal vapor pressure as pore water vaporizes, and a low-permeability concrete cannot vent it fast enough, so a surface layer detaches violently. NIST's overview of high-strength concrete at high temperature and the 2022 critical review of fire spalling in high-strength concrete both record explosive spalling in the 250 to 400°C range. Permeability is the governing variable in both, and both find that raising the w/c ratio reduces the risk, the opposite direction from every other durability rule. This house's 4,000-to-5,000 psi, 0.40-to-0.45 w/c, SCM-densified mix is therefore the susceptible profile. Fire exposure matters at a structural element under sustained fire that must still carry load afterward, meaning the structural walls and any structural floor or roof slab. Polypropylene monofilament fibers at low dosage, in the low single-digit pounds per cubic yard, are the documented mitigation. They melt in fire and leave fine channels that vent the vapor gradually. That is a separate application from shrinkage-control fibers, no substitute for any reinforcement, and specified for the fire-exposed structural elements the engineer names.
 
 **Code**
 
@@ -761,13 +775,13 @@ An aggregate, cement and SCM combination passes the accelerated mortar-bar test 
 
 **Simple**
 
-Fibers mixed into concrete are short strands of steel or plastic spread through the whole batch. They hold closed the fine cracks that open in the first days, they toughen a floor against dropped tools, and in a fire the plastic ones melt and let steam out. What they cannot do is replace the steel bars. A bar carries a known pull along a known line, and a fiber carries a little in every direction. On this house fibers are an addition to the reinforcement in slabs and fire-exposed elements, never a substitute for it.
+Fibers mixed into concrete are short strands of steel or plastic spread through the whole batch. They hold closed the fine cracks that open in the first days, and they toughen a floor against dropped tools. In a fire the plastic ones melt and let steam out. What they cannot do is replace the steel bars. Bars carry a known pull along a known line, and fibers carry a small, unmeasured share in every direction. On this house fibers are an addition to the reinforcement in slabs and fire-exposed elements, never a substitute for it.
 
 **Professional**
 
-ACI 544.4R-18 draws the boundary. Fibers can supplement and reduce conventional reinforcement where continuous reinforcement is not essential to safety and integrity: slabs on ground, pavements, overlays, shotcrete linings, slabs on piles and some precast units. They do not replace primary flexural reinforcement in residential structural members under the code. Industrial slab-on-ground design uses fiber concrete as primary reinforcement under ACI 360R and the United Kingdom's TR 34, and ACI 318-19 admits steel fibers as minimum shear reinforcement in a narrow class of beams (Code below). For the structural shell, fibers are supplementary.
+ACI 544.4R-18 draws the boundary between the two uses. Fibers can supplement and reduce conventional reinforcement where continuous reinforcement is not essential to safety and integrity. That means slabs on ground, pavements, overlays, shotcrete linings, slabs on piles and some precast units. They do not replace primary flexural reinforcement in residential structural members under the code. Industrial slab-on-ground design uses fiber concrete as primary reinforcement under ACI 360R and the United Kingdom's TR 34. ACI 318-19 admits steel fibers as minimum shear reinforcement in a narrow class of beams (Code below). For the structural shell, fibers are supplementary.
 
-Three uses fit this house. Macro-synthetic or steel fibers at 3 to 7 pounds per cubic yard go into slabs on ground for plastic-shrinkage control, impact and abrasion resistance, and as a supplement to temperature-and-shrinkage steel, with the primary reinforcement, No. 4 at 16 inches each way in a typical residential slab, still placed as the engineer specifies. Steel fibers at 25 to 50 pounds per cubic yard serve as designed shear reinforcement only in an element the engineer designs for it. Polypropylene monofilament fibers at low dosage go into the fire-exposed structural elements for spalling mitigation. No submittal for this house states that fibers replace bars, that no reinforcing is required where fibers are used, or that fiber concrete removes the need for primary reinforcement.
+Three uses fit this house, each with a dose. Macro-synthetic or steel fibers at 3 to 7 pounds per cubic yard go into slabs on ground for plastic-shrinkage control, impact and abrasion resistance, and as a supplement to temperature-and-shrinkage steel. The primary reinforcement, No. 4 at 16 inches each way in a typical residential slab, is still placed as the engineer specifies. Steel fibers at 25 to 50 pounds per cubic yard serve as designed shear reinforcement only in an element the engineer designs for it. Polypropylene monofilament fibers at low dosage go into the fire-exposed structural elements for spalling mitigation. No submittal for this house states that fibers replace bars, that no reinforcing is required where fibers are used, or that fiber concrete removes the need for primary reinforcement.
 
 **Code**
 

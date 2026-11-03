@@ -451,7 +451,7 @@ A single rod needs a second electrode unless it tests low.
 
 **Simple**
 
-Bonding ties every piece of metal in the house together, so a fault has a short, heavy path back to the breaker. When a hot wire touches a pipe or a panel box, the bond carries the current back to the source. Then the breaker trips in a fraction of a second, instead of leaving the metal live. The wiring's neutral touches ground at one place only, the main switch outside. Any second connection downstream lets everyday neutral current wander through the pipes and the ground wires. That heats connections and makes the safety breakers trip for no reason. Water pipes, the well casing and the generator's gas line all get a bond wire to the panel.
+Bonding ties every piece of metal in the house together, so a fault has a short, heavy path back to the breaker. When a hot wire touches a pipe or a panel box, the bond carries the current back to the source. Then the breaker trips in a fraction of a second, instead of leaving the metal live. The wiring's neutral touches ground at one place only, the main switch outside. Any second connection downstream lets everyday neutral current flow through the pipes and the ground wires. That heats connections and makes the safety breakers trip for no reason. Water pipes, the well casing and the generator's gas line all get a bond wire to the panel.
 
 **Applied**
 
@@ -504,7 +504,7 @@ An intersystem bonding point sits outside the service equipment.
 
 **Simple**
 
-At the main panel a surge protector swallows the voltage spike from lightning or a utility switching event. It stops the spike before it reaches the well pump's controller and the inverter. Rural houses at the end of a long line see more spikes than a city block. Every new house gets one under the national code. Oregon left it out of its 2023 edition and makes it mandatory for permits filed from October 2027. This house installs one from the start. One costs $160 to $210 and clips in beside the main breaker. Lightning rods are a separate system that no code requires, weighed only for a hilltop or an exposed site.
+At the main panel a surge protector absorbs the voltage spike from lightning or a utility switching event. It stops the spike before it reaches the well pump's controller and the inverter. Rural houses at the end of a long line see more spikes than a city block. Every new house gets one under the national code. Oregon left it out of its 2023 edition and makes it mandatory for permits filed from October 2027. This house installs one from the start. One costs $160 to $210 and clips in beside the main breaker. Lightning rods are a separate system that no code requires, weighed only for a hilltop or an exposed site.
 
 **Applied**
 
